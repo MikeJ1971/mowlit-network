@@ -1,0 +1,1191 @@
+{
+  "data": [],
+  "directed": true,
+  "multigraph": true,
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "label": "New Testament: Yn gymeint am bot i yn gwybot yn yspys lle ny weleis am llygait, vot pop gwlat o Ruuein yd yma megis Germania uawr, a'r Almaen, Polonia Lloegr a' Phrydyn, Frainc, Llydaw Llychlyn, Iwerddon, a' rrei wrth glun y gelyn yn yr Ital a'r Yspaen, ie ac mewn ynysoedd, gorwledydd, artaloed a' broedd eraill, yn awyddus ac a mawr groeso yn derbyn gair Dyw drwy ail vlodeuat Euangel ein Arglwydd Iesu Christ, y mae yn dra salw genyf dy welet ti wlat Cembru, a vu ryw amser gyntaf, yr owrhon yn dyvot yn olaf ynghyfryw ardderchawc oruuchafieth a hynn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/54/",
+          "id": "4b088f94-f0db-4856-beb2-b978fb038926",
+          "value": "4b088f94-f0db-4856-beb2-b978fb038926",
+          "name": "4b088f94-f0db-4856-beb2-b978fb038926"
+        }
+      },
+      {
+        "data": {
+          "label": "Gruffudd Hiraethog, d. May 1564",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/363/",
+          "id": "2e544a00-12be-4498-8b34-5a26af888a5f",
+          "value": "2e544a00-12be-4498-8b34-5a26af888a5f",
+          "name": "2e544a00-12be-4498-8b34-5a26af888a5f"
+        }
+      },
+      {
+        "data": {
+          "label": "Cardiff, Central Library, Cardiff 2.39iv",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/62/",
+          "id": "3fd46b05-c1a7-4b52-bf84-d3e7dc90e998",
+          "value": "3fd46b05-c1a7-4b52-bf84-d3e7dc90e998",
+          "name": "3fd46b05-c1a7-4b52-bf84-d3e7dc90e998"
+        }
+      },
+      {
+        "data": {
+          "label": "A Dictionary in Englyshe and Welshe: Where as emongeste other sondry & manifolde good and godlye ordinaunces bothe mooste wyselye inue_n_tede & mooste effectuously performede and put in use by your grace moste noble and Redoubtede Prynce, Whereby youre Royalmes and dominions haue receauede infinitte co_m_modyties and auoyde greate displeasures and disturbaunce whyche bothe nowe disquiet other Royalmes and before your graces tyme hath also uexed thys your Royalme of Englande [...]",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/166/",
+          "id": "ff0a80c3-81d2-49c3-8ff2-191ef2f819ce",
+          "value": "ff0a80c3-81d2-49c3-8ff2-191ef2f819ce",
+          "name": "ff0a80c3-81d2-49c3-8ff2-191ef2f819ce"
+        }
+      },
+      {
+        "data": {
+          "label": "University of Oxford (University)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/519/",
+          "id": "a024562e-0fc2-44ef-af67-e4f8edb1d359",
+          "value": "a024562e-0fc2-44ef-af67-e4f8edb1d359",
+          "name": "a024562e-0fc2-44ef-af67-e4f8edb1d359"
+        }
+      },
+      {
+        "data": {
+          "label": "Ffwg Salesbury, d. 1520",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/640/",
+          "id": "b6ee7bd2-12ab-48d3-938b-eefa3c16e540",
+          "value": "b6ee7bd2-12ab-48d3-938b-eefa3c16e540",
+          "name": "b6ee7bd2-12ab-48d3-938b-eefa3c16e540"
+        }
+      },
+      {
+        "data": {
+          "label": "BL, Cotton Cleopatra B.v (i)",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/107/",
+          "id": "f3cd4058-ff93-47e9-994e-5dce815769fe",
+          "value": "f3cd4058-ff93-47e9-994e-5dce815769fe",
+          "name": "f3cd4058-ff93-47e9-994e-5dce815769fe"
+        }
+      },
+      {
+        "data": {
+          "label": "The baterie of the Popes Botereulx, commonly called the high altare: As it is a poynt of infamye in a valeant warryour to steale on his enymyes ere they be ware, or to go aboute to entrappe them, and haue them at a vauntage, vnlesse he do fyrste gyue them a notable warnyng, eyther by the thunderinge of a bombarde [...]",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/180/",
+          "id": "7d55b0fb-ca51-4ea8-9811-a8c280e3059c",
+          "value": "7d55b0fb-ca51-4ea8-9811-a8c280e3059c",
+          "name": "7d55b0fb-ca51-4ea8-9811-a8c280e3059c"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 20",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/70/",
+          "id": "4ab2edd0-e5f7-483a-a5c5-11db4baf1cc2",
+          "value": "4ab2edd0-e5f7-483a-a5c5-11db4baf1cc2",
+          "name": "4ab2edd0-e5f7-483a-a5c5-11db4baf1cc2"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Llanstephan 116",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/55/",
+          "id": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
+          "value": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
+          "name": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1"
+        }
+      },
+      {
+        "data": {
+          "label": "BL, Royal 14.A.xxiv",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/27/",
+          "id": "e8451cd5-f61d-40d8-8e89-bebc40f97cad",
+          "value": "e8451cd5-f61d-40d8-8e89-bebc40f97cad",
+          "name": "e8451cd5-f61d-40d8-8e89-bebc40f97cad"
+        }
+      },
+      {
+        "data": {
+          "label": "The descripcion of the sphere or the frame of the worlde: The Diameter of the worlde is called his Axtree, wher aboute he moueth, and the endes of the Axtree are also called the Poles of the worlde.",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/39/",
+          "id": "3450126b-ceca-43bb-9fc1-3905cd560b61",
+          "value": "3450126b-ceca-43bb-9fc1-3905cd560b61",
+          "name": "3450126b-ceca-43bb-9fc1-3905cd560b61"
+        }
+      },
+      {
+        "data": {
+          "label": "Lancashire",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/630/",
+          "id": "6ee56135-e5b1-4ef2-a5ba-e6633aed881b",
+          "value": "6ee56135-e5b1-4ef2-a5ba-e6633aed881b",
+          "name": "6ee56135-e5b1-4ef2-a5ba-e6633aed881b"
+        }
+      },
+      {
+        "data": {
+          "label": "Thavie's Inn (Inn of Chancery)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/117/",
+          "id": "18027201-57c1-48c1-9c17-d9b846d254e9",
+          "value": "18027201-57c1-48c1-9c17-d9b846d254e9",
+          "name": "18027201-57c1-48c1-9c17-d9b846d254e9"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, NLW 3024C",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/44/",
+          "id": "c9af80a6-69dd-4a6f-8b3d-9f3edd2f3d57",
+          "value": "c9af80a6-69dd-4a6f-8b3d-9f3edd2f3d57",
+          "name": "c9af80a6-69dd-4a6f-8b3d-9f3edd2f3d57"
+        }
+      },
+      {
+        "data": {
+          "label": "Oxford, Jesus College, 111",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/112/",
+          "id": "f0340e26-e291-4cb6-bfca-f8e75e9b031d",
+          "value": "f0340e26-e291-4cb6-bfca-f8e75e9b031d",
+          "name": "f0340e26-e291-4cb6-bfca-f8e75e9b031d"
+        }
+      },
+      {
+        "data": {
+          "label": "William Salesbury, d. c. 1580",
+          "type": "ego",
+          "link": "https://beta.mowlit.ac.uk/public/person/76/",
+          "id": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "value": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "name": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3"
+        }
+      },
+      {
+        "data": {
+          "label": "BL, Additional 14931",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/6/",
+          "id": "d2f7dfc3-a79e-4984-8be3-d6bcb5722f3b",
+          "value": "d2f7dfc3-a79e-4984-8be3-d6bcb5722f3b",
+          "name": "d2f7dfc3-a79e-4984-8be3-d6bcb5722f3b"
+        }
+      },
+      {
+        "data": {
+          "label": "Kynniver llith a ban: Llewychawd iachwyawl rat Deo i pawp dyn can en dyscy y ymwady ac annuwoldab a chwanteu bydol",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/202/",
+          "id": "19cc7cbd-e526-4a7a-b2d5-be4822742e75",
+          "value": "19cc7cbd-e526-4a7a-b2d5-be4822742e75",
+          "name": "19cc7cbd-e526-4a7a-b2d5-be4822742e75"
+        }
+      },
+      {
+        "data": {
+          "label": "Cae Du (Gentry house)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/316/",
+          "id": "aea830ba-40b1-4cb2-b107-6ba14a4a64cd",
+          "value": "aea830ba-40b1-4cb2-b107-6ba14a4a64cd",
+          "name": "aea830ba-40b1-4cb2-b107-6ba14a4a64cd"
+        }
+      },
+      {
+        "data": {
+          "label": "Humphrey Toye (Humphrey Toye of London), d. 1577",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/22/",
+          "id": "5f992f75-87f9-4697-8b05-75e1842c6487",
+          "value": "5f992f75-87f9-4697-8b05-75e1842c6487",
+          "name": "5f992f75-87f9-4697-8b05-75e1842c6487"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, NLW 3063E",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/45/",
+          "id": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
+          "value": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
+          "name": "e8045ca3-0fd8-47da-a8f6-651f38442d84"
+        }
+      },
+      {
+        "data": {
+          "label": "Oxford, Bodleian Library, Welsh f. 2iii",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/2/",
+          "id": "b686f902-c44b-4bb4-87d1-4cbe88962515",
+          "value": "b686f902-c44b-4bb4-87d1-4cbe88962515",
+          "name": "b686f902-c44b-4bb4-87d1-4cbe88962515"
+        }
+      },
+      {
+        "data": {
+          "label": "Plas Isaf (Gentry house)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/96/",
+          "id": "2ffb5952-6082-4f23-b78f-d0fe03abd547",
+          "value": "2ffb5952-6082-4f23-b78f-d0fe03abd547",
+          "name": "2ffb5952-6082-4f23-b78f-d0fe03abd547"
+        }
+      },
+      {
+        "data": {
+          "label": "Y Llyfr Gweddi Gyffredin",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/91/",
+          "id": "8427844b-182b-4145-80b2-21fc5ce9573e",
+          "value": "8427844b-182b-4145-80b2-21fc5ce9573e",
+          "name": "8427844b-182b-4145-80b2-21fc5ce9573e"
+        }
+      },
+      {
+        "data": {
+          "label": "Humphrey Llwyd, d. 1568",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1168/",
+          "id": "27b63ed2-0d28-432c-a374-c4d91b0b29b2",
+          "value": "27b63ed2-0d28-432c-a374-c4d91b0b29b2",
+          "name": "27b63ed2-0d28-432c-a374-c4d91b0b29b2"
+        }
+      },
+      {
+        "data": {
+          "label": "Richard Davies, d. 1581",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1158/",
+          "id": "fccf2227-f60e-48c2-a81c-1bb7d25a6ff1",
+          "value": "fccf2227-f60e-48c2-a81c-1bb7d25a6ff1",
+          "name": "fccf2227-f60e-48c2-a81c-1bb7d25a6ff1"
+        }
+      },
+      {
+        "data": {
+          "label": "Llysieulyfr",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/78/",
+          "id": "711daccd-44ea-4595-9cf1-64ba5580056a",
+          "value": "711daccd-44ea-4595-9cf1-64ba5580056a",
+          "name": "711daccd-44ea-4595-9cf1-64ba5580056a"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 30",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/331/",
+          "id": "933de628-c262-4671-b261-2e7ac167e171",
+          "value": "933de628-c262-4671-b261-2e7ac167e171",
+          "name": "933de628-c262-4671-b261-2e7ac167e171"
+        }
+      },
+      {
+        "data": {
+          "label": "Gruffydd Dwnn, d. c. 1570",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/791/",
+          "id": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "value": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "name": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe"
+        }
+      },
+      {
+        "data": {
+          "label": "Ystradmerthyr (Gentry house)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/76/",
+          "id": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "value": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "name": "274a4d0b-96c1-44b4-88e6-8812102dc661"
+        }
+      },
+      {
+        "data": {
+          "label": "Llyfr Rhetoreg",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/178/",
+          "id": "a21a2f33-b591-450a-a258-5ba13f8a4a3d",
+          "value": "a21a2f33-b591-450a-a258-5ba13f8a4a3d",
+          "name": "a21a2f33-b591-450a-a258-5ba13f8a4a3d"
+        }
+      },
+      {
+        "data": {
+          "label": "BL, Additional 14912",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/141/",
+          "id": "b155f35e-362f-48c6-9ef1-d63423c8d9ea",
+          "value": "b155f35e-362f-48c6-9ef1-d63423c8d9ea",
+          "name": "b155f35e-362f-48c6-9ef1-d63423c8d9ea"
+        }
+      },
+      {
+        "data": {
+          "label": "Bangor, Bangor University, Mostyn 17",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/9/",
+          "id": "e78d98d9-5449-4aa4-9828-24ea24d224aa",
+          "value": "e78d98d9-5449-4aa4-9828-24ea24d224aa",
+          "name": "e78d98d9-5449-4aa4-9828-24ea24d224aa"
+        }
+      },
+      {
+        "data": {
+          "label": "A briefe and a playne introduction, teachyng how to pronounce the letters in the British tong: The naturall inclination, the gentle amitie, and the feruent loue and fauoure, whych you mooste affectuouslye, entierlye, and perfitlye, do not onely owe, but haue, beare, and prose\u00adcute towarde me, my contrye, and contrye language [...]",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/141/",
+          "id": "c7989367-20fe-4246-a6b2-4f73a645cf1f",
+          "value": "c7989367-20fe-4246-a6b2-4f73a645cf1f",
+          "name": "c7989367-20fe-4246-a6b2-4f73a645cf1f"
+        }
+      },
+      {
+        "data": {
+          "label": "Catrin Llwyd, d. c. 1572",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/945/",
+          "id": "b133f405-69d3-49e8-8f03-204cd92cfa00",
+          "value": "b133f405-69d3-49e8-8f03-204cd92cfa00",
+          "name": "b133f405-69d3-49e8-8f03-204cd92cfa00"
+        }
+      },
+      {
+        "data": {
+          "label": "John Prise, d. 1555",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1109/",
+          "id": "579d735c-b423-47c1-8e45-74956264e223",
+          "value": "579d735c-b423-47c1-8e45-74956264e223",
+          "name": "579d735c-b423-47c1-8e45-74956264e223"
+        }
+      },
+      {
+        "data": {
+          "label": "Oll synnwyr pen Kembero ygyd: Abyl i pop peth ae bodlono",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/165/",
+          "id": "f54dc4db-4b76-4184-901a-9612dc4dd6a5",
+          "value": "f54dc4db-4b76-4184-901a-9612dc4dd6a5",
+          "name": "f54dc4db-4b76-4184-901a-9612dc4dd6a5"
+        }
+      },
+      {
+        "data": {
+          "label": "Abergwili (Settlement)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/420/",
+          "id": "49be4a61-bf79-45a4-84cb-08b4b877ed2f",
+          "value": "49be4a61-bf79-45a4-84cb-08b4b877ed2f",
+          "name": "49be4a61-bf79-45a4-84cb-08b4b877ed2f"
+        }
+      },
+      {
+        "data": {
+          "label": "Oxford, Bodleian Library, Welsh f.2iv",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/82/",
+          "id": "5e7326c0-b8f5-40d3-a4c9-67af5fdb49e7",
+          "value": "5e7326c0-b8f5-40d3-a4c9-67af5fdb49e7",
+          "name": "5e7326c0-b8f5-40d3-a4c9-67af5fdb49e7"
+        }
+      },
+      {
+        "data": {
+          "label": "London (Settlement)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/201/",
+          "id": "c9e01124-3c48-4bd4-b2ba-c1279837b007",
+          "value": "c9e01124-3c48-4bd4-b2ba-c1279837b007",
+          "name": "c9e01124-3c48-4bd4-b2ba-c1279837b007"
+        }
+      },
+      {
+        "data": {
+          "label": "Ban wedy i dynny air yngair o hen gyfreith Howel da / A certaine case extracte[d] out of the auncient law of Hoel da: heb law bod yn rhydd er oed hyd heddiw wrth gyfreth ddeo",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/20/",
+          "id": "7c86546d-6f2f-40db-bafe-5a3d07b8f12c",
+          "value": "7c86546d-6f2f-40db-bafe-5a3d07b8f12c",
+          "name": "7c86546d-6f2f-40db-bafe-5a3d07b8f12c"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 14",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/71/",
+          "id": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "value": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "name": "9e06f902-0271-4aea-beb9-9e956dc15e07"
+        }
+      },
+      {
+        "data": {
+          "label": "Thomas Huet, d. 19 August 1591",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/124/",
+          "id": "bb3333dd-7642-4a4d-bcde-248600d3a3c5",
+          "value": "bb3333dd-7642-4a4d-bcde-248600d3a3c5",
+          "name": "bb3333dd-7642-4a4d-bcde-248600d3a3c5"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 1",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/99/",
+          "id": "3f2207ce-ca44-4c9f-8d22-26eacdcf51b7",
+          "value": "3f2207ce-ca44-4c9f-8d22-26eacdcf51b7",
+          "name": "3f2207ce-ca44-4c9f-8d22-26eacdcf51b7"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 190",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/138/",
+          "id": "3ee3c138-fea2-44ee-bcf7-2aed3376b144",
+          "value": "3ee3c138-fea2-44ee-bcf7-2aed3376b144",
+          "name": "3ee3c138-fea2-44ee-bcf7-2aed3376b144"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, NLW 3049Di",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/125/",
+          "id": "3c20367a-9e12-44fe-bed0-a0f234fb19e2",
+          "value": "3c20367a-9e12-44fe-bed0-a0f234fb19e2",
+          "name": "3c20367a-9e12-44fe-bed0-a0f234fb19e2"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "rel_id": "5a1eebee-d9a4-4ce8-8dbd-6b9347a83f83",
+          "label": "translator",
+          "weight": 1.0,
+          "source": "4b088f94-f0db-4856-beb2-b978fb038926",
+          "target": "fccf2227-f60e-48c2-a81c-1bb7d25a6ff1",
+          "key": "5a1eebee-d9a4-4ce8-8dbd-6b9347a83f83"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a59aded3-14e4-42a4-aac4-2d42067cc2a5",
+          "label": "translator",
+          "weight": 1.0,
+          "source": "4b088f94-f0db-4856-beb2-b978fb038926",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "a59aded3-14e4-42a4-aac4-2d42067cc2a5"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "fa82285b-a36d-4a91-9d73-95b1b60f1cd8",
+          "label": "patron",
+          "weight": 1.0,
+          "source": "4b088f94-f0db-4856-beb2-b978fb038926",
+          "target": "5f992f75-87f9-4697-8b05-75e1842c6487",
+          "key": "fa82285b-a36d-4a91-9d73-95b1b60f1cd8"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "7cea1b21-8abf-47ec-929c-e1114edee9c4",
+          "label": "translator",
+          "weight": 1.0,
+          "source": "4b088f94-f0db-4856-beb2-b978fb038926",
+          "target": "bb3333dd-7642-4a4d-bcde-248600d3a3c5",
+          "key": "7cea1b21-8abf-47ec-929c-e1114edee9c4"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "e12d4f75-599f-4f1f-9e5f-e4e7ca41850e",
+          "label": "place_of_production",
+          "weight": 1.0,
+          "source": "4b088f94-f0db-4856-beb2-b978fb038926",
+          "target": "c9e01124-3c48-4bd4-b2ba-c1279837b007",
+          "key": "e12d4f75-599f-4f1f-9e5f-e4e7ca41850e"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "5512ae72-4a24-4922-bcec-433bc4f86b56",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "2e544a00-12be-4498-8b34-5a26af888a5f",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "5512ae72-4a24-4922-bcec-433bc4f86b56"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "83c19e3d-644c-4b86-b7df-bcd38f3bcdeb_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "source": "3fd46b05-c1a7-4b52-bf84-d3e7dc90e998",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "83c19e3d-644c-4b86-b7df-bcd38f3bcdeb_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "83c19e3d-644c-4b86-b7df-bcd38f3bcdeb_1",
+          "label": "author",
+          "weight": 1.0,
+          "source": "3fd46b05-c1a7-4b52-bf84-d3e7dc90e998",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "83c19e3d-644c-4b86-b7df-bcd38f3bcdeb_1"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "2ded2863-eec7-4648-aae2-8518a31e6ab5_0",
+          "label": "reader",
+          "weight": 0.7,
+          "source": "3fd46b05-c1a7-4b52-bf84-d3e7dc90e998",
+          "target": "2e544a00-12be-4498-8b34-5a26af888a5f",
+          "key": "2ded2863-eec7-4648-aae2-8518a31e6ab5_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "93d13e1a-8ec9-45aa-964c-165f76a81065",
+          "label": "associated_with",
+          "weight": 1.0,
+          "source": "3fd46b05-c1a7-4b52-bf84-d3e7dc90e998",
+          "target": "a21a2f33-b591-450a-a258-5ba13f8a4a3d",
+          "key": "93d13e1a-8ec9-45aa-964c-165f76a81065"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "330cf214-6823-441b-b92b-bc6822d65637",
+          "label": "author",
+          "weight": 1.0,
+          "source": "ff0a80c3-81d2-49c3-8ff2-191ef2f819ce",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "330cf214-6823-441b-b92b-bc6822d65637"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "1711618c-498d-41ef-9d4b-03d4819a3bdc",
+          "label": "person_a_father_of_person_b",
+          "weight": 1.0,
+          "source": "b6ee7bd2-12ab-48d3-938b-eefa3c16e540",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "1711618c-498d-41ef-9d4b-03d4819a3bdc"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "c33e5b32-45f7-4e3a-9ced-e20a4b562e89_0",
+          "label": "reader",
+          "weight": 1.0,
+          "source": "f3cd4058-ff93-47e9-994e-5dce815769fe",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "c33e5b32-45f7-4e3a-9ced-e20a4b562e89_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a8ed66a1-47e8-4ee8-877c-d60089e2c3a8",
+          "label": "author",
+          "weight": 1.0,
+          "source": "7d55b0fb-ca51-4ea8-9811-a8c280e3059c",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "a8ed66a1-47e8-4ee8-877c-d60089e2c3a8"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "096ef8fb-f8c4-4e95-a691-80ae3c3bb9ed_0",
+          "label": "reader",
+          "weight": 0.4,
+          "source": "4ab2edd0-e5f7-483a-a5c5-11db4baf1cc2",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "096ef8fb-f8c4-4e95-a691-80ae3c3bb9ed_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "7795171f-fd4f-425f-a3b7-1638d2ccdc4c_0",
+          "label": "owner",
+          "weight": 0.7,
+          "source": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
+          "target": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "key": "7795171f-fd4f-425f-a3b7-1638d2ccdc4c_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "b0424644-fe29-4e10-96e3-233fe77837f7_0",
+          "label": "reader",
+          "weight": 0.7,
+          "source": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "b0424644-fe29-4e10-96e3-233fe77837f7_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "96e7ca9d-dfcb-42da-aef2-53e9107acf45",
+          "label": "provenance",
+          "weight": 0.7,
+          "source": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
+          "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "key": "96e7ca9d-dfcb-42da-aef2-53e9107acf45"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "1949c8a2-c2f0-4d54-9370-12e73b30128b_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "source": "e8451cd5-f61d-40d8-8e89-bebc40f97cad",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "1949c8a2-c2f0-4d54-9370-12e73b30128b_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "0c422cd1-f7f1-4b72-af87-3b3c405a8fe8",
+          "label": "translator",
+          "weight": 1.0,
+          "source": "3450126b-ceca-43bb-9fc1-3905cd560b61",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "0c422cd1-f7f1-4b72-af87-3b3c405a8fe8"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "e3f6cf99-fdd8-4a8b-91ae-e697c1224636",
+          "label": "place_a_within_place_b",
+          "weight": 1.0,
+          "source": "18027201-57c1-48c1-9c17-d9b846d254e9",
+          "target": "c9e01124-3c48-4bd4-b2ba-c1279837b007",
+          "key": "e3f6cf99-fdd8-4a8b-91ae-e697c1224636"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "074e6559-a564-4d57-8cd7-88336c80ac51_0",
+          "label": "reader",
+          "weight": 0.7,
+          "source": "c9af80a6-69dd-4a6f-8b3d-9f3edd2f3d57",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "074e6559-a564-4d57-8cd7-88336c80ac51_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3da3dc18-5fcb-4a4f-923b-20efb429c537_0",
+          "label": "owner",
+          "weight": 1.0,
+          "source": "c9af80a6-69dd-4a6f-8b3d-9f3edd2f3d57",
+          "target": "fccf2227-f60e-48c2-a81c-1bb7d25a6ff1",
+          "key": "3da3dc18-5fcb-4a4f-923b-20efb429c537_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "cd4ecb66-b617-402e-8696-7925e44e706a_0",
+          "label": "reader",
+          "weight": 0.4,
+          "source": "c9af80a6-69dd-4a6f-8b3d-9f3edd2f3d57",
+          "target": "579d735c-b423-47c1-8e45-74956264e223",
+          "key": "cd4ecb66-b617-402e-8696-7925e44e706a_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "01edf78f-9b38-4c3b-a52d-b39a948b4cf8_0",
+          "label": "reader",
+          "weight": 1.0,
+          "source": "f0340e26-e291-4cb6-bfca-f8e75e9b031d",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "01edf78f-9b38-4c3b-a52d-b39a948b4cf8_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "c400fb16-49cf-4fe6-a713-7cdf7b646f86_0",
+          "label": "reader",
+          "weight": 0.7,
+          "source": "f0340e26-e291-4cb6-bfca-f8e75e9b031d",
+          "target": "579d735c-b423-47c1-8e45-74956264e223",
+          "key": "c400fb16-49cf-4fe6-a713-7cdf7b646f86_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "4eeb55b7-0452-446b-af9e-82f37b0234e2",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "fccf2227-f60e-48c2-a81c-1bb7d25a6ff1",
+          "key": "4eeb55b7-0452-446b-af9e-82f37b0234e2"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "831f335f-1b42-4c8e-b269-567a902a7b7a",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "bb3333dd-7642-4a4d-bcde-248600d3a3c5",
+          "key": "831f335f-1b42-4c8e-b269-567a902a7b7a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "e8fbe5da-28d2-4daa-bb9d-f2d16001faa0",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "5f992f75-87f9-4697-8b05-75e1842c6487",
+          "key": "e8fbe5da-28d2-4daa-bb9d-f2d16001faa0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "12518426-4db0-4069-afda-acb062ff70c5",
+          "label": "person_a_spouse_person_b",
+          "weight": 1.0,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "b133f405-69d3-49e8-8f03-204cd92cfa00",
+          "key": "12518426-4db0-4069-afda-acb062ff70c5"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "041510df-e767-4abe-8926-56540ad378c1",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "579d735c-b423-47c1-8e45-74956264e223",
+          "key": "041510df-e767-4abe-8926-56540ad378c1"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "601d73ef-5658-4b81-a63c-222cf4738697",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "27b63ed2-0d28-432c-a374-c4d91b0b29b2",
+          "key": "601d73ef-5658-4b81-a63c-222cf4738697"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "ad0fe694-7ea5-49c6-8a14-68aab023eba2",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "key": "ad0fe694-7ea5-49c6-8a14-68aab023eba2"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "824f6f34-48d6-4b24-8011-c01f100f7655",
+          "label": "originates_in",
+          "weight": 0.1,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "aea830ba-40b1-4cb2-b107-6ba14a4a64cd",
+          "key": "824f6f34-48d6-4b24-8011-c01f100f7655"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "beee3b57-fa5c-479a-9b2d-d7b112609055",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "a024562e-0fc2-44ef-af67-e4f8edb1d359",
+          "key": "beee3b57-fa5c-479a-9b2d-d7b112609055"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "28f0b3b9-070e-415a-8b73-2bee255509e1",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "18027201-57c1-48c1-9c17-d9b846d254e9",
+          "key": "28f0b3b9-070e-415a-8b73-2bee255509e1"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "31ad343c-02a9-4b8a-8996-788c243a5e4d",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "49be4a61-bf79-45a4-84cb-08b4b877ed2f",
+          "key": "31ad343c-02a9-4b8a-8996-788c243a5e4d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "8ce4c069-8d2c-4fb4-afa9-5464bc00d59b",
+          "label": "resident_in",
+          "weight": 0.1,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "c9e01124-3c48-4bd4-b2ba-c1279837b007",
+          "key": "8ce4c069-8d2c-4fb4-afa9-5464bc00d59b"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "f9f38085-19cf-45e3-ab1d-97e0a102aa1a",
+          "label": "resident_in",
+          "weight": 0.1,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "2ffb5952-6082-4f23-b78f-d0fe03abd547",
+          "key": "f9f38085-19cf-45e3-ab1d-97e0a102aa1a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a000d624-796e-45ea-992b-2741c1aaa4b5",
+          "label": "resident_in",
+          "weight": 0.1,
+          "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "target": "6ee56135-e5b1-4ef2-a5ba-e6633aed881b",
+          "key": "a000d624-796e-45ea-992b-2741c1aaa4b5"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "cbdbfc74-ffcf-42a3-a21d-19549afbf49a_0",
+          "label": "reader",
+          "weight": 1.0,
+          "source": "d2f7dfc3-a79e-4984-8be3-d6bcb5722f3b",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "cbdbfc74-ffcf-42a3-a21d-19549afbf49a_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "201eda3b-be2d-4837-9333-b19bf8eb8dee",
+          "label": "translator",
+          "weight": 1.0,
+          "source": "19cc7cbd-e526-4a7a-b2d5-be4822742e75",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "201eda3b-be2d-4837-9333-b19bf8eb8dee"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a5f6feac-c5e2-4bff-83ef-9567f033fc06_0",
+          "label": "owner",
+          "weight": 0.7,
+          "source": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
+          "target": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "key": "a5f6feac-c5e2-4bff-83ef-9567f033fc06_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "08ffd1cd-b30d-4b9c-8356-51dc583ff850_0",
+          "label": "reader",
+          "weight": 0.7,
+          "source": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "08ffd1cd-b30d-4b9c-8356-51dc583ff850_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6d2fcea1-a2c8-47bc-b0af-78cbc7cc4c0b",
+          "label": "provenance",
+          "weight": 0.7,
+          "source": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
+          "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "key": "6d2fcea1-a2c8-47bc-b0af-78cbc7cc4c0b"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "d231b389-230e-4378-bc3d-e53f888cc41f",
+          "label": "ms_a_has_part_ms_b_separated",
+          "weight": 1.0,
+          "source": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
+          "target": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
+          "key": "d231b389-230e-4378-bc3d-e53f888cc41f"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3ad40e28-997d-4c9b-8123-7c07409a345b_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "source": "b686f902-c44b-4bb4-87d1-4cbe88962515",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "3ad40e28-997d-4c9b-8123-7c07409a345b_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "2a682511-6b44-416b-946c-c93d4706995d",
+          "label": "patron",
+          "weight": 1.0,
+          "source": "8427844b-182b-4145-80b2-21fc5ce9573e",
+          "target": "5f992f75-87f9-4697-8b05-75e1842c6487",
+          "key": "2a682511-6b44-416b-946c-c93d4706995d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "8339e335-8ea9-442e-a8fb-029111d2eaf5",
+          "label": "translator",
+          "weight": 1.0,
+          "source": "8427844b-182b-4145-80b2-21fc5ce9573e",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "8339e335-8ea9-442e-a8fb-029111d2eaf5"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3f06a865-91e9-4290-b7e8-6480ad9e4897",
+          "label": "author",
+          "weight": 1.0,
+          "source": "711daccd-44ea-4595-9cf1-64ba5580056a",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "3f06a865-91e9-4290-b7e8-6480ad9e4897"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "445e194c-fe8b-465e-a3e5-72eaf7138779_0",
+          "label": "reader",
+          "weight": 1.0,
+          "source": "933de628-c262-4671-b261-2e7ac167e171",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "445e194c-fe8b-465e-a3e5-72eaf7138779_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "ed2551f8-9dc1-4851-a427-ec556666cdd7",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "ed2551f8-9dc1-4851-a427-ec556666cdd7"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "1a5702fc-3198-4962-81e8-814bdacbb7bb",
+          "label": "resident_in",
+          "weight": 0.1,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "key": "1a5702fc-3198-4962-81e8-814bdacbb7bb"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "9acf3af9-2a63-460c-96e3-fcdc4f5bf96a",
+          "label": "translator",
+          "weight": 1.0,
+          "source": "a21a2f33-b591-450a-a258-5ba13f8a4a3d",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "9acf3af9-2a63-460c-96e3-fcdc4f5bf96a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "7b1c8463-9b86-4044-a379-57f47d39d08c_0",
+          "label": "reader",
+          "weight": 1.0,
+          "source": "b155f35e-362f-48c6-9ef1-d63423c8d9ea",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "7b1c8463-9b86-4044-a379-57f47d39d08c_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "fae5648a-c570-48f8-bafa-5bafb233f80e_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "source": "e78d98d9-5449-4aa4-9828-24ea24d224aa",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "fae5648a-c570-48f8-bafa-5bafb233f80e_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "52ca8dbe-e820-4ee1-bd85-2744e35c18f5",
+          "label": "author",
+          "weight": 1.0,
+          "source": "c7989367-20fe-4246-a6b2-4f73a645cf1f",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "52ca8dbe-e820-4ee1-bd85-2744e35c18f5"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "457a3896-89ed-49e4-9cb7-33b06d8301ba",
+          "label": "place_of_production",
+          "weight": 1.0,
+          "source": "c7989367-20fe-4246-a6b2-4f73a645cf1f",
+          "target": "c9e01124-3c48-4bd4-b2ba-c1279837b007",
+          "key": "457a3896-89ed-49e4-9cb7-33b06d8301ba"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "d2d1bed6-da7e-4ae9-b16a-fa06d439df4a",
+          "label": "author",
+          "weight": 1.0,
+          "source": "f54dc4db-4b76-4184-901a-9612dc4dd6a5",
+          "target": "2e544a00-12be-4498-8b34-5a26af888a5f",
+          "key": "d2d1bed6-da7e-4ae9-b16a-fa06d439df4a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "b70fe725-654f-4d8c-972e-e05a077a749e",
+          "label": "patron",
+          "weight": 1.0,
+          "source": "f54dc4db-4b76-4184-901a-9612dc4dd6a5",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "b70fe725-654f-4d8c-972e-e05a077a749e"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "43476ee4-cf0a-4bb6-acc2-e6240afcc45c",
+          "label": "place_of_production",
+          "weight": 1.0,
+          "source": "f54dc4db-4b76-4184-901a-9612dc4dd6a5",
+          "target": "c9e01124-3c48-4bd4-b2ba-c1279837b007",
+          "key": "43476ee4-cf0a-4bb6-acc2-e6240afcc45c"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "1092ed10-e098-4086-bd77-f0cd4de77256_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "source": "5e7326c0-b8f5-40d3-a4c9-67af5fdb49e7",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "1092ed10-e098-4086-bd77-f0cd4de77256_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "eec1bb6b-7d1f-4ffb-ab89-10b45640c1ca",
+          "label": "author",
+          "weight": 1.0,
+          "source": "7c86546d-6f2f-40db-bafe-5a3d07b8f12c",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "eec1bb6b-7d1f-4ffb-ab89-10b45640c1ca"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "514919af-b48c-4f11-ac84-316c24df4d0e",
+          "label": "place_of_production",
+          "weight": 1.0,
+          "source": "7c86546d-6f2f-40db-bafe-5a3d07b8f12c",
+          "target": "c9e01124-3c48-4bd4-b2ba-c1279837b007",
+          "key": "514919af-b48c-4f11-ac84-316c24df4d0e"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "37600af4-30e8-4754-9354-0784b93c0599_0",
+          "label": "owner",
+          "weight": 0.7,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "37600af4-30e8-4754-9354-0784b93c0599_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "df60996c-d0a0-4170-909b-c02a5819750a",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "bb3333dd-7642-4a4d-bcde-248600d3a3c5",
+          "target": "fccf2227-f60e-48c2-a81c-1bb7d25a6ff1",
+          "key": "df60996c-d0a0-4170-909b-c02a5819750a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "f5b49cdd-627b-4118-bee4-6f7ee83338d0",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "bb3333dd-7642-4a4d-bcde-248600d3a3c5",
+          "target": "a024562e-0fc2-44ef-af67-e4f8edb1d359",
+          "key": "f5b49cdd-627b-4118-bee4-6f7ee83338d0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "120ff1cc-ba82-43c7-bc19-ad7763253b16_0",
+          "label": "owner",
+          "weight": 1.0,
+          "source": "3f2207ce-ca44-4c9f-8d22-26eacdcf51b7",
+          "target": "579d735c-b423-47c1-8e45-74956264e223",
+          "key": "120ff1cc-ba82-43c7-bc19-ad7763253b16_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "48d84dd2-ecb1-44d7-b0c7-33563a465a41_0",
+          "label": "reader",
+          "weight": 0.4,
+          "source": "3f2207ce-ca44-4c9f-8d22-26eacdcf51b7",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "48d84dd2-ecb1-44d7-b0c7-33563a465a41_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "688204b3-7992-4c80-9ef3-cb4120daeb44_0",
+          "label": "reader",
+          "weight": 0.4,
+          "source": "3ee3c138-fea2-44ee-bcf7-2aed3376b144",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "688204b3-7992-4c80-9ef3-cb4120daeb44_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "2920f600-0dc3-4646-9893-6621fcc35d3c_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "source": "3c20367a-9e12-44fe-bed0-a0f234fb19e2",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "2920f600-0dc3-4646-9893-6621fcc35d3c_0"
+        }
+      }
+    ]
+  }
+}

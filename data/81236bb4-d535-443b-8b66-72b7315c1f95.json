@@ -1,0 +1,781 @@
+{
+  "data": [],
+  "directed": true,
+  "multigraph": true,
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "label": "Giles Blyke",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/2064/",
+          "id": "dbcb5998-816f-4d00-95f6-b7a6b113361d",
+          "value": "dbcb5998-816f-4d00-95f6-b7a6b113361d",
+          "name": "dbcb5998-816f-4d00-95f6-b7a6b113361d"
+        }
+      },
+      {
+        "data": {
+          "label": "John Russell",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/628/",
+          "id": "5cb57592-d809-44c2-ae44-015c07d984cc",
+          "value": "5cb57592-d809-44c2-ae44-015c07d984cc",
+          "name": "5cb57592-d809-44c2-ae44-015c07d984cc"
+        }
+      },
+      {
+        "data": {
+          "label": "Gryffyth ap Reynold",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1984/",
+          "id": "b49cc07c-7e70-4f55-ba9d-00004c3e1770",
+          "value": "b49cc07c-7e70-4f55-ba9d-00004c3e1770",
+          "name": "b49cc07c-7e70-4f55-ba9d-00004c3e1770"
+        }
+      },
+      {
+        "data": {
+          "label": "Eustace ap Gwilym",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1808/",
+          "id": "d6cb9741-be7e-4e0b-8ab0-c878c81559ca",
+          "value": "d6cb9741-be7e-4e0b-8ab0-c878c81559ca",
+          "name": "d6cb9741-be7e-4e0b-8ab0-c878c81559ca"
+        }
+      },
+      {
+        "data": {
+          "label": "John Port, d. March 1540",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/948/",
+          "id": "0ad68dba-9fa5-413c-960f-5d6c1c50ebe3",
+          "value": "0ad68dba-9fa5-413c-960f-5d6c1c50ebe3",
+          "name": "0ad68dba-9fa5-413c-960f-5d6c1c50ebe3"
+        }
+      },
+      {
+        "data": {
+          "label": "Rowland Lee, d. 1543",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/962/",
+          "id": "306ec45b-b1e0-4232-94c7-328c1c4120bb",
+          "value": "306ec45b-b1e0-4232-94c7-328c1c4120bb",
+          "name": "306ec45b-b1e0-4232-94c7-328c1c4120bb"
+        }
+      },
+      {
+        "data": {
+          "label": "Robert Serient",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/575/",
+          "id": "705b971a-5dd8-414b-aa90-2425ee65267a",
+          "value": "705b971a-5dd8-414b-aa90-2425ee65267a",
+          "name": "705b971a-5dd8-414b-aa90-2425ee65267a"
+        }
+      },
+      {
+        "data": {
+          "label": "Adam Perpoynt",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/644/",
+          "id": "a5734686-426c-4853-b591-3f230e7fee46",
+          "value": "a5734686-426c-4853-b591-3f230e7fee46",
+          "name": "a5734686-426c-4853-b591-3f230e7fee46"
+        }
+      },
+      {
+        "data": {
+          "label": "John Prise, d. 1555",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1109/",
+          "id": "579d735c-b423-47c1-8e45-74956264e223",
+          "value": "579d735c-b423-47c1-8e45-74956264e223",
+          "name": "579d735c-b423-47c1-8e45-74956264e223"
+        }
+      },
+      {
+        "data": {
+          "label": "Ieuan ap Hugh ap Robert",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/3203/",
+          "id": "bf67245c-b718-44cf-ac64-b953b2d6c3e0",
+          "value": "bf67245c-b718-44cf-ac64-b953b2d6c3e0",
+          "name": "bf67245c-b718-44cf-ac64-b953b2d6c3e0"
+        }
+      },
+      {
+        "data": {
+          "label": "Thomas Hakluyt, d. 1544",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1803/",
+          "id": "0f81c333-5cc9-4045-a11c-7a8412c48565",
+          "value": "0f81c333-5cc9-4045-a11c-7a8412c48565",
+          "name": "0f81c333-5cc9-4045-a11c-7a8412c48565"
+        }
+      },
+      {
+        "data": {
+          "label": "Ludlow (Settlement)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/113/",
+          "id": "ad738c51-0d38-48bc-a654-099780d67508",
+          "value": "ad738c51-0d38-48bc-a654-099780d67508",
+          "name": "ad738c51-0d38-48bc-a654-099780d67508"
+        }
+      },
+      {
+        "data": {
+          "label": "Thomas Toy",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/2063/",
+          "id": "d4b647bf-d715-4935-bef9-e491a1e44afb",
+          "value": "d4b647bf-d715-4935-bef9-e491a1e44afb",
+          "name": "d4b647bf-d715-4935-bef9-e491a1e44afb"
+        }
+      },
+      {
+        "data": {
+          "label": "Council in the Marches",
+          "type": "ego",
+          "link": "https://beta.mowlit.ac.uk/public/institution/1/",
+          "id": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "value": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "name": "81236bb4-d535-443b-8b66-72b7315c1f95"
+        }
+      },
+      {
+        "data": {
+          "label": "John ap Jenkyn Scudmore",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1541/",
+          "id": "4c971c92-c15e-4d11-8180-b13390e114d0",
+          "value": "4c971c92-c15e-4d11-8180-b13390e114d0",
+          "name": "4c971c92-c15e-4d11-8180-b13390e114d0"
+        }
+      },
+      {
+        "data": {
+          "label": "Rhys Mansel, d. 10 April 1559",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/2471/",
+          "id": "8112de33-bf8b-4285-8879-63f7d5d19fc1",
+          "value": "8112de33-bf8b-4285-8879-63f7d5d19fc1",
+          "name": "8112de33-bf8b-4285-8879-63f7d5d19fc1"
+        }
+      },
+      {
+        "data": {
+          "label": "Alice (wife of Walter Harper)",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/2973/",
+          "id": "1a1ecb73-7a5e-4169-8183-b4b910e6a1b6",
+          "value": "1a1ecb73-7a5e-4169-8183-b4b910e6a1b6",
+          "name": "1a1ecb73-7a5e-4169-8183-b4b910e6a1b6"
+        }
+      },
+      {
+        "data": {
+          "label": "George Bromley, d. 1533",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1127/",
+          "id": "043da6a2-dfcc-45a5-944d-ce207d849d4f",
+          "value": "043da6a2-dfcc-45a5-944d-ce207d849d4f",
+          "name": "043da6a2-dfcc-45a5-944d-ce207d849d4f"
+        }
+      },
+      {
+        "data": {
+          "label": "John Lewis (of Llynwene), d. c. 1615",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/809/",
+          "id": "b3fe804d-fcb0-40ba-a62e-96abceb88fdf",
+          "value": "b3fe804d-fcb0-40ba-a62e-96abceb88fdf",
+          "name": "b3fe804d-fcb0-40ba-a62e-96abceb88fdf"
+        }
+      },
+      {
+        "data": {
+          "label": "Edward Grey, d. 2 July 1551",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/2666/",
+          "id": "2de7ac54-8586-4b60-9f70-9d7dfdd55af8",
+          "value": "2de7ac54-8586-4b60-9f70-9d7dfdd55af8",
+          "name": "2de7ac54-8586-4b60-9f70-9d7dfdd55af8"
+        }
+      },
+      {
+        "data": {
+          "label": "George Heile",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1665/",
+          "id": "7780986a-2d1b-4883-b5dc-6bb792fafffb",
+          "value": "7780986a-2d1b-4883-b5dc-6bb792fafffb",
+          "name": "7780986a-2d1b-4883-b5dc-6bb792fafffb"
+        }
+      },
+      {
+        "data": {
+          "label": "William Mann",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1543/",
+          "id": "fac5f024-92ae-4cca-83e7-ff97c340e1cf",
+          "value": "fac5f024-92ae-4cca-83e7-ff97c340e1cf",
+          "name": "fac5f024-92ae-4cca-83e7-ff97c340e1cf"
+        }
+      },
+      {
+        "data": {
+          "label": "Ellis Price, d. 1594",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/396/",
+          "id": "4a3e00d8-6839-4b00-9eb1-4f979fb219df",
+          "value": "4a3e00d8-6839-4b00-9eb1-4f979fb219df",
+          "name": "4a3e00d8-6839-4b00-9eb1-4f979fb219df"
+        }
+      },
+      {
+        "data": {
+          "label": "Ralph Egerton, d. 9 March 1528",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/598/",
+          "id": "1c304552-62d7-4f95-81ae-08af4b0de099",
+          "value": "1c304552-62d7-4f95-81ae-08af4b0de099",
+          "name": "1c304552-62d7-4f95-81ae-08af4b0de099"
+        }
+      },
+      {
+        "data": {
+          "label": "John Butler",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/426/",
+          "id": "fbdd3369-abfa-43a7-b98d-8dc108c62f1c",
+          "value": "fbdd3369-abfa-43a7-b98d-8dc108c62f1c",
+          "name": "fbdd3369-abfa-43a7-b98d-8dc108c62f1c"
+        }
+      },
+      {
+        "data": {
+          "label": "Richard Lyssen",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1460/",
+          "id": "0b955677-b5b5-4ab0-a78d-f2a590c74caa",
+          "value": "0b955677-b5b5-4ab0-a78d-f2a590c74caa",
+          "name": "0b955677-b5b5-4ab0-a78d-f2a590c74caa"
+        }
+      },
+      {
+        "data": {
+          "label": "Hugh Baker",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1899/",
+          "id": "a6d6a4c5-2e90-4fff-b173-bb868b5de740",
+          "value": "a6d6a4c5-2e90-4fff-b173-bb868b5de740",
+          "name": "a6d6a4c5-2e90-4fff-b173-bb868b5de740"
+        }
+      },
+      {
+        "data": {
+          "label": "John Edwards, d. >1547",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1966/",
+          "id": "20943d91-e101-4e04-8103-e286c02482c7",
+          "value": "20943d91-e101-4e04-8103-e286c02482c7",
+          "name": "20943d91-e101-4e04-8103-e286c02482c7"
+        }
+      },
+      {
+        "data": {
+          "label": "Holland (Manor)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/494/",
+          "id": "c483ab75-b38c-4980-9318-4a0ad2f1e64a",
+          "value": "c483ab75-b38c-4980-9318-4a0ad2f1e64a",
+          "name": "c483ab75-b38c-4980-9318-4a0ad2f1e64a"
+        }
+      },
+      {
+        "data": {
+          "label": "Thomas Cornewall",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/398/",
+          "id": "f174a4b5-9872-4560-9e13-02b0acb062ac",
+          "value": "f174a4b5-9872-4560-9e13-02b0acb062ac",
+          "name": "f174a4b5-9872-4560-9e13-02b0acb062ac"
+        }
+      },
+      {
+        "data": {
+          "label": "Thomas Williams",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1462/",
+          "id": "b2e53113-f278-4e5c-ab9e-d8091c697a94",
+          "value": "b2e53113-f278-4e5c-ab9e-d8091c697a94",
+          "name": "b2e53113-f278-4e5c-ab9e-d8091c697a94"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "rel_id": "afb4da8a-e007-4391-b82d-9ca2ee8b39e7",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "dbcb5998-816f-4d00-95f6-b7a6b113361d",
+          "target": "1c304552-62d7-4f95-81ae-08af4b0de099",
+          "key": "afb4da8a-e007-4391-b82d-9ca2ee8b39e7"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "eca86464-08d3-4c35-9ba1-73c0a3f981ab",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "dbcb5998-816f-4d00-95f6-b7a6b113361d",
+          "target": "043da6a2-dfcc-45a5-944d-ce207d849d4f",
+          "key": "eca86464-08d3-4c35-9ba1-73c0a3f981ab"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "e1ab5eb7-a42d-422b-b966-5c473cbc83bc",
+          "label": "active_in",
+          "weight": 1.0,
+          "source": "dbcb5998-816f-4d00-95f6-b7a6b113361d",
+          "target": "ad738c51-0d38-48bc-a654-099780d67508",
+          "key": "e1ab5eb7-a42d-422b-b966-5c473cbc83bc"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "f0e6ba79-454a-4d25-9767-24a7d82cd810",
+          "label": "defendant",
+          "weight": 1.0,
+          "source": "dbcb5998-816f-4d00-95f6-b7a6b113361d",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "f0e6ba79-454a-4d25-9767-24a7d82cd810"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3ab3ca72-4055-4e7a-9f01-c4d5fd40045c",
+          "label": "associated_with",
+          "weight": 0.1,
+          "source": "5cb57592-d809-44c2-ae44-015c07d984cc",
+          "target": "ad738c51-0d38-48bc-a654-099780d67508",
+          "key": "3ab3ca72-4055-4e7a-9f01-c4d5fd40045c"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "341ee90b-da24-4546-9169-d84814da6d26",
+          "label": "member",
+          "weight": 1.0,
+          "source": "5cb57592-d809-44c2-ae44-015c07d984cc",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "341ee90b-da24-4546-9169-d84814da6d26"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "c0403321-7ffb-45c3-b82e-2e5989a6f14b",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "source": "b49cc07c-7e70-4f55-ba9d-00004c3e1770",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "c0403321-7ffb-45c3-b82e-2e5989a6f14b"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "d9e3c7d5-3578-4787-b836-056baa24d77f",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "source": "d6cb9741-be7e-4e0b-8ab0-c878c81559ca",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "d9e3c7d5-3578-4787-b836-056baa24d77f"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a55800da-7d70-4049-8306-852a04ba2b26",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "0ad68dba-9fa5-413c-960f-5d6c1c50ebe3",
+          "target": "ad738c51-0d38-48bc-a654-099780d67508",
+          "key": "a55800da-7d70-4049-8306-852a04ba2b26"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6966fb17-28a4-4040-9813-3e5938b6ad25",
+          "label": "associated_with",
+          "weight": 0.1,
+          "source": "0ad68dba-9fa5-413c-960f-5d6c1c50ebe3",
+          "target": "ad738c51-0d38-48bc-a654-099780d67508",
+          "key": "6966fb17-28a4-4040-9813-3e5938b6ad25"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "b8d6346f-3b24-4544-968e-4d30cccedc79",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "0ad68dba-9fa5-413c-960f-5d6c1c50ebe3",
+          "target": "ad738c51-0d38-48bc-a654-099780d67508",
+          "key": "b8d6346f-3b24-4544-968e-4d30cccedc79"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "e1eeda00-4881-421d-b747-9415f1f53086",
+          "label": "member",
+          "weight": 1.0,
+          "source": "0ad68dba-9fa5-413c-960f-5d6c1c50ebe3",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "e1eeda00-4881-421d-b747-9415f1f53086"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "9d702d54-1ecb-4742-887a-04ae10103206",
+          "label": "president",
+          "weight": 1.0,
+          "source": "306ec45b-b1e0-4232-94c7-328c1c4120bb",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "9d702d54-1ecb-4742-887a-04ae10103206"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "770efb96-0a35-4f53-9589-b5d2a09c3ced",
+          "label": "litigant",
+          "weight": 1.0,
+          "source": "705b971a-5dd8-414b-aa90-2425ee65267a",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "770efb96-0a35-4f53-9589-b5d2a09c3ced"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "1a8b3ca2-b472-4fec-a094-71e9159bcba8",
+          "label": "litigant",
+          "weight": 1.0,
+          "source": "a5734686-426c-4853-b591-3f230e7fee46",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "1a8b3ca2-b472-4fec-a094-71e9159bcba8"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "d4fa77f4-792c-4ba5-abc4-2a3611b5539f",
+          "label": "member",
+          "weight": 1.0,
+          "source": "579d735c-b423-47c1-8e45-74956264e223",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "d4fa77f4-792c-4ba5-abc4-2a3611b5539f"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "aca8c3e8-02f3-495d-ae03-26e1c54c047b",
+          "label": "plaintiff",
+          "weight": 1.0,
+          "source": "bf67245c-b718-44cf-ac64-b953b2d6c3e0",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "aca8c3e8-02f3-495d-ae03-26e1c54c047b"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6df2b9f5-d993-4431-addd-b8d96984205f",
+          "label": "active_in",
+          "weight": 1.0,
+          "source": "0f81c333-5cc9-4045-a11c-7a8412c48565",
+          "target": "ad738c51-0d38-48bc-a654-099780d67508",
+          "key": "6df2b9f5-d993-4431-addd-b8d96984205f"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "09945eec-971d-4762-9be1-7d922cbc48d9",
+          "label": "active_in",
+          "weight": 1.0,
+          "source": "0f81c333-5cc9-4045-a11c-7a8412c48565",
+          "target": "ad738c51-0d38-48bc-a654-099780d67508",
+          "key": "09945eec-971d-4762-9be1-7d922cbc48d9"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "24192263-85d2-4d08-8a5e-94b952d99150",
+          "label": "member",
+          "weight": 1.0,
+          "source": "0f81c333-5cc9-4045-a11c-7a8412c48565",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "24192263-85d2-4d08-8a5e-94b952d99150"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "f3484280-e7e1-48e7-a450-bfdc8fd28201",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "d4b647bf-d715-4935-bef9-e491a1e44afb",
+          "target": "043da6a2-dfcc-45a5-944d-ce207d849d4f",
+          "key": "f3484280-e7e1-48e7-a450-bfdc8fd28201"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "02deb6b3-2780-4a64-8f97-00b655cdf981",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "d4b647bf-d715-4935-bef9-e491a1e44afb",
+          "target": "1c304552-62d7-4f95-81ae-08af4b0de099",
+          "key": "02deb6b3-2780-4a64-8f97-00b655cdf981"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "1a079b5a-bf14-4b85-a0e5-6ae639da8e89",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "d4b647bf-d715-4935-bef9-e491a1e44afb",
+          "target": "dbcb5998-816f-4d00-95f6-b7a6b113361d",
+          "key": "1a079b5a-bf14-4b85-a0e5-6ae639da8e89"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "bbbf87df-1e7b-4ae4-95ba-141cc0bc9673",
+          "label": "active_in",
+          "weight": 1.0,
+          "source": "d4b647bf-d715-4935-bef9-e491a1e44afb",
+          "target": "ad738c51-0d38-48bc-a654-099780d67508",
+          "key": "bbbf87df-1e7b-4ae4-95ba-141cc0bc9673"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "95f2f353-e714-462b-8337-e6ad525ab5c5",
+          "label": "plaintiff",
+          "weight": 1.0,
+          "source": "d4b647bf-d715-4935-bef9-e491a1e44afb",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "95f2f353-e714-462b-8337-e6ad525ab5c5"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "faebd736-5f35-4dbd-862e-9d9e1f6b924d",
+          "label": "associated_with",
+          "weight": 1.0,
+          "source": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "target": "ad738c51-0d38-48bc-a654-099780d67508",
+          "key": "faebd736-5f35-4dbd-862e-9d9e1f6b924d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6454a451-8c38-4e72-848a-710594aa2709",
+          "label": "associated_with",
+          "weight": 1.0,
+          "source": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "target": "c483ab75-b38c-4980-9318-4a0ad2f1e64a",
+          "key": "6454a451-8c38-4e72-848a-710594aa2709"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "c8d743ff-38d0-4b71-a987-094d761f1e6e",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "4c971c92-c15e-4d11-8180-b13390e114d0",
+          "target": "fac5f024-92ae-4cca-83e7-ff97c340e1cf",
+          "key": "c8d743ff-38d0-4b71-a987-094d761f1e6e"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "fdb4e918-6bbb-49c7-9aaa-721416add5f8",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "source": "4c971c92-c15e-4d11-8180-b13390e114d0",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "fdb4e918-6bbb-49c7-9aaa-721416add5f8"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "89f402be-c2f4-4336-bde7-5cfa453663cc",
+          "label": "member",
+          "weight": 1.0,
+          "source": "8112de33-bf8b-4285-8879-63f7d5d19fc1",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "89f402be-c2f4-4336-bde7-5cfa453663cc"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3b27d8b6-dc6c-4a8a-8091-37eac133fd2f",
+          "label": "plaintiff",
+          "weight": 1.0,
+          "source": "1a1ecb73-7a5e-4169-8183-b4b910e6a1b6",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "3b27d8b6-dc6c-4a8a-8091-37eac133fd2f"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "c380c028-5340-4310-8cfa-6d6e5de611c5",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "043da6a2-dfcc-45a5-944d-ce207d849d4f",
+          "target": "ad738c51-0d38-48bc-a654-099780d67508",
+          "key": "c380c028-5340-4310-8cfa-6d6e5de611c5"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "ddc22d41-2460-4157-a3de-fc4fb64f420a",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "043da6a2-dfcc-45a5-944d-ce207d849d4f",
+          "target": "ad738c51-0d38-48bc-a654-099780d67508",
+          "key": "ddc22d41-2460-4157-a3de-fc4fb64f420a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3a65b448-292a-4a93-8378-35dcff978878",
+          "label": "member",
+          "weight": 1.0,
+          "source": "043da6a2-dfcc-45a5-944d-ce207d849d4f",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "3a65b448-292a-4a93-8378-35dcff978878"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "f56c6f66-1113-4657-911b-3d9da232bb5a",
+          "label": "member",
+          "weight": 1.0,
+          "source": "b3fe804d-fcb0-40ba-a62e-96abceb88fdf",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "f56c6f66-1113-4657-911b-3d9da232bb5a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "e32e6748-47ca-4464-be37-03cac48c1a44",
+          "label": "defendant",
+          "weight": 1.0,
+          "source": "2de7ac54-8586-4b60-9f70-9d7dfdd55af8",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "e32e6748-47ca-4464-be37-03cac48c1a44"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3a97ac31-0d54-477f-ba89-2ea8028cddef",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "source": "7780986a-2d1b-4883-b5dc-6bb792fafffb",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "3a97ac31-0d54-477f-ba89-2ea8028cddef"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6d3176d0-080a-4e10-ac0f-79fa3d980c5e",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "source": "fac5f024-92ae-4cca-83e7-ff97c340e1cf",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "6d3176d0-080a-4e10-ac0f-79fa3d980c5e"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "90e12b93-8ed5-448d-b5c6-7d1d53b4b42d",
+          "label": "member",
+          "weight": 1.0,
+          "source": "4a3e00d8-6839-4b00-9eb1-4f979fb219df",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "90e12b93-8ed5-448d-b5c6-7d1d53b4b42d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "ec3635e2-f0c2-4d74-b12d-1ad481c04125",
+          "label": "member",
+          "weight": 1.0,
+          "source": "1c304552-62d7-4f95-81ae-08af4b0de099",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "ec3635e2-f0c2-4d74-b12d-1ad481c04125"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "8634908e-c7a4-4abc-8ded-94073a1886cd",
+          "label": "litigant",
+          "weight": 1.0,
+          "source": "fbdd3369-abfa-43a7-b98d-8dc108c62f1c",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "8634908e-c7a4-4abc-8ded-94073a1886cd"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "123d4465-4dc6-4714-a352-9cb0724e3ae1",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "source": "0b955677-b5b5-4ab0-a78d-f2a590c74caa",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "123d4465-4dc6-4714-a352-9cb0724e3ae1"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "4bd2fb59-3696-4673-982d-804e9fcceda7",
+          "label": "plaintiff",
+          "weight": 1.0,
+          "source": "a6d6a4c5-2e90-4fff-b173-bb868b5de740",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "4bd2fb59-3696-4673-982d-804e9fcceda7"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "00c2933e-d505-499c-b239-75e56b6d5d0c",
+          "label": "plaintiff",
+          "weight": 1.0,
+          "source": "20943d91-e101-4e04-8103-e286c02482c7",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "00c2933e-d505-499c-b239-75e56b6d5d0c"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "ce7ee47e-4277-4208-afbf-a3e4ce00458a",
+          "label": "member",
+          "weight": 1.0,
+          "source": "f174a4b5-9872-4560-9e13-02b0acb062ac",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "ce7ee47e-4277-4208-afbf-a3e4ce00458a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "cdc1e1ae-aa1a-44dc-9d42-dce1382f9295",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "source": "b2e53113-f278-4e5c-ab9e-d8091c697a94",
+          "target": "81236bb4-d535-443b-8b66-72b7315c1f95",
+          "key": "cdc1e1ae-aa1a-44dc-9d42-dce1382f9295"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test pages</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: "Raleway", sans-serif;
+            line-height: 1.5em;
+        }
+
+        #mowlit-network {
+            position: relative;
+            width: 100%;
+            min-height: 600px;
+        }
+
+        #mowlit-network-container {
+            position: relative;
+        }
+
+        #mowlit-network-panel {
+            position: absolute;
+            top: 0;
+            right: 0;
+            z-index: 100;
+            background-color: lightgrey;
+            padding: 1em;
+        }
+
+        #mowlit-network-layout {
+            display: flex;
+            flex-direction: column;
+        }
+
+        #mowlit-network-types {
+            display: flex;
+            flex-direction: column;
+        }
+
+        #mowlit-network-layout label {
+            display: block;
+        }
+
+        #mowlit-network-options label {
+            display: block;
+        }
+
+        #mowlit-network-types label:has(input[type="checkbox"]) {
+            padding-left: 0.4em;
+        }
+        /* Dim labels when their checkbox is disabled */
+        #mowlit-network-types label:has(input[type="checkbox"]:disabled) {
+            color: #908c8c;
+            opacity: 0.8;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+<h1>Mapping the March: experiments with network graphs</h1>
+
+<div id="entity-choice-container">
+    <label for="entity-choice">Choose an entity:</label>
+    <select id="entity-choice">
+        <option value="9ad432d4-2d5d-4330-be67-adcf4c90c3a3" selected>William Salesbury</option>
+        <option value="f33e3402-d157-4c61-856e-7b54a4ced67e">NLW, Brogyntyn I.1</option>
+        <option value="81236bb4-d535-443b-8b66-72b7315c1f95">Council in the Marches of Wales</option>
+        <option value="09f8308a-cfbe-446c-abc8-7bddd4c83369">Clun</option>
+    </select>
+</div>
+
+
+<div id="mowlit-network-container">
+    <div id="mowlit-network-panel">
+        <div id="mowlit-network-layout">
+            <label for="layout-select">Layout:</label>
+            <select id="layout-select">
+                <option value="cose-bilkent" selected>cose-bilkent</option>
+                <option value="cose">cose</option>
+                <option value="circle">circle</option>
+                <option value="concentric">concentric</option>
+                <option value="grid">grid</option>
+                <option value="fcose">fcose</option>
+                <option value="breadthfirst">breadthfirst</option>
+            </select>
+        </div>
+        <div id="mowlit-network-types">
+            <label>Entities:</label>
+            <label><input type="checkbox" name="entity_type" value="person"> Person</label>
+            <label><input type="checkbox" name="entity_type" value="manuscript"> Manuscript</label>
+            <label><input type="checkbox" name="entity_type" value="text"> Text</label>
+            <label><input type="checkbox" name="entity_type" value="place"> Place</label>
+            <label><input type="checkbox" name="entity_type" value="event"> Event</label>
+            <label><input type="checkbox" name="entity_type" value="institution"> Institution</label>
+        </div>
+        <div id="mowlit-network-options">
+            <label>Options:</label>
+            <label><input type="checkbox" name="option" value="hide_labels"> Hide relationship labels</label>
+        </div>
+        <div id="mowlit-export-options">
+            <button id="mowlit-export-png-button">Export as PNG</button>
+        </div>
+
+    </div>
+    <div id="mowlit-network"></div>
+</div>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.33.1/cytoscape.min.js"
+        integrity="sha512-kHAY8XzRfLVMcLuowdk91552RD+Nb2/1uHamfHMdLejNqlZnbEJLl1wYnsNnqIFCEZ++WaOcOlfokC6p9JWrLw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/layout-base/2.0.1/layout-base.js"
+        integrity="sha512-3QjpeCBhZ3yEArsOt12EqgfXoQjlH9RhU2o+Y7zu2G3COjWD4kbcwY0pd9ExrIwGB0RT69BEhQIKrnu2VQXhvQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/cose-base@2.2.0/cose-base.min.js"
+        integrity="sha512-9E2/oEMnwmBWUMB6BWiW6E9AAXkdjGL2ifO1/WvxzgUpzA5Hw60GVvouTuP9P/1nI0S0Utn+P/tP2je356b3dg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/cytoscape-cose-bilkent@4.1/cytoscape-cose-bilkent.min.js"
+        integrity="sha512-rnFrZzUBxle86chqLiQQk1nFklFlQz0usG+BsgEAbcKP4WaYwOnu8X6+A3IWgndFMENFXB0+GhpaIL3fBMPx5w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://unpkg.com/cytoscape-fcose/cytoscape-fcose.js"></script>
+<script src="js/network.js"></script>
+</body>
+</html>
