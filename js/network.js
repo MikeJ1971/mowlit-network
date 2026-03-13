@@ -208,7 +208,7 @@ function attachLayoutSelectorListener(cy, layoutSelect) {
     layoutSelect.addEventListener('change', handleLayoutChange);
 }
 function loadGraphData(graphId, onLoaded) {
-    const url = `/data/${graphId}.json`;
+    const url = `./data/${graphId}.json`;
     jQuery.getJSON(url, onLoaded);
 }
 function getCheckedEntityTypes() {
