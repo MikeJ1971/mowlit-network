@@ -1,0 +1,181 @@
+{
+  "data": [],
+  "directed": true,
+  "multigraph": true,
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "label": "Hereford, Cathedral Library, P.v.7",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/420/",
+          "id": "a28c5f2e-d7c4-42b3-8330-7e8b899b1d43",
+          "value": "a28c5f2e-d7c4-42b3-8330-7e8b899b1d43",
+          "name": "a28c5f2e-d7c4-42b3-8330-7e8b899b1d43"
+        }
+      },
+      {
+        "data": {
+          "label": "Oxford, Balliol College, 35A",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/226/",
+          "id": "5f559e8f-33d6-4f82-bd7d-3fdcc360e69a",
+          "value": "5f559e8f-33d6-4f82-bd7d-3fdcc360e69a",
+          "name": "5f559e8f-33d6-4f82-bd7d-3fdcc360e69a"
+        }
+      },
+      {
+        "data": {
+          "label": "Oxford, Balliol College, 150",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/229/",
+          "id": "8ca4d6c2-4ed4-483e-bfff-dc8bcfb7dd37",
+          "value": "8ca4d6c2-4ed4-483e-bfff-dc8bcfb7dd37",
+          "name": "8ca4d6c2-4ed4-483e-bfff-dc8bcfb7dd37"
+        }
+      },
+      {
+        "data": {
+          "label": "Oxford, Balliol College, 229",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/231/",
+          "id": "8aabd794-1834-46d6-9366-f13593c1c845",
+          "value": "8aabd794-1834-46d6-9366-f13593c1c845",
+          "name": "8aabd794-1834-46d6-9366-f13593c1c845"
+        }
+      },
+      {
+        "data": {
+          "label": "Balliol College, Oxford (University College)",
+          "type": "ego",
+          "link": "https://beta.mowlit.ac.uk/public/place/751/",
+          "id": "7ac42650-09a5-44a2-837b-345db9ecd16d",
+          "value": "7ac42650-09a5-44a2-837b-345db9ecd16d",
+          "name": "7ac42650-09a5-44a2-837b-345db9ecd16d"
+        }
+      },
+      {
+        "data": {
+          "label": "Oxford, Balliol College, 39",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/227/",
+          "id": "f762d29e-fa98-4c24-be0a-7e5d25179917",
+          "value": "f762d29e-fa98-4c24-be0a-7e5d25179917",
+          "name": "f762d29e-fa98-4c24-be0a-7e5d25179917"
+        }
+      },
+      {
+        "data": {
+          "label": "Oxford, Balliol College, 173B",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/230/",
+          "id": "d6b36cdb-a8bc-4f33-a82f-e21133eb8c50",
+          "value": "d6b36cdb-a8bc-4f33-a82f-e21133eb8c50",
+          "name": "d6b36cdb-a8bc-4f33-a82f-e21133eb8c50"
+        }
+      },
+      {
+        "data": {
+          "label": "Oxford, Balliol College, 40",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/228/",
+          "id": "184ee36a-2376-48cb-96c8-a0a825b08e7f",
+          "value": "184ee36a-2376-48cb-96c8-a0a825b08e7f",
+          "name": "184ee36a-2376-48cb-96c8-a0a825b08e7f"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "rel_id": "642ba13f-53be-4217-9f9c-18cf8a6ae0cf",
+          "label": "provenance",
+          "weight": 0.4,
+          "source": "a28c5f2e-d7c4-42b3-8330-7e8b899b1d43",
+          "target": "7ac42650-09a5-44a2-837b-345db9ecd16d",
+          "key": "642ba13f-53be-4217-9f9c-18cf8a6ae0cf"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "83fe4649-4bc1-4d2c-b0e0-32b819510f24",
+          "label": "provenance",
+          "weight": 1.0,
+          "source": "5f559e8f-33d6-4f82-bd7d-3fdcc360e69a",
+          "target": "7ac42650-09a5-44a2-837b-345db9ecd16d",
+          "key": "83fe4649-4bc1-4d2c-b0e0-32b819510f24"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "33f724d9-d809-46b1-b1ac-af5601323bc0",
+          "label": "provenance",
+          "weight": 1.0,
+          "source": "8ca4d6c2-4ed4-483e-bfff-dc8bcfb7dd37",
+          "target": "7ac42650-09a5-44a2-837b-345db9ecd16d",
+          "key": "33f724d9-d809-46b1-b1ac-af5601323bc0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "fe9ad0ca-795b-484e-8fe0-1aaa9f4e856b",
+          "label": "provenance",
+          "weight": 1.0,
+          "source": "8aabd794-1834-46d6-9366-f13593c1c845",
+          "target": "7ac42650-09a5-44a2-837b-345db9ecd16d",
+          "key": "fe9ad0ca-795b-484e-8fe0-1aaa9f4e856b"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3b51ec84-c3bd-4693-86bd-7737b8dc7659",
+          "label": "provenance",
+          "weight": 1.0,
+          "source": "f762d29e-fa98-4c24-be0a-7e5d25179917",
+          "target": "7ac42650-09a5-44a2-837b-345db9ecd16d",
+          "key": "3b51ec84-c3bd-4693-86bd-7737b8dc7659"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "f822ee84-3715-4a36-9cbe-c58504e435eb",
+          "label": "provenance",
+          "weight": 0.7,
+          "source": "f762d29e-fa98-4c24-be0a-7e5d25179917",
+          "target": "7ac42650-09a5-44a2-837b-345db9ecd16d",
+          "key": "f822ee84-3715-4a36-9cbe-c58504e435eb"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a060883d-b9c2-4a25-a90a-d8e75b9757b2",
+          "label": "provenance",
+          "weight": 1.0,
+          "source": "d6b36cdb-a8bc-4f33-a82f-e21133eb8c50",
+          "target": "7ac42650-09a5-44a2-837b-345db9ecd16d",
+          "key": "a060883d-b9c2-4a25-a90a-d8e75b9757b2"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "95174ad7-21e8-4143-9ba7-23792df11105",
+          "label": "provenance",
+          "weight": 1.0,
+          "source": "184ee36a-2376-48cb-96c8-a0a825b08e7f",
+          "target": "7ac42650-09a5-44a2-837b-345db9ecd16d",
+          "key": "95174ad7-21e8-4143-9ba7-23792df11105"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "0027dd0d-be21-432e-9d99-344e7fe776cb",
+          "label": "provenance",
+          "weight": 1.0,
+          "source": "184ee36a-2376-48cb-96c8-a0a825b08e7f",
+          "target": "7ac42650-09a5-44a2-837b-345db9ecd16d",
+          "key": "0027dd0d-be21-432e-9d99-344e7fe776cb"
+        }
+      }
+    ]
+  }
+}
