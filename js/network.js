@@ -12,7 +12,7 @@ const LAYOUT_SELECT_ID = 'layout-select';
 const ENTITY_FILTER_DEBOUNCE_MS = 100;
 const GRAPH_RESIZE_DEBOUNCE_MS = 120;
 const MAX_LABEL_WIDTH = 200;
-const LABEL_WIDTH_FACTOR = 5.5;
+const LABEL_WIDTH_FACTOR = 5.0;
 let activeWindowResizeHandler = null;
 let activeLayoutChangeHandler = null;
 let activeLayoutSelect = null;
@@ -53,16 +53,16 @@ const nodeTextColor = (nodeType) => {
 const layoutOptions = {
     'cose-bilkent': {
         name: 'cose-bilkent',
-        idealEdgeLength: 120,
-        nodeRepulsion: 80000,
+        idealEdgeLength: 180,
+        nodeRepulsion: 150000,
         edgeElasticity: 1,
         nestingFactor: 0.1,
-        gravity: 0.25,
-        numIter: 1000,
-        animate: true,
+        gravity: 0.15,
+        numIter: 4000,
+        animate: 'end',
         tile: true,
         randomize: false,
-        nodeDimensionsIncludeLabels: true
+        nodeDimensionsIncludeLabels: true,
     },
     cose: {
         name: 'cose',
@@ -127,34 +127,36 @@ function buildStyles() {
             selector: 'node',
             animate: true,
             style: {
-                label: 'data(label)',
+                'label': 'data(label)',
                 'background-color': (node) => nodeColor(getNodeType(node)),
-                height: '10',
-                width: (node) => getNodeLabelWidth(node),
-                color: (node) => nodeTextColor(getNodeType(node)),
-                'font-size': '10px',
-                padding: '8px',
+                'height': '10',
+                'width': (node) => getNodeLabelWidth(node),
+                'color': (node) => nodeTextColor(getNodeType(node)),
+                'font-size': '12px',
+                'padding': '12px',
+                'padding-relative-to-label': 'average',
                 'text-valign': 'center',
                 'text-halign': 'center',
                 'text-max-width': '200px',
-                shape: 'rectangle',
-                'text-wrap': 'ellipsis'
+                'shape': 'round-rectangle',
+                'text-wrap': 'ellipsis',
+                'border-width': '1px',
             }
         },
         {
             selector: 'edge',
             animate: true,
             style: {
-                width: (edge) => getEdgeWidth(edge),
+                'width': (edge) => getEdgeWidth(edge),
                 'line-color': '#636363',
                 'target-arrow-color': '#636363',
                 'target-arrow-shape': 'triangle',
                 'arrow-scale': 1.1,
                 'curve-style': 'bezier',
-                label: 'data(label)',
-                'font-size': '8px',
-                color: 'black',
-                opacity: 0.5
+                'label': 'data(label)',
+                'font-size': '10px',
+                'color': '#000000',
+                'opacity': 0.5
             }
         }
     ];
