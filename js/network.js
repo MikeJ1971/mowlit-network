@@ -1,13 +1,11 @@
 "use strict";
 const DEFAULT_LAYOUT = 'cose-bilkent';
-const DEFAULT_GRAPH_ID = '9ad432d4-2d5d-4330-be67-adcf4c90c3a3';
 const ENTITY_TYPE_SELECTOR = 'input[name="entity_type"]';
 const HIDE_LABELS_SELECTOR = 'input[name="option"][value="hide_labels"]';
 const EDGE_LABEL_VISIBLE_OPACITY = 1;
 const EDGE_LABEL_HIDDEN_OPACITY = 0;
 const EXPORT_PNG_BUTTON_ID = 'mowlit-export-png-button';
-const EXPORT_PNG_FILENAME = 'mowlit-network.png';
-const ENTITY_CHOICE_SELECT_ID = 'entity-choice';
+const EXPORT_PNG_FILE_EXTENSION = '.png';
 const NON_REMOVABLE_NODE_TYPES = new Set(['ego']);
 const GRAPH_CONTAINER_ID = 'mowlit-network';
 const LAYOUT_SELECT_ID = 'layout-select';
@@ -23,8 +21,6 @@ let activeHideLabelsChangeHandler = null;
 let activeHideLabelsCheckbox = null;
 let activeExportPngClickHandler = null;
 let activeExportPngButton = null;
-let activeEntityChoiceChangeHandler = null;
-let activeEntityChoiceSelect = null;
 let activeGraphInstance = null;
 const NODE_BACKGROUND_COLORS = {
     ego: '#000000',
@@ -313,7 +309,7 @@ function attachHideLabelsListener(cy) {
     checkbox.addEventListener('change', handleHideLabelsChange);
     handleHideLabelsChange();
 }
-function attachExportPngListener(cy) {
+function attachExportPngListener(cy, graphId) {
     const exportButton = document.getElementById(EXPORT_PNG_BUTTON_ID);
     if (!exportButton) {
         return;
@@ -329,38 +325,12 @@ function attachExportPngListener(cy) {
         });
         const link = document.createElement('a');
         link.href = pngDataUrl;
-        link.download = EXPORT_PNG_FILENAME;
+        link.download = `${graphId}${EXPORT_PNG_FILE_EXTENSION}`;
         link.click();
     };
     activeExportPngButton = exportButton;
     activeExportPngClickHandler = handleExportPngClick;
     exportButton.addEventListener('click', handleExportPngClick);
-}
-function getEntityChoiceSelect() {
-    return document.getElementById(ENTITY_CHOICE_SELECT_ID);
-}
-function getSelectedGraphId() {
-    var _a;
-    const selectedGraphId = (_a = getEntityChoiceSelect()) === null || _a === void 0 ? void 0 : _a.value;
-    if (selectedGraphId) {
-        return selectedGraphId;
-    }
-    return DEFAULT_GRAPH_ID;
-}
-function attachEntityChoiceListener() {
-    const entityChoiceSelect = getEntityChoiceSelect();
-    if (!entityChoiceSelect) {
-        return;
-    }
-    if (activeEntityChoiceSelect && activeEntityChoiceChangeHandler) {
-        activeEntityChoiceSelect.removeEventListener('change', activeEntityChoiceChangeHandler);
-    }
-    const handleEntityChoiceChange = () => {
-        createGraph(getSelectedGraphId());
-    };
-    activeEntityChoiceSelect = entityChoiceSelect;
-    activeEntityChoiceChangeHandler = handleEntityChoiceChange;
-    entityChoiceSelect.addEventListener('change', handleEntityChoiceChange);
 }
 function createGraph(graphId) {
     const layoutSelect = document.getElementById(LAYOUT_SELECT_ID);
@@ -387,14 +357,7 @@ function createGraph(graphId) {
         attachEntityTypeCheckboxListeners(cy, sourceElements, () => { var _a; return (_a = layoutSelect === null || layoutSelect === void 0 ? void 0 : layoutSelect.value) !== null && _a !== void 0 ? _a : DEFAULT_LAYOUT; });
         attachWindowResizeListener(cy, () => { var _a; return (_a = layoutSelect === null || layoutSelect === void 0 ? void 0 : layoutSelect.value) !== null && _a !== void 0 ? _a : DEFAULT_LAYOUT; });
         attachHideLabelsListener(cy);
-        attachExportPngListener(cy);
+        attachExportPngListener(cy, graphId);
     });
 }
-function create_graph(graph_id) {
-    createGraph(graph_id);
-}
-window.create_graph = create_graph;
-window.addEventListener('DOMContentLoaded', () => {
-    attachEntityChoiceListener();
-    createGraph(getSelectedGraphId());
-});
+window.create_graph = createGraph;
