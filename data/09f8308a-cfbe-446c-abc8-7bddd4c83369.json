@@ -6,92 +6,12 @@
     "nodes": [
       {
         "data": {
-          "label": "Clun (Settlement)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/640/",
-          "id": "be7212ab-fe3c-4307-b910-8327fc64d4ae",
-          "value": "be7212ab-fe3c-4307-b910-8327fc64d4ae",
-          "name": "be7212ab-fe3c-4307-b910-8327fc64d4ae"
-        }
-      },
-      {
-        "data": {
-          "label": "Madoc ap Thomas",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/410/",
-          "id": "7d478300-f0f8-422a-a857-823f1243b151",
-          "value": "7d478300-f0f8-422a-a857-823f1243b151",
-          "name": "7d478300-f0f8-422a-a857-823f1243b151"
-        }
-      },
-      {
-        "data": {
           "label": "Kempton (Township)",
           "type": "place",
           "link": "https://beta.mowlit.ac.uk/public/place/782/",
           "id": "b12b38bf-711d-4f48-a15c-a01b074ff321",
           "value": "b12b38bf-711d-4f48-a15c-a01b074ff321",
           "name": "b12b38bf-711d-4f48-a15c-a01b074ff321"
-        }
-      },
-      {
-        "data": {
-          "label": "Ieuan ap Hugin",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/1138/",
-          "id": "13d31469-526b-4ff7-abbd-e628fd4ed9ff",
-          "value": "13d31469-526b-4ff7-abbd-e628fd4ed9ff",
-          "name": "13d31469-526b-4ff7-abbd-e628fd4ed9ff"
-        }
-      },
-      {
-        "data": {
-          "label": "Richard Croft",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/1016/",
-          "id": "21fab42f-df1b-474d-86ae-ad032beea80a",
-          "value": "21fab42f-df1b-474d-86ae-ad032beea80a",
-          "name": "21fab42f-df1b-474d-86ae-ad032beea80a"
-        }
-      },
-      {
-        "data": {
-          "label": "Robert de Birton",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/1098/",
-          "id": "987eb6a3-b95d-44df-bdb2-8f20e137c490",
-          "value": "987eb6a3-b95d-44df-bdb2-8f20e137c490",
-          "name": "987eb6a3-b95d-44df-bdb2-8f20e137c490"
-        }
-      },
-      {
-        "data": {
-          "label": "William Rymay",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/2332/",
-          "id": "e797e51d-0fcd-44c8-96f3-0d2c150e402f",
-          "value": "e797e51d-0fcd-44c8-96f3-0d2c150e402f",
-          "name": "e797e51d-0fcd-44c8-96f3-0d2c150e402f"
-        }
-      },
-      {
-        "data": {
-          "label": "Richard I Fitzalan (1st Earl of Arundel), d. 9 March 1302",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/909/",
-          "id": "c4156baf-2ed7-4ac5-a53c-2ed179bb7215",
-          "value": "c4156baf-2ed7-4ac5-a53c-2ed179bb7215",
-          "name": "c4156baf-2ed7-4ac5-a53c-2ed179bb7215"
-        }
-      },
-      {
-        "data": {
-          "label": "John ap William",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/2334/",
-          "id": "7f2395ba-ff72-4219-8880-ae534aa19b57",
-          "value": "7f2395ba-ff72-4219-8880-ae534aa19b57",
-          "name": "7f2395ba-ff72-4219-8880-ae534aa19b57"
         }
       },
       {
@@ -106,62 +26,22 @@
       },
       {
         "data": {
-          "label": "Richard II Fitzalan (3rd earl of Arundel and 8th earl of Surrey), d. 24 January 1376",
+          "label": "Philip ap Madoc",
           "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/179/",
-          "id": "54d0cd7c-7a11-4119-a7cd-7f269de9cda1",
-          "value": "54d0cd7c-7a11-4119-a7cd-7f269de9cda1",
-          "name": "54d0cd7c-7a11-4119-a7cd-7f269de9cda1"
+          "link": "https://beta.mowlit.ac.uk/public/person/608/",
+          "id": "1b0812b0-781a-49dd-a364-4cc3d3054fc8",
+          "value": "1b0812b0-781a-49dd-a364-4cc3d3054fc8",
+          "name": "1b0812b0-781a-49dd-a364-4cc3d3054fc8"
         }
       },
       {
         "data": {
-          "label": "Humphrey Plowden",
+          "label": "Robert de Birton",
           "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/2416/",
-          "id": "3795e18b-6ef2-4cd1-b5cb-cb55bd03c041",
-          "value": "3795e18b-6ef2-4cd1-b5cb-cb55bd03c041",
-          "name": "3795e18b-6ef2-4cd1-b5cb-cb55bd03c041"
-        }
-      },
-      {
-        "data": {
-          "label": "Morus ap Ieuan",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/841/",
-          "id": "53bd45ab-ccf1-4a88-b16a-bb25b1aeb7aa",
-          "value": "53bd45ab-ccf1-4a88-b16a-bb25b1aeb7aa",
-          "name": "53bd45ab-ccf1-4a88-b16a-bb25b1aeb7aa"
-        }
-      },
-      {
-        "data": {
-          "label": "Owen ap Hoell ap Gruffudd",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/2039/",
-          "id": "b24dc847-fcc7-4af9-861d-3b4f82fc70f4",
-          "value": "b24dc847-fcc7-4af9-861d-3b4f82fc70f4",
-          "name": "b24dc847-fcc7-4af9-861d-3b4f82fc70f4"
-        }
-      },
-      {
-        "data": {
-          "label": "Joan ferch Richard",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/157/",
-          "id": "b5edb29a-a0cf-424c-82e2-f440fd1f5a64",
-          "value": "b5edb29a-a0cf-424c-82e2-f440fd1f5a64",
-          "name": "b5edb29a-a0cf-424c-82e2-f440fd1f5a64"
-        }
-      },
-      {
-        "data": {
-          "label": "Alson ferch Greffith",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/1099/",
-          "id": "959f45e1-dd0d-4ca6-918d-708b0f9cc8a4",
-          "value": "959f45e1-dd0d-4ca6-918d-708b0f9cc8a4",
-          "name": "959f45e1-dd0d-4ca6-918d-708b0f9cc8a4"
+          "link": "https://beta.mowlit.ac.uk/public/person/1098/",
+          "id": "987eb6a3-b95d-44df-bdb2-8f20e137c490",
+          "value": "987eb6a3-b95d-44df-bdb2-8f20e137c490",
+          "name": "987eb6a3-b95d-44df-bdb2-8f20e137c490"
         }
       },
       {
@@ -176,6 +56,36 @@
       },
       {
         "data": {
+          "label": "Madoc ap Thomas",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/410/",
+          "id": "7d478300-f0f8-422a-a857-823f1243b151",
+          "value": "7d478300-f0f8-422a-a857-823f1243b151",
+          "name": "7d478300-f0f8-422a-a857-823f1243b151"
+        }
+      },
+      {
+        "data": {
+          "label": "Ieuan ap Hugin",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1138/",
+          "id": "13d31469-526b-4ff7-abbd-e628fd4ed9ff",
+          "value": "13d31469-526b-4ff7-abbd-e628fd4ed9ff",
+          "name": "13d31469-526b-4ff7-abbd-e628fd4ed9ff"
+        }
+      },
+      {
+        "data": {
+          "label": "Joan ferch Richard",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/157/",
+          "id": "b5edb29a-a0cf-424c-82e2-f440fd1f5a64",
+          "value": "b5edb29a-a0cf-424c-82e2-f440fd1f5a64",
+          "name": "b5edb29a-a0cf-424c-82e2-f440fd1f5a64"
+        }
+      },
+      {
+        "data": {
           "label": "Thomas Dye",
           "type": "person",
           "link": "https://beta.mowlit.ac.uk/public/person/2333/",
@@ -186,22 +96,22 @@
       },
       {
         "data": {
-          "label": "Meredith ap Howel",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/493/",
-          "id": "d380ab41-83e4-4e9b-8be4-864ae293cdef",
-          "value": "d380ab41-83e4-4e9b-8be4-864ae293cdef",
-          "name": "d380ab41-83e4-4e9b-8be4-864ae293cdef"
+          "label": "Aston (Manor)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/778/",
+          "id": "9213476c-cbc2-49f2-b284-d430f7d31e52",
+          "value": "9213476c-cbc2-49f2-b284-d430f7d31e52",
+          "name": "9213476c-cbc2-49f2-b284-d430f7d31e52"
         }
       },
       {
         "data": {
-          "label": "George Bromley",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/2350/",
-          "id": "17dc154c-439f-44ed-9e71-56114118f0a2",
-          "value": "17dc154c-439f-44ed-9e71-56114118f0a2",
-          "name": "17dc154c-439f-44ed-9e71-56114118f0a2"
+          "label": "Obley (Township)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/378/",
+          "id": "59380d4f-4ad9-4b24-b3f3-57bf273af15e",
+          "value": "59380d4f-4ad9-4b24-b3f3-57bf273af15e",
+          "name": "59380d4f-4ad9-4b24-b3f3-57bf273af15e"
         }
       },
       {
@@ -226,6 +136,176 @@
       },
       {
         "data": {
+          "label": "St George's Church, Clun (Church)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/3307/",
+          "id": "b7913933-5b3d-41d0-8f02-8174e090a16a",
+          "value": "b7913933-5b3d-41d0-8f02-8174e090a16a",
+          "name": "b7913933-5b3d-41d0-8f02-8174e090a16a"
+        }
+      },
+      {
+        "data": {
+          "label": "Morus ap Ieuan",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/841/",
+          "id": "53bd45ab-ccf1-4a88-b16a-bb25b1aeb7aa",
+          "value": "53bd45ab-ccf1-4a88-b16a-bb25b1aeb7aa",
+          "name": "53bd45ab-ccf1-4a88-b16a-bb25b1aeb7aa"
+        }
+      },
+      {
+        "data": {
+          "label": "Alson ferch Greffith",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1099/",
+          "id": "959f45e1-dd0d-4ca6-918d-708b0f9cc8a4",
+          "value": "959f45e1-dd0d-4ca6-918d-708b0f9cc8a4",
+          "name": "959f45e1-dd0d-4ca6-918d-708b0f9cc8a4"
+        }
+      },
+      {
+        "data": {
+          "label": "Richard Croft",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1016/",
+          "id": "21fab42f-df1b-474d-86ae-ad032beea80a",
+          "value": "21fab42f-df1b-474d-86ae-ad032beea80a",
+          "name": "21fab42f-df1b-474d-86ae-ad032beea80a"
+        }
+      },
+      {
+        "data": {
+          "label": "Humphrey Stafford (1st Duke of Buckingham), d. 10 July 1460",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/184/",
+          "id": "16ee82a3-a428-4556-87d5-c83996d1f05b",
+          "value": "16ee82a3-a428-4556-87d5-c83996d1f05b",
+          "name": "16ee82a3-a428-4556-87d5-c83996d1f05b"
+        }
+      },
+      {
+        "data": {
+          "label": "Richard II Fitzalan (3rd earl of Arundel and 8th earl of Surrey), d. 24 January 1376",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/179/",
+          "id": "54d0cd7c-7a11-4119-a7cd-7f269de9cda1",
+          "value": "54d0cd7c-7a11-4119-a7cd-7f269de9cda1",
+          "name": "54d0cd7c-7a11-4119-a7cd-7f269de9cda1"
+        }
+      },
+      {
+        "data": {
+          "label": "Owen ap Hoell ap Gruffudd",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/2039/",
+          "id": "b24dc847-fcc7-4af9-861d-3b4f82fc70f4",
+          "value": "b24dc847-fcc7-4af9-861d-3b4f82fc70f4",
+          "name": "b24dc847-fcc7-4af9-861d-3b4f82fc70f4"
+        }
+      },
+      {
+        "data": {
+          "label": "Mathew ap Bynor",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/2376/",
+          "id": "2ad73879-b558-42fa-b950-9d62494a978a",
+          "value": "2ad73879-b558-42fa-b950-9d62494a978a",
+          "name": "2ad73879-b558-42fa-b950-9d62494a978a"
+        }
+      },
+      {
+        "data": {
+          "label": "William Drykewater",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/2340/",
+          "id": "d8868053-074c-4487-a151-d27246c41c04",
+          "value": "d8868053-074c-4487-a151-d27246c41c04",
+          "name": "d8868053-074c-4487-a151-d27246c41c04"
+        }
+      },
+      {
+        "data": {
+          "label": "Edmund Fitzalan (earl of Arundel), d. 17 November 1326",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/472/",
+          "id": "64a662aa-c134-419e-bea5-2102cbe3661a",
+          "value": "64a662aa-c134-419e-bea5-2102cbe3661a",
+          "name": "64a662aa-c134-419e-bea5-2102cbe3661a"
+        }
+      },
+      {
+        "data": {
+          "label": "John ap William",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/2334/",
+          "id": "7f2395ba-ff72-4219-8880-ae534aa19b57",
+          "value": "7f2395ba-ff72-4219-8880-ae534aa19b57",
+          "name": "7f2395ba-ff72-4219-8880-ae534aa19b57"
+        }
+      },
+      {
+        "data": {
+          "label": "Little Brampton (Area)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/776/",
+          "id": "4c9b1fbb-04ce-4560-9482-4c9d7cd16fa8",
+          "value": "4c9b1fbb-04ce-4560-9482-4c9d7cd16fa8",
+          "name": "4c9b1fbb-04ce-4560-9482-4c9d7cd16fa8"
+        }
+      },
+      {
+        "data": {
+          "label": "Richard I Fitzalan (1st Earl of Arundel), d. 9 March 1302",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/909/",
+          "id": "c4156baf-2ed7-4ac5-a53c-2ed179bb7215",
+          "value": "c4156baf-2ed7-4ac5-a53c-2ed179bb7215",
+          "name": "c4156baf-2ed7-4ac5-a53c-2ed179bb7215"
+        }
+      },
+      {
+        "data": {
+          "label": "William Fitzalan",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/2404/",
+          "id": "26ff5f9c-5df7-4af6-a956-b22b089c2164",
+          "value": "26ff5f9c-5df7-4af6-a956-b22b089c2164",
+          "name": "26ff5f9c-5df7-4af6-a956-b22b089c2164"
+        }
+      },
+      {
+        "data": {
+          "label": "John Cornewell (Sir John de Cornwall)",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/2331/",
+          "id": "63642a05-99c0-4711-afb9-5f958164b2cf",
+          "value": "63642a05-99c0-4711-afb9-5f958164b2cf",
+          "name": "63642a05-99c0-4711-afb9-5f958164b2cf"
+        }
+      },
+      {
+        "data": {
+          "label": "Hugh Cheyne",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/708/",
+          "id": "a6bccd7f-8c11-4a0c-a72c-6c091b837366",
+          "value": "a6bccd7f-8c11-4a0c-a72c-6c091b837366",
+          "name": "a6bccd7f-8c11-4a0c-a72c-6c091b837366"
+        }
+      },
+      {
+        "data": {
+          "label": "Meredith ap Howel",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/493/",
+          "id": "d380ab41-83e4-4e9b-8be4-864ae293cdef",
+          "value": "d380ab41-83e4-4e9b-8be4-864ae293cdef",
+          "name": "d380ab41-83e4-4e9b-8be4-864ae293cdef"
+        }
+      },
+      {
+        "data": {
           "label": "Bicton Castle (Castle)",
           "type": "place",
           "link": "https://beta.mowlit.ac.uk/public/place/3319/",
@@ -246,96 +326,6 @@
       },
       {
         "data": {
-          "label": "Humphrey Stafford (1st Duke of Buckingham), d. 10 July 1460",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/184/",
-          "id": "16ee82a3-a428-4556-87d5-c83996d1f05b",
-          "value": "16ee82a3-a428-4556-87d5-c83996d1f05b",
-          "name": "16ee82a3-a428-4556-87d5-c83996d1f05b"
-        }
-      },
-      {
-        "data": {
-          "label": "St George's Church, Clun (Church)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/3307/",
-          "id": "b7913933-5b3d-41d0-8f02-8174e090a16a",
-          "value": "b7913933-5b3d-41d0-8f02-8174e090a16a",
-          "name": "b7913933-5b3d-41d0-8f02-8174e090a16a"
-        }
-      },
-      {
-        "data": {
-          "label": "Edmund Fitzalan (earl of Arundel), d. 17 November 1326",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/472/",
-          "id": "64a662aa-c134-419e-bea5-2102cbe3661a",
-          "value": "64a662aa-c134-419e-bea5-2102cbe3661a",
-          "name": "64a662aa-c134-419e-bea5-2102cbe3661a"
-        }
-      },
-      {
-        "data": {
-          "label": "Little Brampton (Area)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/776/",
-          "id": "4c9b1fbb-04ce-4560-9482-4c9d7cd16fa8",
-          "value": "4c9b1fbb-04ce-4560-9482-4c9d7cd16fa8",
-          "name": "4c9b1fbb-04ce-4560-9482-4c9d7cd16fa8"
-        }
-      },
-      {
-        "data": {
-          "label": "William Fitzalan",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/2404/",
-          "id": "26ff5f9c-5df7-4af6-a956-b22b089c2164",
-          "value": "26ff5f9c-5df7-4af6-a956-b22b089c2164",
-          "name": "26ff5f9c-5df7-4af6-a956-b22b089c2164"
-        }
-      },
-      {
-        "data": {
-          "label": "Aston (Manor)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/778/",
-          "id": "9213476c-cbc2-49f2-b284-d430f7d31e52",
-          "value": "9213476c-cbc2-49f2-b284-d430f7d31e52",
-          "name": "9213476c-cbc2-49f2-b284-d430f7d31e52"
-        }
-      },
-      {
-        "data": {
-          "label": "Philip ap Madoc",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/608/",
-          "id": "1b0812b0-781a-49dd-a364-4cc3d3054fc8",
-          "value": "1b0812b0-781a-49dd-a364-4cc3d3054fc8",
-          "name": "1b0812b0-781a-49dd-a364-4cc3d3054fc8"
-        }
-      },
-      {
-        "data": {
-          "label": "Obley (Township)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/378/",
-          "id": "59380d4f-4ad9-4b24-b3f3-57bf273af15e",
-          "value": "59380d4f-4ad9-4b24-b3f3-57bf273af15e",
-          "name": "59380d4f-4ad9-4b24-b3f3-57bf273af15e"
-        }
-      },
-      {
-        "data": {
-          "label": "William Drykewater",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/2340/",
-          "id": "d8868053-074c-4487-a151-d27246c41c04",
-          "value": "d8868053-074c-4487-a151-d27246c41c04",
-          "name": "d8868053-074c-4487-a151-d27246c41c04"
-        }
-      },
-      {
-        "data": {
           "label": "Edward Croft (knight)",
           "type": "person",
           "link": "https://beta.mowlit.ac.uk/public/person/1045/",
@@ -346,12 +336,12 @@
       },
       {
         "data": {
-          "label": "Mathew ap Bynor",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/2376/",
-          "id": "2ad73879-b558-42fa-b950-9d62494a978a",
-          "value": "2ad73879-b558-42fa-b950-9d62494a978a",
-          "name": "2ad73879-b558-42fa-b950-9d62494a978a"
+          "label": "Clun (Settlement)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/640/",
+          "id": "be7212ab-fe3c-4307-b910-8327fc64d4ae",
+          "value": "be7212ab-fe3c-4307-b910-8327fc64d4ae",
+          "name": "be7212ab-fe3c-4307-b910-8327fc64d4ae"
         }
       },
       {
@@ -366,46 +356,36 @@
       },
       {
         "data": {
-          "label": "Hugh Cheyne",
+          "label": "Humphrey Plowden",
           "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/708/",
-          "id": "a6bccd7f-8c11-4a0c-a72c-6c091b837366",
-          "value": "a6bccd7f-8c11-4a0c-a72c-6c091b837366",
-          "name": "a6bccd7f-8c11-4a0c-a72c-6c091b837366"
+          "link": "https://beta.mowlit.ac.uk/public/person/2416/",
+          "id": "3795e18b-6ef2-4cd1-b5cb-cb55bd03c041",
+          "value": "3795e18b-6ef2-4cd1-b5cb-cb55bd03c041",
+          "name": "3795e18b-6ef2-4cd1-b5cb-cb55bd03c041"
         }
       },
       {
         "data": {
-          "label": "John Cornewell (Sir John de Cornwall)",
+          "label": "George Bromley",
           "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/2331/",
-          "id": "63642a05-99c0-4711-afb9-5f958164b2cf",
-          "value": "63642a05-99c0-4711-afb9-5f958164b2cf",
-          "name": "63642a05-99c0-4711-afb9-5f958164b2cf"
+          "link": "https://beta.mowlit.ac.uk/public/person/2350/",
+          "id": "17dc154c-439f-44ed-9e71-56114118f0a2",
+          "value": "17dc154c-439f-44ed-9e71-56114118f0a2",
+          "name": "17dc154c-439f-44ed-9e71-56114118f0a2"
+        }
+      },
+      {
+        "data": {
+          "label": "William Rymay",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/2332/",
+          "id": "e797e51d-0fcd-44c8-96f3-0d2c150e402f",
+          "value": "e797e51d-0fcd-44c8-96f3-0d2c150e402f",
+          "name": "e797e51d-0fcd-44c8-96f3-0d2c150e402f"
         }
       }
     ],
     "edges": [
-      {
-        "data": {
-          "rel_id": "08f4aadd-ddd5-46d6-be07-de1f1d37d799",
-          "label": "place_a_within_place_b",
-          "weight": 1.0,
-          "source": "be7212ab-fe3c-4307-b910-8327fc64d4ae",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "08f4aadd-ddd5-46d6-be07-de1f1d37d799"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "a9763597-ce72-4f64-b0ae-01a556c6cce8",
-          "label": "resident_in",
-          "weight": 0.1,
-          "source": "7d478300-f0f8-422a-a857-823f1243b151",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "a9763597-ce72-4f64-b0ae-01a556c6cce8"
-        }
-      },
       {
         "data": {
           "rel_id": "7a8d24ba-0dac-465c-a4af-21882dc4edb0",
@@ -418,52 +398,12 @@
       },
       {
         "data": {
-          "rel_id": "c8c6c3b2-fe95-486d-bd79-71b959b857ff",
-          "label": "person_a_father_of_person_b",
-          "weight": 1.0,
-          "source": "13d31469-526b-4ff7-abbd-e628fd4ed9ff",
-          "target": "19384df4-3eba-45fa-b5a3-5b3b5a17f736",
-          "key": "c8c6c3b2-fe95-486d-bd79-71b959b857ff"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "47aae471-7bf3-412f-b549-f9c3259ce6da",
-          "label": "active_in",
+          "rel_id": "57ce5033-e889-47a9-b45d-7708721ba83a",
+          "label": "resident_in",
           "weight": 0.1,
-          "source": "13d31469-526b-4ff7-abbd-e628fd4ed9ff",
+          "source": "1b0812b0-781a-49dd-a364-4cc3d3054fc8",
           "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "47aae471-7bf3-412f-b549-f9c3259ce6da"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "fcccead7-d756-4c2c-a422-4837952c7bd6",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "21fab42f-df1b-474d-86ae-ad032beea80a",
-          "target": "c329aaf4-83ac-41b1-950a-1a015a2dc784",
-          "key": "fcccead7-d756-4c2c-a422-4837952c7bd6"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "6bac04fe-ee63-47db-a9e9-7845dde788ab",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "21fab42f-df1b-474d-86ae-ad032beea80a",
-          "target": "59380d4f-4ad9-4b24-b3f3-57bf273af15e",
-          "key": "6bac04fe-ee63-47db-a9e9-7845dde788ab"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "428612ca-6144-4a4a-8c9c-68abd84ebd85",
-          "label": "steward",
-          "weight": 1.0,
-          "source": "21fab42f-df1b-474d-86ae-ad032beea80a",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "428612ca-6144-4a4a-8c9c-68abd84ebd85"
+          "key": "57ce5033-e889-47a9-b45d-7708721ba83a"
         }
       },
       {
@@ -474,126 +414,6 @@
           "source": "987eb6a3-b95d-44df-bdb2-8f20e137c490",
           "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
           "key": "547ca539-dccf-47fd-9b45-5894d460e361"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "6de215f8-9caf-43f2-86d2-eaed4cfaf40f",
-          "label": "keeper",
-          "weight": 1.0,
-          "source": "e797e51d-0fcd-44c8-96f3-0d2c150e402f",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "6de215f8-9caf-43f2-86d2-eaed4cfaf40f"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "4c2c19b5-62cc-40a5-907b-c2fa618ef74f",
-          "label": "lord",
-          "weight": 1.0,
-          "source": "c4156baf-2ed7-4ac5-a53c-2ed179bb7215",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "4c2c19b5-62cc-40a5-907b-c2fa618ef74f"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "9f4e0ddd-60c1-4c93-9987-d6679170c33d",
-          "label": "active_in",
-          "weight": 1.0,
-          "source": "7f2395ba-ff72-4219-8880-ae534aa19b57",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "9f4e0ddd-60c1-4c93-9987-d6679170c33d"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "bad1d4ad-c749-4c76-ac40-a842ebe8a71f",
-          "label": "default_associated_with",
-          "weight": 0.1,
-          "source": "54d0cd7c-7a11-4119-a7cd-7f269de9cda1",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "bad1d4ad-c749-4c76-ac40-a842ebe8a71f"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "1a1fd646-a9c1-4262-968d-5250dc76e47d",
-          "label": "receiver",
-          "weight": 1.0,
-          "source": "3795e18b-6ef2-4cd1-b5cb-cb55bd03c041",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "1a1fd646-a9c1-4262-968d-5250dc76e47d"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "53d2123d-862b-49a8-954f-5e95f51e72b3",
-          "label": "receiver",
-          "weight": 1.0,
-          "source": "3795e18b-6ef2-4cd1-b5cb-cb55bd03c041",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "53d2123d-862b-49a8-954f-5e95f51e72b3"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "6504fb04-010a-44db-8683-54db07719d94",
-          "label": "resident_in",
-          "weight": 0.1,
-          "source": "53bd45ab-ccf1-4a88-b16a-bb25b1aeb7aa",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "6504fb04-010a-44db-8683-54db07719d94"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "b6597ddc-d283-4696-90bb-869b0cdf2f9a",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "b24dc847-fcc7-4af9-861d-3b4f82fc70f4",
-          "target": "dc8b7c7d-385e-48db-addf-6bf46f889a28",
-          "key": "b6597ddc-d283-4696-90bb-869b0cdf2f9a"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "a1b8cc58-980d-486e-a3b1-81d3aecf6bae",
-          "label": "receiver",
-          "weight": 1.0,
-          "source": "b24dc847-fcc7-4af9-861d-3b4f82fc70f4",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "a1b8cc58-980d-486e-a3b1-81d3aecf6bae"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "151b9e04-71b1-46f6-93f6-728272c8e618",
-          "label": "receiver",
-          "weight": 1.0,
-          "source": "b24dc847-fcc7-4af9-861d-3b4f82fc70f4",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "151b9e04-71b1-46f6-93f6-728272c8e618"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "954eac5a-1a87-450b-b93a-fc705d5e60b5",
-          "label": "resident_in",
-          "weight": 0.1,
-          "source": "b5edb29a-a0cf-424c-82e2-f440fd1f5a64",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "954eac5a-1a87-450b-b93a-fc705d5e60b5"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "302ec55f-e957-4328-b3f7-690165c8e5f2",
-          "label": "resident_in",
-          "weight": 0.1,
-          "source": "959f45e1-dd0d-4ca6-918d-708b0f9cc8a4",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "302ec55f-e957-4328-b3f7-690165c8e5f2"
         }
       },
       {
@@ -618,6 +438,46 @@
       },
       {
         "data": {
+          "rel_id": "a9763597-ce72-4f64-b0ae-01a556c6cce8",
+          "label": "resident_in",
+          "weight": 0.1,
+          "source": "7d478300-f0f8-422a-a857-823f1243b151",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "a9763597-ce72-4f64-b0ae-01a556c6cce8"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "c8c6c3b2-fe95-486d-bd79-71b959b857ff",
+          "label": "person_a_father_of_person_b",
+          "weight": 1.0,
+          "source": "13d31469-526b-4ff7-abbd-e628fd4ed9ff",
+          "target": "19384df4-3eba-45fa-b5a3-5b3b5a17f736",
+          "key": "c8c6c3b2-fe95-486d-bd79-71b959b857ff"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "47aae471-7bf3-412f-b549-f9c3259ce6da",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "13d31469-526b-4ff7-abbd-e628fd4ed9ff",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "47aae471-7bf3-412f-b549-f9c3259ce6da"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "954eac5a-1a87-450b-b93a-fc705d5e60b5",
+          "label": "resident_in",
+          "weight": 0.1,
+          "source": "b5edb29a-a0cf-424c-82e2-f440fd1f5a64",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "954eac5a-1a87-450b-b93a-fc705d5e60b5"
+        }
+      },
+      {
+        "data": {
           "rel_id": "b83f00f1-1e9f-4119-903c-ddeb7df1209f",
           "label": "person_a_is_associated_with_person_b",
           "weight": 1.0,
@@ -638,42 +498,22 @@
       },
       {
         "data": {
-          "rel_id": "960f1b67-00f9-4f7a-8f16-759e667cf295",
-          "label": "resident_in",
-          "weight": 0.1,
-          "source": "d380ab41-83e4-4e9b-8be4-864ae293cdef",
+          "rel_id": "dd8a2ade-1068-46a5-ad63-ff5e1df14833",
+          "label": "place_a_within_place_b",
+          "weight": 1.0,
+          "source": "9213476c-cbc2-49f2-b284-d430f7d31e52",
           "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "960f1b67-00f9-4f7a-8f16-759e667cf295"
+          "key": "dd8a2ade-1068-46a5-ad63-ff5e1df14833"
         }
       },
       {
         "data": {
-          "rel_id": "bd064892-9a28-48b3-aaa3-2389efd066a7",
-          "label": "steward",
+          "rel_id": "c51a6948-b7c9-4c24-95ab-dd749d2db3ee",
+          "label": "place_a_within_place_b",
           "weight": 1.0,
-          "source": "17dc154c-439f-44ed-9e71-56114118f0a2",
+          "source": "59380d4f-4ad9-4b24-b3f3-57bf273af15e",
           "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "bd064892-9a28-48b3-aaa3-2389efd066a7"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "43ebedc6-0730-4e17-acbc-c7717bf66717",
-          "label": "steward",
-          "weight": 1.0,
-          "source": "17dc154c-439f-44ed-9e71-56114118f0a2",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "43ebedc6-0730-4e17-acbc-c7717bf66717"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "5dee2187-75e9-47a0-bbb8-b0562c0ee158",
-          "label": "steward",
-          "weight": 1.0,
-          "source": "17dc154c-439f-44ed-9e71-56114118f0a2",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "5dee2187-75e9-47a0-bbb8-b0562c0ee158"
+          "key": "c51a6948-b7c9-4c24-95ab-dd749d2db3ee"
         }
       },
       {
@@ -708,36 +548,6 @@
       },
       {
         "data": {
-          "rel_id": "159ff2f7-31d4-406b-b890-e19352711328",
-          "label": "place_a_within_place_b",
-          "weight": 1.0,
-          "source": "550cbfbc-b07d-4c53-9ec0-38e66b0bec23",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "159ff2f7-31d4-406b-b890-e19352711328"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "8126d164-4af2-4244-9882-3ac7fc402a21",
-          "label": "chief_forester",
-          "weight": 0.1,
-          "source": "aecfa69b-f40e-416e-9884-c391bca1edaa",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "8126d164-4af2-4244-9882-3ac7fc402a21"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "e13d9bd8-0968-465e-9bcc-22199c969b60",
-          "label": "lord",
-          "weight": 0.1,
-          "source": "16ee82a3-a428-4556-87d5-c83996d1f05b",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "e13d9bd8-0968-465e-9bcc-22199c969b60"
-        }
-      },
-      {
-        "data": {
           "rel_id": "bdd2e0cc-f28f-4090-b26b-9879303f636c",
           "label": "place_a_within_place_b",
           "weight": 1.0,
@@ -754,6 +564,126 @@
           "source": "b7913933-5b3d-41d0-8f02-8174e090a16a",
           "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
           "key": "e47cabd6-e185-4ee0-a8a7-55daea39fd74"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6504fb04-010a-44db-8683-54db07719d94",
+          "label": "resident_in",
+          "weight": 0.1,
+          "source": "53bd45ab-ccf1-4a88-b16a-bb25b1aeb7aa",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "6504fb04-010a-44db-8683-54db07719d94"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "302ec55f-e957-4328-b3f7-690165c8e5f2",
+          "label": "resident_in",
+          "weight": 0.1,
+          "source": "959f45e1-dd0d-4ca6-918d-708b0f9cc8a4",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "302ec55f-e957-4328-b3f7-690165c8e5f2"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "fcccead7-d756-4c2c-a422-4837952c7bd6",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "21fab42f-df1b-474d-86ae-ad032beea80a",
+          "target": "c329aaf4-83ac-41b1-950a-1a015a2dc784",
+          "key": "fcccead7-d756-4c2c-a422-4837952c7bd6"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6bac04fe-ee63-47db-a9e9-7845dde788ab",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "21fab42f-df1b-474d-86ae-ad032beea80a",
+          "target": "59380d4f-4ad9-4b24-b3f3-57bf273af15e",
+          "key": "6bac04fe-ee63-47db-a9e9-7845dde788ab"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "428612ca-6144-4a4a-8c9c-68abd84ebd85",
+          "label": "steward",
+          "weight": 1.0,
+          "source": "21fab42f-df1b-474d-86ae-ad032beea80a",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "428612ca-6144-4a4a-8c9c-68abd84ebd85"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "e13d9bd8-0968-465e-9bcc-22199c969b60",
+          "label": "lord",
+          "weight": 0.1,
+          "source": "16ee82a3-a428-4556-87d5-c83996d1f05b",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "e13d9bd8-0968-465e-9bcc-22199c969b60"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "bad1d4ad-c749-4c76-ac40-a842ebe8a71f",
+          "label": "default_associated_with",
+          "weight": 0.1,
+          "source": "54d0cd7c-7a11-4119-a7cd-7f269de9cda1",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "bad1d4ad-c749-4c76-ac40-a842ebe8a71f"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "b6597ddc-d283-4696-90bb-869b0cdf2f9a",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "source": "b24dc847-fcc7-4af9-861d-3b4f82fc70f4",
+          "target": "dc8b7c7d-385e-48db-addf-6bf46f889a28",
+          "key": "b6597ddc-d283-4696-90bb-869b0cdf2f9a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a1b8cc58-980d-486e-a3b1-81d3aecf6bae",
+          "label": "receiver",
+          "weight": 1.0,
+          "source": "b24dc847-fcc7-4af9-861d-3b4f82fc70f4",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "a1b8cc58-980d-486e-a3b1-81d3aecf6bae"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "151b9e04-71b1-46f6-93f6-728272c8e618",
+          "label": "receiver",
+          "weight": 1.0,
+          "source": "b24dc847-fcc7-4af9-861d-3b4f82fc70f4",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "151b9e04-71b1-46f6-93f6-728272c8e618"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "bf87a4e3-e33d-483a-8cff-a863833edd52",
+          "label": "active_in",
+          "weight": 1.0,
+          "source": "2ad73879-b558-42fa-b950-9d62494a978a",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "bf87a4e3-e33d-483a-8cff-a863833edd52"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "95135afe-fcf4-4eb2-b3b1-bcfa48fe84ba",
+          "label": "chief_forester",
+          "weight": 1.0,
+          "source": "d8868053-074c-4487-a151-d27246c41c04",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "95135afe-fcf4-4eb2-b3b1-bcfa48fe84ba"
         }
       },
       {
@@ -778,6 +708,16 @@
       },
       {
         "data": {
+          "rel_id": "9f4e0ddd-60c1-4c93-9987-d6679170c33d",
+          "label": "active_in",
+          "weight": 1.0,
+          "source": "7f2395ba-ff72-4219-8880-ae534aa19b57",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "9f4e0ddd-60c1-4c93-9987-d6679170c33d"
+        }
+      },
+      {
+        "data": {
           "rel_id": "97337ba9-e4eb-4041-b911-ddc0c8be1db5",
           "label": "place_a_within_place_b",
           "weight": 1.0,
@@ -788,92 +728,22 @@
       },
       {
         "data": {
+          "rel_id": "4c2c19b5-62cc-40a5-907b-c2fa618ef74f",
+          "label": "lord",
+          "weight": 1.0,
+          "source": "c4156baf-2ed7-4ac5-a53c-2ed179bb7215",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "4c2c19b5-62cc-40a5-907b-c2fa618ef74f"
+        }
+      },
+      {
+        "data": {
           "rel_id": "d92b1dc2-d4e8-4210-a6b3-ce61ba288a75",
           "label": "lord",
           "weight": 1.0,
           "source": "26ff5f9c-5df7-4af6-a956-b22b089c2164",
           "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
           "key": "d92b1dc2-d4e8-4210-a6b3-ce61ba288a75"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "dd8a2ade-1068-46a5-ad63-ff5e1df14833",
-          "label": "place_a_within_place_b",
-          "weight": 1.0,
-          "source": "9213476c-cbc2-49f2-b284-d430f7d31e52",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "dd8a2ade-1068-46a5-ad63-ff5e1df14833"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "57ce5033-e889-47a9-b45d-7708721ba83a",
-          "label": "resident_in",
-          "weight": 0.1,
-          "source": "1b0812b0-781a-49dd-a364-4cc3d3054fc8",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "57ce5033-e889-47a9-b45d-7708721ba83a"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "c51a6948-b7c9-4c24-95ab-dd749d2db3ee",
-          "label": "place_a_within_place_b",
-          "weight": 1.0,
-          "source": "59380d4f-4ad9-4b24-b3f3-57bf273af15e",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "c51a6948-b7c9-4c24-95ab-dd749d2db3ee"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "95135afe-fcf4-4eb2-b3b1-bcfa48fe84ba",
-          "label": "chief_forester",
-          "weight": 1.0,
-          "source": "d8868053-074c-4487-a151-d27246c41c04",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "95135afe-fcf4-4eb2-b3b1-bcfa48fe84ba"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "0e51b439-1275-406f-a1c8-a471216dbed4",
-          "label": "active_in",
-          "weight": 1.0,
-          "source": "c329aaf4-83ac-41b1-950a-1a015a2dc784",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "0e51b439-1275-406f-a1c8-a471216dbed4"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "bf87a4e3-e33d-483a-8cff-a863833edd52",
-          "label": "active_in",
-          "weight": 1.0,
-          "source": "2ad73879-b558-42fa-b950-9d62494a978a",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "bf87a4e3-e33d-483a-8cff-a863833edd52"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "c0ebc2e4-aee2-421c-a297-54485923f1d6",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "19384df4-3eba-45fa-b5a3-5b3b5a17f736",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "c0ebc2e4-aee2-421c-a297-54485923f1d6"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "c390802e-5613-4205-ad8f-47999db8ac1b",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "a6bccd7f-8c11-4a0c-a72c-6c091b837366",
-          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
-          "key": "c390802e-5613-4205-ad8f-47999db8ac1b"
         }
       },
       {
@@ -894,6 +764,136 @@
           "source": "63642a05-99c0-4711-afb9-5f958164b2cf",
           "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
           "key": "66310173-4ebf-423c-8a63-5dc540db4257"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "c390802e-5613-4205-ad8f-47999db8ac1b",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "a6bccd7f-8c11-4a0c-a72c-6c091b837366",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "c390802e-5613-4205-ad8f-47999db8ac1b"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "960f1b67-00f9-4f7a-8f16-759e667cf295",
+          "label": "resident_in",
+          "weight": 0.1,
+          "source": "d380ab41-83e4-4e9b-8be4-864ae293cdef",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "960f1b67-00f9-4f7a-8f16-759e667cf295"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "159ff2f7-31d4-406b-b890-e19352711328",
+          "label": "place_a_within_place_b",
+          "weight": 1.0,
+          "source": "550cbfbc-b07d-4c53-9ec0-38e66b0bec23",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "159ff2f7-31d4-406b-b890-e19352711328"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "8126d164-4af2-4244-9882-3ac7fc402a21",
+          "label": "chief_forester",
+          "weight": 0.1,
+          "source": "aecfa69b-f40e-416e-9884-c391bca1edaa",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "8126d164-4af2-4244-9882-3ac7fc402a21"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "0e51b439-1275-406f-a1c8-a471216dbed4",
+          "label": "active_in",
+          "weight": 1.0,
+          "source": "c329aaf4-83ac-41b1-950a-1a015a2dc784",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "0e51b439-1275-406f-a1c8-a471216dbed4"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "08f4aadd-ddd5-46d6-be07-de1f1d37d799",
+          "label": "place_a_within_place_b",
+          "weight": 1.0,
+          "source": "be7212ab-fe3c-4307-b910-8327fc64d4ae",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "08f4aadd-ddd5-46d6-be07-de1f1d37d799"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "c0ebc2e4-aee2-421c-a297-54485923f1d6",
+          "label": "active_in",
+          "weight": 0.1,
+          "source": "19384df4-3eba-45fa-b5a3-5b3b5a17f736",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "c0ebc2e4-aee2-421c-a297-54485923f1d6"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "1a1fd646-a9c1-4262-968d-5250dc76e47d",
+          "label": "receiver",
+          "weight": 1.0,
+          "source": "3795e18b-6ef2-4cd1-b5cb-cb55bd03c041",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "1a1fd646-a9c1-4262-968d-5250dc76e47d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "53d2123d-862b-49a8-954f-5e95f51e72b3",
+          "label": "receiver",
+          "weight": 1.0,
+          "source": "3795e18b-6ef2-4cd1-b5cb-cb55bd03c041",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "53d2123d-862b-49a8-954f-5e95f51e72b3"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "bd064892-9a28-48b3-aaa3-2389efd066a7",
+          "label": "steward",
+          "weight": 1.0,
+          "source": "17dc154c-439f-44ed-9e71-56114118f0a2",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "bd064892-9a28-48b3-aaa3-2389efd066a7"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "43ebedc6-0730-4e17-acbc-c7717bf66717",
+          "label": "steward",
+          "weight": 1.0,
+          "source": "17dc154c-439f-44ed-9e71-56114118f0a2",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "43ebedc6-0730-4e17-acbc-c7717bf66717"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "5dee2187-75e9-47a0-bbb8-b0562c0ee158",
+          "label": "steward",
+          "weight": 1.0,
+          "source": "17dc154c-439f-44ed-9e71-56114118f0a2",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "5dee2187-75e9-47a0-bbb8-b0562c0ee158"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6de215f8-9caf-43f2-86d2-eaed4cfaf40f",
+          "label": "keeper",
+          "weight": 1.0,
+          "source": "e797e51d-0fcd-44c8-96f3-0d2c150e402f",
+          "target": "09f8308a-cfbe-446c-abc8-7bddd4c83369",
+          "key": "6de215f8-9caf-43f2-86d2-eaed4cfaf40f"
         }
       }
     ]
