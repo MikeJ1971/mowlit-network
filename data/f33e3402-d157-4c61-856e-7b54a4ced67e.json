@@ -6,282 +6,82 @@
     "nodes": [
       {
         "data": {
-          "label": "Yr het fedw: Yr het fedw, da y'th gedwir",
+          "label": "Cywydd i wagedd ac oferedd y byd: Pruddlawn ydyw'r corff priddlyd",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/138/",
-          "id": "3f5666aa-09b8-4f10-b3e9-1b5ec9ab1496",
-          "value": "3f5666aa-09b8-4f10-b3e9-1b5ec9ab1496",
-          "name": "3f5666aa-09b8-4f10-b3e9-1b5ec9ab1496"
+          "link": "https://beta.mowlit.ac.uk/public/text/37/",
+          "id": "f60728eb-5b6e-4880-8ec2-52394ffb8e2e",
+          "value": "f60728eb-5b6e-4880-8ec2-52394ffb8e2e",
+          "name": "f60728eb-5b6e-4880-8ec2-52394ffb8e2e"
         }
       },
       {
         "data": {
-          "label": "I ferch: Prydd wyf vel i parai ddyn",
+          "label": "Ymryson y corff a'r enaid",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/155/",
-          "id": "52e49326-a121-4686-b064-c207b29dfc62",
-          "value": "52e49326-a121-4686-b064-c207b29dfc62",
-          "name": "52e49326-a121-4686-b064-c207b29dfc62"
+          "link": "https://beta.mowlit.ac.uk/public/text/77/",
+          "id": "ae52d500-287f-4bd3-b6f9-92cd0580dd87",
+          "value": "ae52d500-287f-4bd3-b6f9-92cd0580dd87",
+          "name": "ae52d500-287f-4bd3-b6f9-92cd0580dd87"
         }
       },
       {
         "data": {
-          "label": "William Lloyd (son of Oliver Lloyd)",
+          "label": "Mynachlog yr Ysbryd Gl\u00e2n: Llyma lyfr a ddywed am y lle a elwir Manachlog yr Ysbryd Gl\u00e2n, yr hon a seiliwyd drwy L\u00e2n Gydwybod.",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/222/",
+          "id": "d840e785-01b8-48f5-8d68-ad63c352d328",
+          "value": "d840e785-01b8-48f5-8d68-ad63c352d328",
+          "name": "d840e785-01b8-48f5-8d68-ad63c352d328"
+        }
+      },
+      {
+        "data": {
+          "label": "Owen ap Moris ap Moris",
           "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/335/",
-          "id": "df291738-42d2-4e0b-ad27-ead612e12f92",
-          "value": "df291738-42d2-4e0b-ad27-ead612e12f92",
-          "name": "df291738-42d2-4e0b-ad27-ead612e12f92"
+          "link": "https://beta.mowlit.ac.uk/public/person/702/",
+          "id": "c09cebe2-f6a0-4d53-9598-052a47250c15",
+          "value": "c09cebe2-f6a0-4d53-9598-052a47250c15",
+          "name": "c09cebe2-f6a0-4d53-9598-052a47250c15"
         }
       },
       {
         "data": {
-          "label": "Cerdd ddarogan: Wyf bard o varddawyd",
+          "label": "I ofyn tarw coch gan Risiart ap Siancyn Twrberfil o Landudwg: Edwart a\u2019i w\u0177r \u00e2i drwy\u2019r t\u00e2n",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/128/",
-          "id": "e097448c-b2c8-4f85-8c59-91b8ed6738da",
-          "value": "e097448c-b2c8-4f85-8c59-91b8ed6738da",
-          "name": "e097448c-b2c8-4f85-8c59-91b8ed6738da"
+          "link": "https://beta.mowlit.ac.uk/public/text/32/",
+          "id": "dc21b02c-9a8f-41ca-a1b3-b29400d4e599",
+          "value": "dc21b02c-9a8f-41ca-a1b3-b29400d4e599",
+          "name": "dc21b02c-9a8f-41ca-a1b3-b29400d4e599"
         }
       },
       {
         "data": {
-          "label": "Gofyn main melin gan Lewys ap Tomas, Llanbadarn, dros Fathau Goch ap Tomas, y Drenewydd: Pwy oll \u00e2 gair pell i gyd?",
+          "label": "Cywydd marwnad Si\u00f4n ab Ieuan Goch o Landinam: [P]ond eirrad rroi pen dewrredd",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/228/",
-          "id": "a2c958d9-8aa4-47f4-9900-c6a6bfd53db5",
-          "value": "a2c958d9-8aa4-47f4-9900-c6a6bfd53db5",
-          "name": "a2c958d9-8aa4-47f4-9900-c6a6bfd53db5"
+          "link": "https://beta.mowlit.ac.uk/public/text/266/",
+          "id": "66f3140f-8667-42da-bcad-9aea32117ead",
+          "value": "66f3140f-8667-42da-bcad-9aea32117ead",
+          "name": "66f3140f-8667-42da-bcad-9aea32117ead"
         }
       },
       {
         "data": {
-          "label": "Cywydd brud: Deall i b\u00fbm dull y byd",
+          "label": "Ebostol y Sul: Gorchymyn a ddoeth or nef i orchymyn kadw duw svl or nef ir llawr",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/88/",
-          "id": "45d2116e-71f7-4235-a68a-01dec8dd705c",
-          "value": "45d2116e-71f7-4235-a68a-01dec8dd705c",
-          "name": "45d2116e-71f7-4235-a68a-01dec8dd705c"
+          "link": "https://beta.mowlit.ac.uk/public/text/100/",
+          "id": "a1b8392b-ade9-4d46-8f5e-df215eaa4f9d",
+          "value": "a1b8392b-ade9-4d46-8f5e-df215eaa4f9d",
+          "name": "a1b8392b-ade9-4d46-8f5e-df215eaa4f9d"
         }
       },
       {
         "data": {
-          "label": "Disgrifiad o wlad yr Iddewon: Llyma gyffarwydd ac yssbysrwydd am wlad karisselem yr hon a Elwyr yn lladyg Iuda ac yn gymraeg Tyr yr yddewon",
+          "label": "Cerdd ddarogan: Koed a laeddir koed a gedwyr",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/25/",
-          "id": "bb481a58-df25-4467-a4f1-8d93921bee77",
-          "value": "bb481a58-df25-4467-a4f1-8d93921bee77",
-          "name": "bb481a58-df25-4467-a4f1-8d93921bee77"
-        }
-      },
-      {
-        "data": {
-          "label": "Y dyn golwg bredd y daw: Y dyn golwg bredd y daw",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/135/",
-          "id": "94308ba9-a0b1-425d-8ab5-fa683c6c54e7",
-          "value": "94308ba9-a0b1-425d-8ab5-fa683c6c54e7",
-          "name": "94308ba9-a0b1-425d-8ab5-fa683c6c54e7"
-        }
-      },
-      {
-        "data": {
-          "label": "Myfyrdod diwedd oes: Mae un cun yma i'n cynnal",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/268/",
-          "id": "96fa40b6-e185-46f5-af5b-bffe002b1e9d",
-          "value": "96fa40b6-e185-46f5-af5b-bffe002b1e9d",
-          "name": "96fa40b6-e185-46f5-af5b-bffe002b1e9d"
-        }
-      },
-      {
-        "data": {
-          "label": "Interlude: O vy mrenyn [a]m arglwydd yn wir",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/203/",
-          "id": "3a1fc585-c1f6-4ec7-b3d1-20a1593efe57",
-          "value": "3a1fc585-c1f6-4ec7-b3d1-20a1593efe57",
-          "name": "3a1fc585-c1f6-4ec7-b3d1-20a1593efe57"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd proffwydoliaeth: Dall o beth yw dull y byd",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/104/",
-          "id": "6e0b65bd-ff08-4c29-a402-85187de67ea6",
-          "value": "6e0b65bd-ff08-4c29-a402-85187de67ea6",
-          "name": "6e0b65bd-ff08-4c29-a402-85187de67ea6"
-        }
-      },
-      {
-        "data": {
-          "label": "Trioedd cyffredin: Tri glwth byd: m\u00f4r, dinas, ac arglwydd cyfoeth.",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/148/",
-          "id": "2064a075-901a-43a6-8fc5-1adb96703d15",
-          "value": "2064a075-901a-43a6-8fc5-1adb96703d15",
-          "name": "2064a075-901a-43a6-8fc5-1adb96703d15"
-        }
-      },
-      {
-        "data": {
-          "label": "James Dwnn, d. c. 1660",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/95/",
-          "id": "548d753b-a66b-4b0a-9b50-3d6cf1d5702c",
-          "value": "548d753b-a66b-4b0a-9b50-3d6cf1d5702c",
-          "name": "548d753b-a66b-4b0a-9b50-3d6cf1d5702c"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd moliant Syr Rhys ap Tomas: Kyronigle yw kyrn a glowir",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/122/",
-          "id": "aec8491a-ede8-4e92-8455-998830a05b84",
-          "value": "aec8491a-ede8-4e92-8455-998830a05b84",
-          "name": "aec8491a-ede8-4e92-8455-998830a05b84"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd i ofyn am gi du gan Domas ap Dafydd ap Morus dros Faredudd ab Owain: Y bw dewr obai daraw",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/144/",
-          "id": "9685709d-0de4-4287-aa23-4c516355726f",
-          "value": "9685709d-0de4-4287-aa23-4c516355726f",
-          "name": "9685709d-0de4-4287-aa23-4c516355726f"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd merch: Y verch deg a[m] hanregodd",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/205/",
-          "id": "c45760d4-5fda-43a0-86d4-3371052d89c6",
-          "value": "c45760d4-5fda-43a0-86d4-3371052d89c6",
-          "name": "c45760d4-5fda-43a0-86d4-3371052d89c6"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd moliant Rhisiart Llwyd o'r Hafod-wen: Pwy a'n piau pen Powys",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/9/",
-          "id": "4163929a-f972-4b1c-ad5c-b9360da9960a",
-          "value": "4163929a-f972-4b1c-ad5c-b9360da9960a",
-          "name": "4163929a-f972-4b1c-ad5c-b9360da9960a"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd moliant Edwart Llwyd ap Dafydd Llwyd, y Trallwng: Pwy'n \u0175r gwych, pen ar a gaid?",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/217/",
-          "id": "1a0f66b5-51b8-4484-9178-636e68a56fbc",
-          "value": "1a0f66b5-51b8-4484-9178-636e68a56fbc",
-          "name": "1a0f66b5-51b8-4484-9178-636e68a56fbc"
-        }
-      },
-      {
-        "data": {
-          "label": "anwyl iw saig ymhyl as hael: anwyl iw saig ymhyl as hael",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/94/",
-          "id": "6b08bf4f-c114-4205-aff9-cf5dd6b312d7",
-          "value": "6b08bf4f-c114-4205-aff9-cf5dd6b312d7",
-          "name": "6b08bf4f-c114-4205-aff9-cf5dd6b312d7"
-        }
-      },
-      {
-        "data": {
-          "label": "Ail gywydd dychan Dafydd Llwyd o Fathafarn i Lywelyn ap Gutun: Eirchiad yn siarad y sydd",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/151/",
-          "id": "bffea8f1-dc26-43f4-82e5-023f077550f0",
-          "value": "bffea8f1-dc26-43f4-82e5-023f077550f0",
-          "name": "bffea8f1-dc26-43f4-82e5-023f077550f0"
-        }
-      },
-      {
-        "data": {
-          "label": "Hin o frenhinoedd a fu wedi cwncwest: Wyliam basdart a fv xxii",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/232/",
-          "id": "44255c68-e033-49c5-a04c-ab4738c22a31",
-          "value": "44255c68-e033-49c5-a04c-ab4738c22a31",
-          "name": "44255c68-e033-49c5-a04c-ab4738c22a31"
-        }
-      },
-      {
-        "data": {
-          "label": "Moliant i Rys Awbre: Y llew yn dwyn llennau dur",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/245/",
-          "id": "81b21e63-81a6-4dea-961e-3d232e41c503",
-          "value": "81b21e63-81a6-4dea-961e-3d232e41c503",
-          "name": "81b21e63-81a6-4dea-961e-3d232e41c503"
-        }
-      },
-      {
-        "data": {
-          "label": "Huw Arwystl",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/369/",
-          "id": "d2820067-9be2-4541-82d8-23e99afea37c",
-          "value": "d2820067-9be2-4541-82d8-23e99afea37c",
-          "name": "d2820067-9be2-4541-82d8-23e99afea37c"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd i ofyn am darw gan Ddafydd Llwyd ab Ieuan ab Owain ac Efa, ei wraig, dros Hywel ab Owain o Gedewain: Y dyn ir glan dan iau'r glod",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/30/",
-          "id": "9a339272-c955-473d-9d10-26a94c28de7e",
-          "value": "9a339272-c955-473d-9d10-26a94c28de7e",
-          "name": "9a339272-c955-473d-9d10-26a94c28de7e"
-        }
-      },
-      {
-        "data": {
-          "label": "Moliant i Golbrwg, cartref Syr Rhisiart Herbert: A oes unplas yn siampler?",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/154/",
-          "id": "5d26ba97-0af2-4c31-bc65-725264aa5b16",
-          "value": "5d26ba97-0af2-4c31-bc65-725264aa5b16",
-          "name": "5d26ba97-0af2-4c31-bc65-725264aa5b16"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd marwnad Ieuan ap Rhobert a Gwenllian ferch Hywel, ei wraig: Duw a roes guledd drwy ais gwlad",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/38/",
-          "id": "059d09d9-011f-4467-96bb-646978ba26bd",
-          "value": "059d09d9-011f-4467-96bb-646978ba26bd",
-          "name": "059d09d9-011f-4467-96bb-646978ba26bd"
-        }
-      },
-      {
-        "data": {
-          "label": "Ystoria Alestotlys yn cynghori Alexander: A llyma lyfyr yr wyneb yr hwn a wnaeth Alisdotlis i alixsawnder mawr",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/175/",
-          "id": "d134f6ef-ff89-4b97-b264-5d1564be456d",
-          "value": "d134f6ef-ff89-4b97-b264-5d1564be456d",
-          "name": "d134f6ef-ff89-4b97-b264-5d1564be456d"
-        }
-      },
-      {
-        "data": {
-          "label": "Cerdd ddarogan: Na ddatkan dy gerdd yni wypych dy gyvedd",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/103/",
-          "id": "62dfc700-1ef9-42c2-b2f7-1e72cc77987c",
-          "value": "62dfc700-1ef9-42c2-b2f7-1e72cc77987c",
-          "name": "62dfc700-1ef9-42c2-b2f7-1e72cc77987c"
+          "link": "https://beta.mowlit.ac.uk/public/text/161/",
+          "id": "f67b2a42-d922-415e-8dc9-0957e2e4cf12",
+          "value": "f67b2a42-d922-415e-8dc9-0957e2e4cf12",
+          "name": "f67b2a42-d922-415e-8dc9-0957e2e4cf12"
         }
       },
       {
@@ -296,132 +96,52 @@
       },
       {
         "data": {
-          "label": "List of Welsh words, phrases, and verse couplet",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/261/",
-          "id": "f24eadd0-e502-4f2a-9877-56a2394c1c69",
-          "value": "f24eadd0-e502-4f2a-9877-56a2394c1c69",
-          "name": "f24eadd0-e502-4f2a-9877-56a2394c1c69"
-        }
-      },
-      {
-        "data": {
-          "label": "Harri ap Llywelyn ap Si\u00f4n",
+          "label": "James Dwnn, d. c. 1660",
           "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/769/",
-          "id": "9986a65f-fb2d-4693-aca0-b1c856438856",
-          "value": "9986a65f-fb2d-4693-aca0-b1c856438856",
-          "name": "9986a65f-fb2d-4693-aca0-b1c856438856"
+          "link": "https://beta.mowlit.ac.uk/public/person/95/",
+          "id": "548d753b-a66b-4b0a-9b50-3d6cf1d5702c",
+          "value": "548d753b-a66b-4b0a-9b50-3d6cf1d5702c",
+          "name": "548d753b-a66b-4b0a-9b50-3d6cf1d5702c"
         }
       },
       {
         "data": {
-          "label": "Cywydd moliant i Domas ab Ieuan Llwyd o Faes-mawr yng Nghedewain: I'r tir oedd gynt hardd a gwag",
+          "label": "Moliant i Rys Awbre: Y llew yn dwyn llennau dur",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/257/",
-          "id": "cf9dce84-23d7-4042-9e85-349c0135fc0c",
-          "value": "cf9dce84-23d7-4042-9e85-349c0135fc0c",
-          "name": "cf9dce84-23d7-4042-9e85-349c0135fc0c"
+          "link": "https://beta.mowlit.ac.uk/public/text/245/",
+          "id": "81b21e63-81a6-4dea-961e-3d232e41c503",
+          "value": "81b21e63-81a6-4dea-961e-3d232e41c503",
+          "name": "81b21e63-81a6-4dea-961e-3d232e41c503"
         }
       },
       {
         "data": {
-          "label": "Llyma yr achosion i myn duw gadw duw sul: Duw syl i krewyd yr Engylion o bryadwys",
+          "label": "Ystoria Adrian ac Ipotis: Pwy bynnac a vynho dyscu doethineb",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/239/",
-          "id": "335a4119-5b99-41e7-bce5-3a158656d0e4",
-          "value": "335a4119-5b99-41e7-bce5-3a158656d0e4",
-          "name": "335a4119-5b99-41e7-bce5-3a158656d0e4"
+          "link": "https://beta.mowlit.ac.uk/public/text/21/",
+          "id": "444d0f04-2679-4391-99e1-79a9bb6f8fa4",
+          "value": "444d0f04-2679-4391-99e1-79a9bb6f8fa4",
+          "name": "444d0f04-2679-4391-99e1-79a9bb6f8fa4"
         }
       },
       {
         "data": {
-          "label": "Cerdd ddarogan: Fo ddaw byd drud esgidie",
+          "label": "Englynion y misoedd: Mis Ionor myglyd dyfrin",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/265/",
-          "id": "77d7f8d7-36aa-48fe-8a7d-6a6337fd30a0",
-          "value": "77d7f8d7-36aa-48fe-8a7d-6a6337fd30a0",
-          "name": "77d7f8d7-36aa-48fe-8a7d-6a6337fd30a0"
+          "link": "https://beta.mowlit.ac.uk/public/text/71/",
+          "id": "e0ff52a2-fd46-4fea-8517-772bd8a22d48",
+          "value": "e0ff52a2-fd46-4fea-8517-772bd8a22d48",
+          "name": "e0ff52a2-fd46-4fea-8517-772bd8a22d48"
         }
       },
       {
         "data": {
-          "label": "Llyfr Tynghedfen: [...] gael dolvr gan haiarn ac ofana peryg/gyl mewn dwffvr ac o xxxiij o vlynyddoedd allan y dechrav dedwyddwch ddyfod atto",
+          "label": "Cywydd moliant i Ddafydd ab Ieuan ab Owain o Gaereinion: Dauid ayr budd ifor barth",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/2/",
-          "id": "54005053-6c2e-4114-bde2-8e68065e3c14",
-          "value": "54005053-6c2e-4114-bde2-8e68065e3c14",
-          "name": "54005053-6c2e-4114-bde2-8e68065e3c14"
-        }
-      },
-      {
-        "data": {
-          "label": "Cerdd ddarogan: Gwyr mon ai gwyl ar vn pen bryn",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/229/",
-          "id": "28f32036-fe18-48f5-86b7-a07478597708",
-          "value": "28f32036-fe18-48f5-86b7-a07478597708",
-          "name": "28f32036-fe18-48f5-86b7-a07478597708"
-        }
-      },
-      {
-        "data": {
-          "label": "I Owain Glynd\u0175r: Eryr digrif afrifed",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/60/",
-          "id": "be684f61-8861-4184-92e2-60f3a9259a7a",
-          "value": "be684f61-8861-4184-92e2-60f3a9259a7a",
-          "name": "be684f61-8861-4184-92e2-60f3a9259a7a"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd brud: Byd angall os dyallwn",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/188/",
-          "id": "e7f58efc-f7b4-48aa-87b6-f998c3d34339",
-          "value": "e7f58efc-f7b4-48aa-87b6-f998c3d34339",
-          "name": "e7f58efc-f7b4-48aa-87b6-f998c3d34339"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd moliant Wmffre Llwyd ap Dafydd Llwyd: Powys sy flin powyse vlaenwr",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/108/",
-          "id": "a4352e67-f25c-406e-a7b0-8fc72a728fc5",
-          "value": "a4352e67-f25c-406e-a7b0-8fc72a728fc5",
-          "name": "a4352e67-f25c-406e-a7b0-8fc72a728fc5"
-        }
-      },
-      {
-        "data": {
-          "label": "I'r Byd (IGE2, 85): Llyma y byd, cyd cadarn",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/59/",
-          "id": "09ba80ec-a50d-4a5b-b9bd-5d6fff449529",
-          "value": "09ba80ec-a50d-4a5b-b9bd-5d6fff449529",
-          "name": "09ba80ec-a50d-4a5b-b9bd-5d6fff449529"
-        }
-      },
-      {
-        "data": {
-          "label": "Araith Wgan: ach reso mwya yny byd ac yna ydyfod drowdmaeth yr gwr aoedd yn kenfigenys",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/162/",
-          "id": "1ee1cb3e-6a49-4ea1-8c7d-e1217e41fe0b",
-          "value": "1ee1cb3e-6a49-4ea1-8c7d-e1217e41fe0b",
-          "name": "1ee1cb3e-6a49-4ea1-8c7d-e1217e41fe0b"
-        }
-      },
-      {
-        "data": {
-          "label": "Reinald ap Morys",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/573/",
-          "id": "78bdb8d6-291d-4e2b-b28a-f054cd5ee7be",
-          "value": "78bdb8d6-291d-4e2b-b28a-f054cd5ee7be",
-          "name": "78bdb8d6-291d-4e2b-b28a-f054cd5ee7be"
+          "link": "https://beta.mowlit.ac.uk/public/text/131/",
+          "id": "0c246840-80f2-4c26-a50f-6f99ec8c7831",
+          "value": "0c246840-80f2-4c26-a50f-6f99ec8c7831",
+          "name": "0c246840-80f2-4c26-a50f-6f99ec8c7831"
         }
       },
       {
@@ -446,12 +166,82 @@
       },
       {
         "data": {
+          "label": "Y Pedwar Brenin ar Hugain Cadarnaf",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/51/",
+          "id": "d7926cdc-510e-41a1-aa9f-43bf49cbab8d",
+          "value": "d7926cdc-510e-41a1-aa9f-43bf49cbab8d",
+          "name": "d7926cdc-510e-41a1-aa9f-43bf49cbab8d"
+        }
+      },
+      {
+        "data": {
+          "label": "William Lloyd (son of Oliver Lloyd)",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/335/",
+          "id": "df291738-42d2-4e0b-ad27-ead612e12f92",
+          "value": "df291738-42d2-4e0b-ad27-ead612e12f92",
+          "name": "df291738-42d2-4e0b-ad27-ead612e12f92"
+        }
+      },
+      {
+        "data": {
+          "label": "Ail gywydd dychan Dafydd Llwyd o Fathafarn i Lywelyn ap Gutun: Eirchiad yn siarad y sydd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/151/",
+          "id": "bffea8f1-dc26-43f4-82e5-023f077550f0",
+          "value": "bffea8f1-dc26-43f4-82e5-023f077550f0",
+          "name": "bffea8f1-dc26-43f4-82e5-023f077550f0"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd marwnad Dafydd Llwyd ap Gruffudd Fychan: Trwm fu'r codded a'r tremig",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/102/",
+          "id": "fc9d4c1c-9e8b-452f-8964-4924cd55d57b",
+          "value": "fc9d4c1c-9e8b-452f-8964-4924cd55d57b",
+          "name": "fc9d4c1c-9e8b-452f-8964-4924cd55d57b"
+        }
+      },
+      {
+        "data": {
+          "label": "Trioedd cyffredin: Tri glwth byd: m\u00f4r, dinas, ac arglwydd cyfoeth.",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/148/",
+          "id": "2064a075-901a-43a6-8fc5-1adb96703d15",
+          "value": "2064a075-901a-43a6-8fc5-1adb96703d15",
+          "name": "2064a075-901a-43a6-8fc5-1adb96703d15"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd moliant i fab Syr Rhisiart Herbart: Y g\u0175r a'i law hyd Gaer-ludd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/95/",
+          "id": "287be4e0-2b3a-48b8-9313-685388013aa7",
+          "value": "287be4e0-2b3a-48b8-9313-685388013aa7",
+          "name": "287be4e0-2b3a-48b8-9313-685388013aa7"
+        }
+      },
+      {
+        "data": {
           "label": "Cywydd marwnad i fab Rhys: Mae Gwynedd fel mwg Ionawr",
           "type": "text",
           "link": "https://beta.mowlit.ac.uk/public/text/42/",
           "id": "92f5ff96-026b-49b4-80dc-04ce48d1c75c",
           "value": "92f5ff96-026b-49b4-80dc-04ce48d1c75c",
           "name": "92f5ff96-026b-49b4-80dc-04ce48d1c75c"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd moliant Wiliam Herbart, Iarll Penfro: Tri llu aeth i Gymru gynt",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/11/",
+          "id": "eefea903-2583-47af-b54a-9450f0c60b3c",
+          "value": "eefea903-2583-47af-b54a-9450f0c60b3c",
+          "name": "eefea903-2583-47af-b54a-9450f0c60b3c"
         }
       },
       {
@@ -466,92 +256,22 @@
       },
       {
         "data": {
-          "label": "Cywydd brud: Rho Dduw frud ynfyd annoeth",
+          "label": "anwyl iw saig ymhyl as hael: anwyl iw saig ymhyl as hael",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/264/",
-          "id": "81e6782d-1ec7-4678-b4b7-7a762995f4c8",
-          "value": "81e6782d-1ec7-4678-b4b7-7a762995f4c8",
-          "name": "81e6782d-1ec7-4678-b4b7-7a762995f4c8"
+          "link": "https://beta.mowlit.ac.uk/public/text/94/",
+          "id": "6b08bf4f-c114-4205-aff9-cf5dd6b312d7",
+          "value": "6b08bf4f-c114-4205-aff9-cf5dd6b312d7",
+          "name": "6b08bf4f-c114-4205-aff9-cf5dd6b312d7"
         }
       },
       {
         "data": {
-          "label": "Cywydd y Nordd: Gwae a aned oi geni",
+          "label": "Cywydd marwnad Rhisiart Llwyd o'r Trallwng: Traeturiaid lle i troed hiraeth",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/146/",
-          "id": "381867fb-15d3-4635-a1db-f42bd90644cc",
-          "value": "381867fb-15d3-4635-a1db-f42bd90644cc",
-          "name": "381867fb-15d3-4635-a1db-f42bd90644cc"
-        }
-      },
-      {
-        "data": {
-          "label": "Cadwaladr ap Rhys Trefnant",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/172/",
-          "id": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
-          "value": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
-          "name": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd merch: Y ferch wychaf o'r chwechant",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/227/",
-          "id": "06b54bd6-951e-4029-be90-1cd3c9752ca6",
-          "value": "06b54bd6-951e-4029-be90-1cd3c9752ca6",
-          "name": "06b54bd6-951e-4029-be90-1cd3c9752ca6"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd moliant Tomas ap Rhys ap Lewys a'i wraig, Deili ferch Siencyn Goch o Lwyniorwerth, Llanbadarn Fawr: Mae vn gwr imi yn gariad",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/126/",
-          "id": "2b6c05f7-3fac-42ff-a25e-4ed0eb71d85b",
-          "value": "2b6c05f7-3fac-42ff-a25e-4ed0eb71d85b",
-          "name": "2b6c05f7-3fac-42ff-a25e-4ed0eb71d85b"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd brud: Gwynedd, cafas dy genedl",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/36/",
-          "id": "ccd4b29d-b775-4143-bedb-88c380a835a1",
-          "value": "ccd4b29d-b775-4143-bedb-88c380a835a1",
-          "name": "ccd4b29d-b775-4143-bedb-88c380a835a1"
-        }
-      },
-      {
-        "data": {
-          "label": "Dialogue between a friar and a woman: [...] wolfe in a lambes skynne / here are two faces in o[...]",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/206/",
-          "id": "97f94c2c-45b4-407e-9d21-136a35271c80",
-          "value": "97f94c2c-45b4-407e-9d21-136a35271c80",
-          "name": "97f94c2c-45b4-407e-9d21-136a35271c80"
-        }
-      },
-      {
-        "data": {
-          "label": "Ymddiddan rhwng Gwenddydd a'i brawd: Llyma yr ymddyddan a vy rrvng gwenddydd ai brawd",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/105/",
-          "id": "a17d3860-5938-4ffe-aa74-43b6ba522bf5",
-          "value": "a17d3860-5938-4ffe-aa74-43b6ba522bf5",
-          "name": "a17d3860-5938-4ffe-aa74-43b6ba522bf5"
-        }
-      },
-      {
-        "data": {
-          "label": "I'r Byd (IGE2, 99): Gwyn fyd, nid er gwynfydu",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/72/",
-          "id": "14a5a1b2-2d74-4990-b274-db7c98d879ab",
-          "value": "14a5a1b2-2d74-4990-b274-db7c98d879ab",
-          "name": "14a5a1b2-2d74-4990-b274-db7c98d879ab"
+          "link": "https://beta.mowlit.ac.uk/public/text/66/",
+          "id": "041218e9-3c3c-4fd2-a080-1235c0a4b772",
+          "value": "041218e9-3c3c-4fd2-a080-1235c0a4b772",
+          "name": "041218e9-3c3c-4fd2-a080-1235c0a4b772"
         }
       },
       {
@@ -566,162 +286,12 @@
       },
       {
         "data": {
-          "label": "Llyma y naw rinwedd: Y Rynwedd kynta yw hon dyro ymi dy galon a gwell yw genyf fi hyny",
+          "label": "Cywydd moliant Tomas ap Gwilym ab Ieuan o Lan-y-crwys: D[a] fv ymyd lle dof a mawl",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/177/",
-          "id": "814959f0-6e7b-4df4-bd12-f0ada00176b5",
-          "value": "814959f0-6e7b-4df4-bd12-f0ada00176b5",
-          "name": "814959f0-6e7b-4df4-bd12-f0ada00176b5"
-        }
-      },
-      {
-        "data": {
-          "label": "Proffwydoliaeth Ddewi: Llyma proffydoliaeth Ddewi. Pob ryw lygat wyl pob ryw galon a vydd chwerw pob ryw dafawd",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/64/",
-          "id": "c782d2ec-1a16-42aa-b201-c588be7a1515",
-          "value": "c782d2ec-1a16-42aa-b201-c588be7a1515",
-          "name": "c782d2ec-1a16-42aa-b201-c588be7a1515"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd marwnad Dafydd Llwyd ap Syr Gruffudd Fychan o Dre\u2019r-llai: Gwayo ym yn y gie oedd",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/194/",
-          "id": "d2e44d17-72fb-4f42-a4ee-c25b88ba1238",
-          "value": "d2e44d17-72fb-4f42-a4ee-c25b88ba1238",
-          "name": "d2e44d17-72fb-4f42-a4ee-c25b88ba1238"
-        }
-      },
-      {
-        "data": {
-          "label": "Ymryson y corff a'r enaid",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/77/",
-          "id": "ae52d500-287f-4bd3-b6f9-92cd0580dd87",
-          "value": "ae52d500-287f-4bd3-b6f9-92cd0580dd87",
-          "name": "ae52d500-287f-4bd3-b6f9-92cd0580dd87"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd moliant Syr Wiliam Herbart o Golbrwg a Si\u00e2n, ei wraig: Or Herbart hir a byrvt hen",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/92/",
-          "id": "e1933e2f-d025-407c-a98d-d54f4dc8b102",
-          "value": "e1933e2f-d025-407c-a98d-d54f4dc8b102",
-          "name": "e1933e2f-d025-407c-a98d-d54f4dc8b102"
-        }
-      },
-      {
-        "data": {
-          "label": "Fy mhwrs gormersi am hyn: Fy mhwrs felfed, fy mherson",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/13/",
-          "id": "83b5d5e7-0e0f-46e6-9b67-125eb1aeb153",
-          "value": "83b5d5e7-0e0f-46e6-9b67-125eb1aeb153",
-          "name": "83b5d5e7-0e0f-46e6-9b67-125eb1aeb153"
-        }
-      },
-      {
-        "data": {
-          "label": "Cerdd ddarogan: Hoenan barchellan barchaen gwyn",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/14/",
-          "id": "fa61a36b-2949-45ee-8b41-199f5d2343b6",
-          "value": "fa61a36b-2949-45ee-8b41-199f5d2343b6",
-          "name": "fa61a36b-2949-45ee-8b41-199f5d2343b6"
-        }
-      },
-      {
-        "data": {
-          "label": "Ateb i ddychan Syr Lewys Meudwy: Syr Lewys, felys ei fwyd",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/121/",
-          "id": "07c58a95-4374-4517-941d-2bd0cb38858e",
-          "value": "07c58a95-4374-4517-941d-2bd0cb38858e",
-          "name": "07c58a95-4374-4517-941d-2bd0cb38858e"
-        }
-      },
-      {
-        "data": {
-          "label": "I'r Saith Bechod Marwol: Meddyliaid am addoli",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/6/",
-          "id": "a15285ed-bcf5-4549-897c-2f9d94a61d69",
-          "value": "a15285ed-bcf5-4549-897c-2f9d94a61d69",
-          "name": "a15285ed-bcf5-4549-897c-2f9d94a61d69"
-        }
-      },
-      {
-        "data": {
-          "label": "Account of the sacraments: Ordo baptismus firmatis non iterantur",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/243/",
-          "id": "2690ca14-6f91-4d2c-a7d9-526251a23358",
-          "value": "2690ca14-6f91-4d2c-a7d9-526251a23358",
-          "name": "2690ca14-6f91-4d2c-a7d9-526251a23358"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd i ferch a'r bardd yn hen \u0175r: Y lloer wen llyw eira vnos",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/247/",
-          "id": "46260459-68a3-4be2-8187-bea6bc66c77e",
-          "value": "46260459-68a3-4be2-8187-bea6bc66c77e",
-          "name": "46260459-68a3-4be2-8187-bea6bc66c77e"
-        }
-      },
-      {
-        "data": {
-          "label": "Y Pedwar Brenin ar Hugain Cadarnaf",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/51/",
-          "id": "d7926cdc-510e-41a1-aa9f-43bf49cbab8d",
-          "value": "d7926cdc-510e-41a1-aa9f-43bf49cbab8d",
-          "name": "d7926cdc-510e-41a1-aa9f-43bf49cbab8d"
-        }
-      },
-      {
-        "data": {
-          "label": "Ateb Guto'r Glyn i farwnad Llywelyn ap Gutun iddo: Mae llef oer, mae llifeiriaint",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/235/",
-          "id": "17834049-27d8-48f4-9e25-5f0d4fbd3bf3",
-          "value": "17834049-27d8-48f4-9e25-5f0d4fbd3bf3",
-          "name": "17834049-27d8-48f4-9e25-5f0d4fbd3bf3"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd moliant Dafydd Llwyd Blaenau o Dregynon ac Elsbeth, ei wraig: Y mab ai glaim ymhob gwlad",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/10/",
-          "id": "bc728da1-8ac2-4a20-b30d-dbe7fb835899",
-          "value": "bc728da1-8ac2-4a20-b30d-dbe7fb835899",
-          "name": "bc728da1-8ac2-4a20-b30d-dbe7fb835899"
-        }
-      },
-      {
-        "data": {
-          "label": "NLW, Brogyntyn I.1",
-          "type": "ego",
-          "link": "https://beta.mowlit.ac.uk/public/manuscript/96/",
-          "id": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "value": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "name": "f33e3402-d157-4c61-856e-7b54a4ced67e"
-        }
-      },
-      {
-        "data": {
-          "label": "Epistle of Jude (Vulgate): [...] reliquer [...]agni dei vincu[...]",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/93/",
-          "id": "798de987-2351-4791-a906-07e7a71b9372",
-          "value": "798de987-2351-4791-a906-07e7a71b9372",
-          "name": "798de987-2351-4791-a906-07e7a71b9372"
+          "link": "https://beta.mowlit.ac.uk/public/text/120/",
+          "id": "6c3d141f-5d60-4262-9cf2-eb3122f9f798",
+          "value": "6c3d141f-5d60-4262-9cf2-eb3122f9f798",
+          "name": "6c3d141f-5d60-4262-9cf2-eb3122f9f798"
         }
       },
       {
@@ -736,22 +306,402 @@
       },
       {
         "data": {
-          "label": "Cywydd moliant Tomas ap Gwilym ab Ieuan o Lan-y-crwys: D[a] fv ymyd lle dof a mawl",
+          "label": "Proffwydoliaeth Ddewi: Llyma proffydoliaeth Ddewi. Pob ryw lygat wyl pob ryw galon a vydd chwerw pob ryw dafawd",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/120/",
-          "id": "6c3d141f-5d60-4262-9cf2-eb3122f9f798",
-          "value": "6c3d141f-5d60-4262-9cf2-eb3122f9f798",
-          "name": "6c3d141f-5d60-4262-9cf2-eb3122f9f798"
+          "link": "https://beta.mowlit.ac.uk/public/text/64/",
+          "id": "c782d2ec-1a16-42aa-b201-c588be7a1515",
+          "value": "c782d2ec-1a16-42aa-b201-c588be7a1515",
+          "name": "c782d2ec-1a16-42aa-b201-c588be7a1515"
         }
       },
       {
         "data": {
-          "label": "Cywydd dychan cyntaf Dafydd Llwyd o Fathafarn i Lywelyn ap Gutun: Da maen cyff Dewi Mynyw",
+          "label": "Huw Arwystl",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/369/",
+          "id": "d2820067-9be2-4541-82d8-23e99afea37c",
+          "value": "d2820067-9be2-4541-82d8-23e99afea37c",
+          "name": "d2820067-9be2-4541-82d8-23e99afea37c"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd i ddiolch am darw coch gan Si\u00f4n ap Rhys o Aberpergwm yng Nglyn-nedd: Ewch feirdd o ddinbych i fon",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/193/",
-          "id": "ac32f8d9-1382-41d6-88bc-7b3ac47fd6d4",
-          "value": "ac32f8d9-1382-41d6-88bc-7b3ac47fd6d4",
-          "name": "ac32f8d9-1382-41d6-88bc-7b3ac47fd6d4"
+          "link": "https://beta.mowlit.ac.uk/public/text/271/",
+          "id": "bc567fc7-7929-451a-8571-7841653861e8",
+          "value": "bc567fc7-7929-451a-8571-7841653861e8",
+          "name": "bc567fc7-7929-451a-8571-7841653861e8"
+        }
+      },
+      {
+        "data": {
+          "label": "Myfyrdod diwedd oes: Mae un cun yma i'n cynnal",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/268/",
+          "id": "96fa40b6-e185-46f5-af5b-bffe002b1e9d",
+          "value": "96fa40b6-e185-46f5-af5b-bffe002b1e9d",
+          "name": "96fa40b6-e185-46f5-af5b-bffe002b1e9d"
+        }
+      },
+      {
+        "data": {
+          "label": "Rhag Digio Duw (IGE2, 92): Tydi ddyn, tew dy donniau",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/147/",
+          "id": "e89ede60-8513-4e98-b5da-ae00d7952d89",
+          "value": "e89ede60-8513-4e98-b5da-ae00d7952d89",
+          "name": "e89ede60-8513-4e98-b5da-ae00d7952d89"
+        }
+      },
+      {
+        "data": {
+          "label": "Harri ap Llywelyn ap Si\u00f4n",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/769/",
+          "id": "9986a65f-fb2d-4693-aca0-b1c856438856",
+          "value": "9986a65f-fb2d-4693-aca0-b1c856438856",
+          "name": "9986a65f-fb2d-4693-aca0-b1c856438856"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd brud: Pan dyner penyd aniawn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/223/",
+          "id": "dadea91f-ad68-42c4-a4ae-ac8a401a99d1",
+          "value": "dadea91f-ad68-42c4-a4ae-ac8a401a99d1",
+          "name": "dadea91f-ad68-42c4-a4ae-ac8a401a99d1"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Brogyntyn I.1",
+          "type": "ego",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/96/",
+          "id": "f33e3402-d157-4c61-856e-7b54a4ced67e",
+          "value": "f33e3402-d157-4c61-856e-7b54a4ced67e",
+          "name": "f33e3402-d157-4c61-856e-7b54a4ced67e"
+        }
+      },
+      {
+        "data": {
+          "label": "Llyma y naw rinwedd: Y Rynwedd kynta yw hon dyro ymi dy galon a gwell yw genyf fi hyny",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/177/",
+          "id": "814959f0-6e7b-4df4-bd12-f0ada00176b5",
+          "value": "814959f0-6e7b-4df4-bd12-f0ada00176b5",
+          "name": "814959f0-6e7b-4df4-bd12-f0ada00176b5"
+        }
+      },
+      {
+        "data": {
+          "label": "I'r Byd (IGE2, 99): Gwyn fyd, nid er gwynfydu",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/72/",
+          "id": "14a5a1b2-2d74-4990-b274-db7c98d879ab",
+          "value": "14a5a1b2-2d74-4990-b274-db7c98d879ab",
+          "name": "14a5a1b2-2d74-4990-b274-db7c98d879ab"
+        }
+      },
+      {
+        "data": {
+          "label": "Araith Wgan: ach reso mwya yny byd ac yna ydyfod drowdmaeth yr gwr aoedd yn kenfigenys",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/162/",
+          "id": "1ee1cb3e-6a49-4ea1-8c7d-e1217e41fe0b",
+          "value": "1ee1cb3e-6a49-4ea1-8c7d-e1217e41fe0b",
+          "name": "1ee1cb3e-6a49-4ea1-8c7d-e1217e41fe0b"
+        }
+      },
+      {
+        "data": {
+          "label": "Cerdd ddarogan: Pan fo r haf bric ton",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/76/",
+          "id": "5ade121c-7dfa-4b47-b243-4ebb2118db84",
+          "value": "5ade121c-7dfa-4b47-b243-4ebb2118db84",
+          "name": "5ade121c-7dfa-4b47-b243-4ebb2118db84"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd i ofyn am darw gan Ddafydd Llwyd ab Ieuan ab Owain ac Efa, ei wraig, dros Hywel ab Owain o Gedewain: Y dyn ir glan dan iau'r glod",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/30/",
+          "id": "9a339272-c955-473d-9d10-26a94c28de7e",
+          "value": "9a339272-c955-473d-9d10-26a94c28de7e",
+          "name": "9a339272-c955-473d-9d10-26a94c28de7e"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd merch: Y ferch wychaf o'r chwechant",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/227/",
+          "id": "06b54bd6-951e-4029-be90-1cd3c9752ca6",
+          "value": "06b54bd6-951e-4029-be90-1cd3c9752ca6",
+          "name": "06b54bd6-951e-4029-be90-1cd3c9752ca6"
+        }
+      },
+      {
+        "data": {
+          "label": "Cerdd ddarogan: Diargel rryvel rrywyf am ddwy lan konwy",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/211/",
+          "id": "262204ae-8161-4e23-901b-d210327a154d",
+          "value": "262204ae-8161-4e23-901b-d210327a154d",
+          "name": "262204ae-8161-4e23-901b-d210327a154d"
+        }
+      },
+      {
+        "data": {
+          "label": "Y dyn golwg bredd y daw: Y dyn golwg bredd y daw",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/135/",
+          "id": "94308ba9-a0b1-425d-8ab5-fa683c6c54e7",
+          "value": "94308ba9-a0b1-425d-8ab5-fa683c6c54e7",
+          "name": "94308ba9-a0b1-425d-8ab5-fa683c6c54e7"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd moliant i Edward Herbart ac Elsbeth ferch Mathau Goch, ei wraig: Trwy fonedd dawn trefnodd Duw",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/130/",
+          "id": "5c0c3618-3bce-46f1-bab9-b6c8b11426f7",
+          "value": "5c0c3618-3bce-46f1-bab9-b6c8b11426f7",
+          "name": "5c0c3618-3bce-46f1-bab9-b6c8b11426f7"
+        }
+      },
+      {
+        "data": {
+          "label": "Llymar saith veddwl deithiol: Meddylied am ddvw ai gwnae/eth ar i lvn ai ddelw Ei hvnan",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/23/",
+          "id": "aa8a36f6-0508-4262-ba3d-cf5cd1227e0f",
+          "value": "aa8a36f6-0508-4262-ba3d-cf5cd1227e0f",
+          "name": "aa8a36f6-0508-4262-ba3d-cf5cd1227e0f"
+        }
+      },
+      {
+        "data": {
+          "label": "I'r Saith Bechod Marwol: Meddyliaid am addoli",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/6/",
+          "id": "a15285ed-bcf5-4549-897c-2f9d94a61d69",
+          "value": "a15285ed-bcf5-4549-897c-2f9d94a61d69",
+          "name": "a15285ed-bcf5-4549-897c-2f9d94a61d69"
+        }
+      },
+      {
+        "data": {
+          "label": "Llyma yr ymddiddan a fu rhwng Addaf yn uffern a Ieufan Fedyddiwr: Pa hawr yn y dydd y daw ffarglwydd ai hevrgldd [sic] yn keisiaw i gwelaff yn ynaf im gwyliaw y llaw an gwnaeth ar draeth draw",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/140/",
+          "id": "a314474a-7e1d-4128-8d6d-f292ca21ac96",
+          "value": "a314474a-7e1d-4128-8d6d-f292ca21ac96",
+          "name": "a314474a-7e1d-4128-8d6d-f292ca21ac96"
+        }
+      },
+      {
+        "data": {
+          "label": "Llyfr Tynghedfen: [...] gael dolvr gan haiarn ac ofana peryg/gyl mewn dwffvr ac o xxxiij o vlynyddoedd allan y dechrav dedwyddwch ddyfod atto",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/2/",
+          "id": "54005053-6c2e-4114-bde2-8e68065e3c14",
+          "value": "54005053-6c2e-4114-bde2-8e68065e3c14",
+          "name": "54005053-6c2e-4114-bde2-8e68065e3c14"
+        }
+      },
+      {
+        "data": {
+          "label": "Severn Valley (Area)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/525/",
+          "id": "00b8ea8c-eb3e-451d-bd90-955cdcaf9901",
+          "value": "00b8ea8c-eb3e-451d-bd90-955cdcaf9901",
+          "name": "00b8ea8c-eb3e-451d-bd90-955cdcaf9901"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd y bi: Creu trin nis cred rhai ennyd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/127/",
+          "id": "32ed5903-874c-4e23-b297-e88fdad7b13a",
+          "value": "32ed5903-874c-4e23-b297-e88fdad7b13a",
+          "name": "32ed5903-874c-4e23-b297-e88fdad7b13a"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd moliant Tomas ap Rhys ap Lewys a'i wraig, Deili ferch Siencyn Goch o Lwyniorwerth, Llanbadarn Fawr: Mae vn gwr imi yn gariad",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/126/",
+          "id": "2b6c05f7-3fac-42ff-a25e-4ed0eb71d85b",
+          "value": "2b6c05f7-3fac-42ff-a25e-4ed0eb71d85b",
+          "name": "2b6c05f7-3fac-42ff-a25e-4ed0eb71d85b"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd moliant i Domas ab Ieuan Llwyd o Faes-mawr yng Nghedewain: I'r tir oedd gynt hardd a gwag",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/257/",
+          "id": "cf9dce84-23d7-4042-9e85-349c0135fc0c",
+          "value": "cf9dce84-23d7-4042-9e85-349c0135fc0c",
+          "name": "cf9dce84-23d7-4042-9e85-349c0135fc0c"
+        }
+      },
+      {
+        "data": {
+          "label": "Marrington (Gentry house)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/336/",
+          "id": "6b3cd770-9093-46cc-9c95-55b838a09499",
+          "value": "6b3cd770-9093-46cc-9c95-55b838a09499",
+          "name": "6b3cd770-9093-46cc-9c95-55b838a09499"
+        }
+      },
+      {
+        "data": {
+          "label": "Llywelyn ap Rhys ab Ieuan",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/535/",
+          "id": "425e4410-022f-4d86-b87b-f367b85278d0",
+          "value": "425e4410-022f-4d86-b87b-f367b85278d0",
+          "name": "425e4410-022f-4d86-b87b-f367b85278d0"
+        }
+      },
+      {
+        "data": {
+          "label": "Fy mhwrs gormersi am hyn: Fy mhwrs felfed, fy mherson",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/13/",
+          "id": "83b5d5e7-0e0f-46e6-9b67-125eb1aeb153",
+          "value": "83b5d5e7-0e0f-46e6-9b67-125eb1aeb153",
+          "name": "83b5d5e7-0e0f-46e6-9b67-125eb1aeb153"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd moliant Syr Rhys ap Tomas: Kyronigle yw kyrn a glowir",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/122/",
+          "id": "aec8491a-ede8-4e92-8455-998830a05b84",
+          "value": "aec8491a-ede8-4e92-8455-998830a05b84",
+          "name": "aec8491a-ede8-4e92-8455-998830a05b84"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd ymryson i Guto'r Glyn: Rhyfedd ydiw arfeddyd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/67/",
+          "id": "8f214a45-113e-4d8f-a745-e2c57cec95a2",
+          "value": "8f214a45-113e-4d8f-a745-e2c57cec95a2",
+          "name": "8f214a45-113e-4d8f-a745-e2c57cec95a2"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd marwnad Dafydd Llwyd ap Syr Gruffudd Fychan o Dre\u2019r-llai: Gwayo ym yn y gie oedd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/194/",
+          "id": "d2e44d17-72fb-4f42-a4ee-c25b88ba1238",
+          "value": "d2e44d17-72fb-4f42-a4ee-c25b88ba1238",
+          "name": "d2e44d17-72fb-4f42-a4ee-c25b88ba1238"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd marwnad Si\u00f4n ap Siencyn o Lansanffraid-ym-Mechain: Maer akw lef ymrig kwlad",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/85/",
+          "id": "055ef085-1a53-483c-bae8-58f69a6e7a30",
+          "value": "055ef085-1a53-483c-bae8-58f69a6e7a30",
+          "name": "055ef085-1a53-483c-bae8-58f69a6e7a30"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd i ofyn am darw gan Si\u00f4n Fychan dros Rydderch ap Rhys: Ssion fychan hyd forganwg",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/255/",
+          "id": "be4fd31e-aa2b-41a6-a114-6569b07f83e9",
+          "value": "be4fd31e-aa2b-41a6-a114-6569b07f83e9",
+          "name": "be4fd31e-aa2b-41a6-a114-6569b07f83e9"
+        }
+      },
+      {
+        "data": {
+          "label": "Y rhugl groen: Fal yr oeddwn, fawl rwyddaf",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/4/",
+          "id": "717ce144-420d-48df-8f4b-83acecd01b57",
+          "value": "717ce144-420d-48df-8f4b-83acecd01b57",
+          "name": "717ce144-420d-48df-8f4b-83acecd01b57"
+        }
+      },
+      {
+        "data": {
+          "label": "Epistle of Jude (Vulgate): [...] reliquer [...]agni dei vincu[...]",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/93/",
+          "id": "798de987-2351-4791-a906-07e7a71b9372",
+          "value": "798de987-2351-4791-a906-07e7a71b9372",
+          "name": "798de987-2351-4791-a906-07e7a71b9372"
+        }
+      },
+      {
+        "data": {
+          "label": "Ateb Mastr Harri: Ievan wrgwn llawn gwn llwyd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/26/",
+          "id": "041089cb-5d69-4c52-93d1-7e4ae9ba8350",
+          "value": "041089cb-5d69-4c52-93d1-7e4ae9ba8350",
+          "name": "041089cb-5d69-4c52-93d1-7e4ae9ba8350"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd proffwydoliaeth: Dall o beth yw dull y byd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/104/",
+          "id": "6e0b65bd-ff08-4c29-a402-85187de67ea6",
+          "value": "6e0b65bd-ff08-4c29-a402-85187de67ea6",
+          "name": "6e0b65bd-ff08-4c29-a402-85187de67ea6"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd moliant Edwart Llwyd ap Dafydd Llwyd, y Trallwng: Pwy'n \u0175r gwych, pen ar a gaid?",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/217/",
+          "id": "1a0f66b5-51b8-4484-9178-636e68a56fbc",
+          "value": "1a0f66b5-51b8-4484-9178-636e68a56fbc",
+          "name": "1a0f66b5-51b8-4484-9178-636e68a56fbc"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd brud: Gwynedd, cafas dy genedl",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/36/",
+          "id": "ccd4b29d-b775-4143-bedb-88c380a835a1",
+          "value": "ccd4b29d-b775-4143-bedb-88c380a835a1",
+          "name": "ccd4b29d-b775-4143-bedb-88c380a835a1"
+        }
+      },
+      {
+        "data": {
+          "label": "Dychan gan Lywelyn ap Gutun i Guto\u2019r Glyn pan haerwyd ei foddi: Tristach yw Cymry trostyn'",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/90/",
+          "id": "91d74e0d-2bbf-4f3c-8be0-0ecd7f019903",
+          "value": "91d74e0d-2bbf-4f3c-8be0-0ecd7f019903",
+          "name": "91d74e0d-2bbf-4f3c-8be0-0ecd7f019903"
         }
       },
       {
@@ -766,62 +716,112 @@
       },
       {
         "data": {
-          "label": "Llyma modd y dowad Saint Awsdyn am rinwedd offeren y sul: Kynta Rynwedd yw hwn pob kam ar a gerddech i geisio yferen dduw svl",
+          "label": "Cywydd dychan cyntaf Dafydd Llwyd o Fathafarn i Lywelyn ap Gutun: Da maen cyff Dewi Mynyw",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/157/",
-          "id": "7029a990-e41a-4a79-ab0f-f1f646e773e0",
-          "value": "7029a990-e41a-4a79-ab0f-f1f646e773e0",
-          "name": "7029a990-e41a-4a79-ab0f-f1f646e773e0"
+          "link": "https://beta.mowlit.ac.uk/public/text/193/",
+          "id": "ac32f8d9-1382-41d6-88bc-7b3ac47fd6d4",
+          "value": "ac32f8d9-1382-41d6-88bc-7b3ac47fd6d4",
+          "name": "ac32f8d9-1382-41d6-88bc-7b3ac47fd6d4"
         }
       },
       {
         "data": {
-          "label": "Cywydd i wagedd ac oferedd y byd: Pruddlawn ydyw'r corff priddlyd",
+          "label": "Ateb Llywelyn ap Gutun i gywydd dychan cyntaf Dafydd Llwyd o Fathafarn iddo: Mae g\u0175r i\u2019m dirmygu i",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/37/",
-          "id": "f60728eb-5b6e-4880-8ec2-52394ffb8e2e",
-          "value": "f60728eb-5b6e-4880-8ec2-52394ffb8e2e",
-          "name": "f60728eb-5b6e-4880-8ec2-52394ffb8e2e"
+          "link": "https://beta.mowlit.ac.uk/public/text/87/",
+          "id": "a4d2da60-eec0-4572-ba2f-f06a2f9929a7",
+          "value": "a4d2da60-eec0-4572-ba2f-f06a2f9929a7",
+          "name": "a4d2da60-eec0-4572-ba2f-f06a2f9929a7"
         }
       },
       {
         "data": {
-          "label": "Cywydd moliant Wiliam Herbart, Iarll Penfro: Gwledd gri a fu 'Nghaerllion",
+          "label": "[...] daw eryr o du arall: [...] daw eryr o du arall",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/53/",
-          "id": "01963842-6a5e-497e-ad87-6ed8fd17ff0e",
-          "value": "01963842-6a5e-497e-ad87-6ed8fd17ff0e",
-          "name": "01963842-6a5e-497e-ad87-6ed8fd17ff0e"
+          "link": "https://beta.mowlit.ac.uk/public/text/187/",
+          "id": "7f8b58ce-154e-422c-aac4-6902358c4c33",
+          "value": "7f8b58ce-154e-422c-aac4-6902358c4c33",
+          "name": "7f8b58ce-154e-422c-aac4-6902358c4c33"
         }
       },
       {
         "data": {
-          "label": "Cerdd ddarogan: Ef a daw Riain a bair difa saison ac yna i kaif y britaniaed vod yn benaf",
+          "label": "Cywydd merch: Y verch deg a[m] hanregodd",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/1/",
-          "id": "6b9745c4-5ccc-42f7-9a25-3d9292f9330e",
-          "value": "6b9745c4-5ccc-42f7-9a25-3d9292f9330e",
-          "name": "6b9745c4-5ccc-42f7-9a25-3d9292f9330e"
+          "link": "https://beta.mowlit.ac.uk/public/text/205/",
+          "id": "c45760d4-5fda-43a0-86d4-3371052d89c6",
+          "value": "c45760d4-5fda-43a0-86d4-3371052d89c6",
+          "name": "c45760d4-5fda-43a0-86d4-3371052d89c6"
         }
       },
       {
         "data": {
-          "label": "Cerdd ddarogan: Koed a laeddir koed a gedwyr",
+          "label": "Ystoria Alestotlys yn cynghori Alexander: A llyma lyfyr yr wyneb yr hwn a wnaeth Alisdotlis i alixsawnder mawr",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/161/",
-          "id": "f67b2a42-d922-415e-8dc9-0957e2e4cf12",
-          "value": "f67b2a42-d922-415e-8dc9-0957e2e4cf12",
-          "name": "f67b2a42-d922-415e-8dc9-0957e2e4cf12"
+          "link": "https://beta.mowlit.ac.uk/public/text/175/",
+          "id": "d134f6ef-ff89-4b97-b264-5d1564be456d",
+          "value": "d134f6ef-ff89-4b97-b264-5d1564be456d",
+          "name": "d134f6ef-ff89-4b97-b264-5d1564be456d"
         }
       },
       {
         "data": {
-          "label": "Cywydd ymryson i Guto'r Glyn: Rhyfedd ydiw arfeddyd",
+          "label": "Ateb Ieuan Tew Brydydd: Y fvn deiliw od ar faes",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/67/",
-          "id": "8f214a45-113e-4d8f-a745-e2c57cec95a2",
-          "value": "8f214a45-113e-4d8f-a745-e2c57cec95a2",
-          "name": "8f214a45-113e-4d8f-a745-e2c57cec95a2"
+          "link": "https://beta.mowlit.ac.uk/public/text/152/",
+          "id": "a8b4b89c-5e85-4481-8b3a-4b207a81f140",
+          "value": "a8b4b89c-5e85-4481-8b3a-4b207a81f140",
+          "name": "a8b4b89c-5e85-4481-8b3a-4b207a81f140"
+        }
+      },
+      {
+        "data": {
+          "label": "Darogan: Merddyn a ddyfod y kyfodav gath las yn y dwirain gida llew a draig",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/200/",
+          "id": "68a0600a-7168-4de9-b668-1be97fb2d833",
+          "value": "68a0600a-7168-4de9-b668-1be97fb2d833",
+          "name": "68a0600a-7168-4de9-b668-1be97fb2d833"
+        }
+      },
+      {
+        "data": {
+          "label": "Account of the sacraments: Ordo baptismus firmatis non iterantur",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/243/",
+          "id": "2690ca14-6f91-4d2c-a7d9-526251a23358",
+          "value": "2690ca14-6f91-4d2c-a7d9-526251a23358",
+          "name": "2690ca14-6f91-4d2c-a7d9-526251a23358"
+        }
+      },
+      {
+        "data": {
+          "label": "Interlude: O vy mrenyn [a]m arglwydd yn wir",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/203/",
+          "id": "3a1fc585-c1f6-4ec7-b3d1-20a1593efe57",
+          "value": "3a1fc585-c1f6-4ec7-b3d1-20a1593efe57",
+          "name": "3a1fc585-c1f6-4ec7-b3d1-20a1593efe57"
+        }
+      },
+      {
+        "data": {
+          "label": "Ateb i ddychan Syr Lewys Meudwy: Syr Lewys, felys ei fwyd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/121/",
+          "id": "07c58a95-4374-4517-941d-2bd0cb38858e",
+          "value": "07c58a95-4374-4517-941d-2bd0cb38858e",
+          "name": "07c58a95-4374-4517-941d-2bd0cb38858e"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd brud: Byd angall os dyallwn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/188/",
+          "id": "e7f58efc-f7b4-48aa-87b6-f998c3d34339",
+          "value": "e7f58efc-f7b4-48aa-87b6-f998c3d34339",
+          "name": "e7f58efc-f7b4-48aa-87b6-f998c3d34339"
         }
       },
       {
@@ -846,482 +846,22 @@
       },
       {
         "data": {
-          "label": "Cywydd brud: Pan dyner penyd aniawn",
+          "label": "Dialogue between a friar and a woman: [...] wolfe in a lambes skynne / here are two faces in o[...]",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/223/",
-          "id": "dadea91f-ad68-42c4-a4ae-ac8a401a99d1",
-          "value": "dadea91f-ad68-42c4-a4ae-ac8a401a99d1",
-          "name": "dadea91f-ad68-42c4-a4ae-ac8a401a99d1"
+          "link": "https://beta.mowlit.ac.uk/public/text/206/",
+          "id": "97f94c2c-45b4-407e-9d21-136a35271c80",
+          "value": "97f94c2c-45b4-407e-9d21-136a35271c80",
+          "name": "97f94c2c-45b4-407e-9d21-136a35271c80"
         }
       },
       {
         "data": {
-          "label": "Cywydd i ofyn am darw gan Si\u00f4n Fychan dros Rydderch ap Rhys: Ssion fychan hyd forganwg",
+          "label": "Cywydd marwnad Ieuan ap Rhobert a Gwenllian ferch Hywel, ei wraig: Duw a roes guledd drwy ais gwlad",
           "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/255/",
-          "id": "be4fd31e-aa2b-41a6-a114-6569b07f83e9",
-          "value": "be4fd31e-aa2b-41a6-a114-6569b07f83e9",
-          "name": "be4fd31e-aa2b-41a6-a114-6569b07f83e9"
-        }
-      },
-      {
-        "data": {
-          "label": "Llyma yr ymddiddan a fu rhwng Addaf yn uffern a Ieufan Fedyddiwr: Pa hawr yn y dydd y daw ffarglwydd ai hevrgldd [sic] yn keisiaw i gwelaff yn ynaf im gwyliaw y llaw an gwnaeth ar draeth draw",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/140/",
-          "id": "a314474a-7e1d-4128-8d6d-f292ca21ac96",
-          "value": "a314474a-7e1d-4128-8d6d-f292ca21ac96",
-          "name": "a314474a-7e1d-4128-8d6d-f292ca21ac96"
-        }
-      },
-      {
-        "data": {
-          "label": "Ateb Mastr Harri: Ievan wrgwn llawn gwn llwyd",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/26/",
-          "id": "041089cb-5d69-4c52-93d1-7e4ae9ba8350",
-          "value": "041089cb-5d69-4c52-93d1-7e4ae9ba8350",
-          "name": "041089cb-5d69-4c52-93d1-7e4ae9ba8350"
-        }
-      },
-      {
-        "data": {
-          "label": "Llyma hir laission gwalchmai a thrvsdan: Abrwysgyl fydd Ton anfeidrawl",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/75/",
-          "id": "32b36005-1681-43ec-8048-49d3b8704478",
-          "value": "32b36005-1681-43ec-8048-49d3b8704478",
-          "name": "32b36005-1681-43ec-8048-49d3b8704478"
-        }
-      },
-      {
-        "data": {
-          "label": "Llywelyn ap Rhys ab Ieuan",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/535/",
-          "id": "425e4410-022f-4d86-b87b-f367b85278d0",
-          "value": "425e4410-022f-4d86-b87b-f367b85278d0",
-          "name": "425e4410-022f-4d86-b87b-f367b85278d0"
-        }
-      },
-      {
-        "data": {
-          "label": "Ebostol y Sul: Gorchymyn a ddoeth or nef i orchymyn kadw duw svl or nef ir llawr",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/100/",
-          "id": "a1b8392b-ade9-4d46-8f5e-df215eaa4f9d",
-          "value": "a1b8392b-ade9-4d46-8f5e-df215eaa4f9d",
-          "name": "a1b8392b-ade9-4d46-8f5e-df215eaa4f9d"
-        }
-      },
-      {
-        "data": {
-          "label": "Awdl farwnad Mathau Goch: Mathe Goch llawer och lle 'raeth a ganaf",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/133/",
-          "id": "8d12db44-b486-498b-a69f-60a08cdbc365",
-          "value": "8d12db44-b486-498b-a69f-60a08cdbc365",
-          "name": "8d12db44-b486-498b-a69f-60a08cdbc365"
-        }
-      },
-      {
-        "data": {
-          "label": "Severn Valley (Area)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/525/",
-          "id": "00b8ea8c-eb3e-451d-bd90-955cdcaf9901",
-          "value": "00b8ea8c-eb3e-451d-bd90-955cdcaf9901",
-          "name": "00b8ea8c-eb3e-451d-bd90-955cdcaf9901"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd i fab a wisgwyd mewn dillad merch: Y fvn fwyn ddadyl lygadtlws",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/136/",
-          "id": "366092c8-fa6c-4c66-ba92-a75dd98565bb",
-          "value": "366092c8-fa6c-4c66-ba92-a75dd98565bb",
-          "name": "366092c8-fa6c-4c66-ba92-a75dd98565bb"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd moliant i Ddafydd ab Ieuan ab Owain o Gaereinion: Dauid ayr budd ifor barth",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/131/",
-          "id": "0c246840-80f2-4c26-a50f-6f99ec8c7831",
-          "value": "0c246840-80f2-4c26-a50f-6f99ec8c7831",
-          "name": "0c246840-80f2-4c26-a50f-6f99ec8c7831"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd moliant Rhys ap Meredudd o'r Tywyn: Res ore yn herrys ayron",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/110/",
-          "id": "37261522-2c4a-446f-99c0-a06f6ae80331",
-          "value": "37261522-2c4a-446f-99c0-a06f6ae80331",
-          "name": "37261522-2c4a-446f-99c0-a06f6ae80331"
-        }
-      },
-      {
-        "data": {
-          "label": "Angladd y Bardd (Claddu'r bardd o gariad): Y fun loywlan, fal lili",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/160/",
-          "id": "4715a27f-5b84-4dd9-a76b-675a93d752c5",
-          "value": "4715a27f-5b84-4dd9-a76b-675a93d752c5",
-          "name": "4715a27f-5b84-4dd9-a76b-675a93d752c5"
-        }
-      },
-      {
-        "data": {
-          "label": "Cerdd ddarogan: Pan fo r haf bric ton",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/76/",
-          "id": "5ade121c-7dfa-4b47-b243-4ebb2118db84",
-          "value": "5ade121c-7dfa-4b47-b243-4ebb2118db84",
-          "name": "5ade121c-7dfa-4b47-b243-4ebb2118db84"
-        }
-      },
-      {
-        "data": {
-          "label": "Ymryson Guto\u2019r Glyn a Hywel Dafi yn llys Syr Wiliam Herbert: Mawr yw dysg (yno mae'r da)",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/142/",
-          "id": "ae5a7250-da61-4a1c-948d-dec00503d416",
-          "value": "ae5a7250-da61-4a1c-948d-dec00503d416",
-          "name": "ae5a7250-da61-4a1c-948d-dec00503d416"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd marwnad Dafydd Llwyd ap Gruffudd Fychan: Trwm fu'r codded a'r tremig",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/102/",
-          "id": "fc9d4c1c-9e8b-452f-8964-4924cd55d57b",
-          "value": "fc9d4c1c-9e8b-452f-8964-4924cd55d57b",
-          "name": "fc9d4c1c-9e8b-452f-8964-4924cd55d57b"
-        }
-      },
-      {
-        "data": {
-          "label": "[...] daw eryr o du arall: [...] daw eryr o du arall",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/187/",
-          "id": "7f8b58ce-154e-422c-aac4-6902358c4c33",
-          "value": "7f8b58ce-154e-422c-aac4-6902358c4c33",
-          "name": "7f8b58ce-154e-422c-aac4-6902358c4c33"
-        }
-      },
-      {
-        "data": {
-          "label": "I ddangos fyrred oes dyn: Pand angall na ddeallwn",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/172/",
-          "id": "c03b93e8-62e6-46ff-899d-bfcc8ed9c31a",
-          "value": "c03b93e8-62e6-46ff-899d-bfcc8ed9c31a",
-          "name": "c03b93e8-62e6-46ff-899d-bfcc8ed9c31a"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd marwnad merch: Gwae fi - cedwais gof cadarn",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/231/",
-          "id": "6f69e669-b703-472a-bb06-847379ce86db",
-          "value": "6f69e669-b703-472a-bb06-847379ce86db",
-          "name": "6f69e669-b703-472a-bb06-847379ce86db"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd moliant i Edward Herbart ac Elsbeth ferch Mathau Goch, ei wraig: Trwy fonedd dawn trefnodd Duw",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/130/",
-          "id": "5c0c3618-3bce-46f1-bab9-b6c8b11426f7",
-          "value": "5c0c3618-3bce-46f1-bab9-b6c8b11426f7",
-          "name": "5c0c3618-3bce-46f1-bab9-b6c8b11426f7"
-        }
-      },
-      {
-        "data": {
-          "label": "Y rhugl groen: Fal yr oeddwn, fawl rwyddaf",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/4/",
-          "id": "717ce144-420d-48df-8f4b-83acecd01b57",
-          "value": "717ce144-420d-48df-8f4b-83acecd01b57",
-          "name": "717ce144-420d-48df-8f4b-83acecd01b57"
-        }
-      },
-      {
-        "data": {
-          "label": "Darogan: Merddyn a ddyfod y kyfodav gath las yn y dwirain gida llew a draig",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/200/",
-          "id": "68a0600a-7168-4de9-b668-1be97fb2d833",
-          "value": "68a0600a-7168-4de9-b668-1be97fb2d833",
-          "name": "68a0600a-7168-4de9-b668-1be97fb2d833"
-        }
-      },
-      {
-        "data": {
-          "label": "Englynion y misoedd: Mis Ionor myglyd dyfrin",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/71/",
-          "id": "e0ff52a2-fd46-4fea-8517-772bd8a22d48",
-          "value": "e0ff52a2-fd46-4fea-8517-772bd8a22d48",
-          "name": "e0ff52a2-fd46-4fea-8517-772bd8a22d48"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd marwnad Rhisiart Llwyd o'r Trallwng: Traeturiaid lle i troed hiraeth",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/66/",
-          "id": "041218e9-3c3c-4fd2-a080-1235c0a4b772",
-          "value": "041218e9-3c3c-4fd2-a080-1235c0a4b772",
-          "name": "041218e9-3c3c-4fd2-a080-1235c0a4b772"
-        }
-      },
-      {
-        "data": {
-          "label": "Hugh ap Porter",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/1044/",
-          "id": "bbc3c4aa-95dc-413c-9e44-1fba4180a193",
-          "value": "bbc3c4aa-95dc-413c-9e44-1fba4180a193",
-          "name": "bbc3c4aa-95dc-413c-9e44-1fba4180a193"
-        }
-      },
-      {
-        "data": {
-          "label": "Ystoria Adrian ac Ipotis: Pwy bynnac a vynho dyscu doethineb",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/21/",
-          "id": "444d0f04-2679-4391-99e1-79a9bb6f8fa4",
-          "value": "444d0f04-2679-4391-99e1-79a9bb6f8fa4",
-          "name": "444d0f04-2679-4391-99e1-79a9bb6f8fa4"
-        }
-      },
-      {
-        "data": {
-          "label": "Ateb Llywelyn ap Gutun i gywydd dychan cyntaf Dafydd Llwyd o Fathafarn iddo: Mae g\u0175r i\u2019m dirmygu i",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/87/",
-          "id": "a4d2da60-eec0-4572-ba2f-f06a2f9929a7",
-          "value": "a4d2da60-eec0-4572-ba2f-f06a2f9929a7",
-          "name": "a4d2da60-eec0-4572-ba2f-f06a2f9929a7"
-        }
-      },
-      {
-        "data": {
-          "label": "Ateb Ieuan Tew Brydydd: Y fvn deiliw od ar faes",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/152/",
-          "id": "a8b4b89c-5e85-4481-8b3a-4b207a81f140",
-          "value": "a8b4b89c-5e85-4481-8b3a-4b207a81f140",
-          "name": "a8b4b89c-5e85-4481-8b3a-4b207a81f140"
-        }
-      },
-      {
-        "data": {
-          "label": "Marrington (Gentry house)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/336/",
-          "id": "6b3cd770-9093-46cc-9c95-55b838a09499",
-          "value": "6b3cd770-9093-46cc-9c95-55b838a09499",
-          "name": "6b3cd770-9093-46cc-9c95-55b838a09499"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd moliant Wiliam Herbart, Iarll Penfro: Tri llu aeth i Gymru gynt",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/11/",
-          "id": "eefea903-2583-47af-b54a-9450f0c60b3c",
-          "value": "eefea903-2583-47af-b54a-9450f0c60b3c",
-          "name": "eefea903-2583-47af-b54a-9450f0c60b3c"
-        }
-      },
-      {
-        "data": {
-          "label": "Rhinwedd y gardod: Pwy bynac ai Roddo hi drwy gariad ac Efvddder i dyw medd saint awstyn",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/101/",
-          "id": "e5e936d0-41f9-4ca7-83c4-1dd54f3f5163",
-          "value": "e5e936d0-41f9-4ca7-83c4-1dd54f3f5163",
-          "name": "e5e936d0-41f9-4ca7-83c4-1dd54f3f5163"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd marwnad Si\u00f4n ab Ieuan Goch o Landinam: [P]ond eirrad rroi pen dewrredd",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/266/",
-          "id": "66f3140f-8667-42da-bcad-9aea32117ead",
-          "value": "66f3140f-8667-42da-bcad-9aea32117ead",
-          "name": "66f3140f-8667-42da-bcad-9aea32117ead"
-        }
-      },
-      {
-        "data": {
-          "label": "Cerdd ddarogan: Dyroganaf i brif gad gan geidwad prydin",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/44/",
-          "id": "8d30ed9c-519f-4690-971b-c9c9301ce291",
-          "value": "8d30ed9c-519f-4690-971b-c9c9301ce291",
-          "name": "8d30ed9c-519f-4690-971b-c9c9301ce291"
-        }
-      },
-      {
-        "data": {
-          "label": "Rhag Digio Duw (IGE2, 92): Tydi ddyn, tew dy donniau",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/147/",
-          "id": "e89ede60-8513-4e98-b5da-ae00d7952d89",
-          "value": "e89ede60-8513-4e98-b5da-ae00d7952d89",
-          "name": "e89ede60-8513-4e98-b5da-ae00d7952d89"
-        }
-      },
-      {
-        "data": {
-          "label": "Mynachlog yr Ysbryd Gl\u00e2n: Llyma lyfr a ddywed am y lle a elwir Manachlog yr Ysbryd Gl\u00e2n, yr hon a seiliwyd drwy L\u00e2n Gydwybod.",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/222/",
-          "id": "d840e785-01b8-48f5-8d68-ad63c352d328",
-          "value": "d840e785-01b8-48f5-8d68-ad63c352d328",
-          "name": "d840e785-01b8-48f5-8d68-ad63c352d328"
-        }
-      },
-      {
-        "data": {
-          "label": "Awdl fraith i Harri VIII: Krist kadwr wythved brenin deledoc",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/82/",
-          "id": "47df70c4-3e87-48cf-8907-4040d9363ad1",
-          "value": "47df70c4-3e87-48cf-8907-4040d9363ad1",
-          "name": "47df70c4-3e87-48cf-8907-4040d9363ad1"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd mawl a chyngor i Edward Herbart: Dyn a godes Duw'n geidwad",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/252/",
-          "id": "d99f0525-4d67-4ca6-9afe-abb0a6c08c70",
-          "value": "d99f0525-4d67-4ca6-9afe-abb0a6c08c70",
-          "name": "d99f0525-4d67-4ca6-9afe-abb0a6c08c70"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd y bi: Creu trin nis cred rhai ennyd",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/127/",
-          "id": "32ed5903-874c-4e23-b297-e88fdad7b13a",
-          "value": "32ed5903-874c-4e23-b297-e88fdad7b13a",
-          "name": "32ed5903-874c-4e23-b297-e88fdad7b13a"
-        }
-      },
-      {
-        "data": {
-          "label": "Measures and distances between the planets: Tri hid y gronvn gwenith yny ffodfedd tair modfedd yny balff",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/189/",
-          "id": "010da35a-b8c8-4df3-beb5-903339946299",
-          "value": "010da35a-b8c8-4df3-beb5-903339946299",
-          "name": "010da35a-b8c8-4df3-beb5-903339946299"
-        }
-      },
-      {
-        "data": {
-          "label": "Owen ap Moris ap Moris",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/702/",
-          "id": "c09cebe2-f6a0-4d53-9598-052a47250c15",
-          "value": "c09cebe2-f6a0-4d53-9598-052a47250c15",
-          "name": "c09cebe2-f6a0-4d53-9598-052a47250c15"
-        }
-      },
-      {
-        "data": {
-          "label": "Dychan gan Lywelyn ap Gutun i Guto\u2019r Glyn pan haerwyd ei foddi: Tristach yw Cymry trostyn'",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/90/",
-          "id": "91d74e0d-2bbf-4f3c-8be0-0ecd7f019903",
-          "value": "91d74e0d-2bbf-4f3c-8be0-0ecd7f019903",
-          "name": "91d74e0d-2bbf-4f3c-8be0-0ecd7f019903"
-        }
-      },
-      {
-        "data": {
-          "label": "Cerdd ddarogan: Diargel rryvel rrywyf am ddwy lan konwy",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/211/",
-          "id": "262204ae-8161-4e23-901b-d210327a154d",
-          "value": "262204ae-8161-4e23-901b-d210327a154d",
-          "name": "262204ae-8161-4e23-901b-d210327a154d"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd marwnad Si\u00f4n ap Siencyn o Lansanffraid-ym-Mechain: Maer akw lef ymrig kwlad",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/85/",
-          "id": "055ef085-1a53-483c-bae8-58f69a6e7a30",
-          "value": "055ef085-1a53-483c-bae8-58f69a6e7a30",
-          "name": "055ef085-1a53-483c-bae8-58f69a6e7a30"
-        }
-      },
-      {
-        "data": {
-          "label": "Llymar saith veddwl deithiol: Meddylied am ddvw ai gwnae/eth ar i lvn ai ddelw Ei hvnan",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/23/",
-          "id": "aa8a36f6-0508-4262-ba3d-cf5cd1227e0f",
-          "value": "aa8a36f6-0508-4262-ba3d-cf5cd1227e0f",
-          "name": "aa8a36f6-0508-4262-ba3d-cf5cd1227e0f"
-        }
-      },
-      {
-        "data": {
-          "label": "I ofyn tarw coch gan Risiart ap Siancyn Twrberfil o Landudwg: Edwart a\u2019i w\u0177r \u00e2i drwy\u2019r t\u00e2n",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/32/",
-          "id": "dc21b02c-9a8f-41ca-a1b3-b29400d4e599",
-          "value": "dc21b02c-9a8f-41ca-a1b3-b29400d4e599",
-          "name": "dc21b02c-9a8f-41ca-a1b3-b29400d4e599"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd moliant i fab Syr Rhisiart Herbart: Y g\u0175r a'i law hyd Gaer-ludd",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/95/",
-          "id": "287be4e0-2b3a-48b8-9313-685388013aa7",
-          "value": "287be4e0-2b3a-48b8-9313-685388013aa7",
-          "name": "287be4e0-2b3a-48b8-9313-685388013aa7"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd merch a phroffwydoliaeth arno: Y ferch mewn traserch a'm troes",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/170/",
-          "id": "4f44f45a-c6f6-45d2-8d25-ade9161c6853",
-          "value": "4f44f45a-c6f6-45d2-8d25-ade9161c6853",
-          "name": "4f44f45a-c6f6-45d2-8d25-ade9161c6853"
-        }
-      },
-      {
-        "data": {
-          "label": "Cywydd i ddiolch am darw coch gan Si\u00f4n ap Rhys o Aberpergwm yng Nglyn-nedd: Ewch feirdd o ddinbych i fon",
-          "type": "text",
-          "link": "https://beta.mowlit.ac.uk/public/text/271/",
-          "id": "bc567fc7-7929-451a-8571-7841653861e8",
-          "value": "bc567fc7-7929-451a-8571-7841653861e8",
-          "name": "bc567fc7-7929-451a-8571-7841653861e8"
+          "link": "https://beta.mowlit.ac.uk/public/text/38/",
+          "id": "059d09d9-011f-4467-96bb-646978ba26bd",
+          "value": "059d09d9-011f-4467-96bb-646978ba26bd",
+          "name": "059d09d9-011f-4467-96bb-646978ba26bd"
         }
       },
       {
@@ -1336,6 +876,216 @@
       },
       {
         "data": {
+          "label": "Cywydd moliant Syr Wiliam Herbart o Golbrwg a Si\u00e2n, ei wraig: Or Herbart hir a byrvt hen",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/92/",
+          "id": "e1933e2f-d025-407c-a98d-d54f4dc8b102",
+          "value": "e1933e2f-d025-407c-a98d-d54f4dc8b102",
+          "name": "e1933e2f-d025-407c-a98d-d54f4dc8b102"
+        }
+      },
+      {
+        "data": {
+          "label": "Measures and distances between the planets: Tri hid y gronvn gwenith yny ffodfedd tair modfedd yny balff",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/189/",
+          "id": "010da35a-b8c8-4df3-beb5-903339946299",
+          "value": "010da35a-b8c8-4df3-beb5-903339946299",
+          "name": "010da35a-b8c8-4df3-beb5-903339946299"
+        }
+      },
+      {
+        "data": {
+          "label": "List of Welsh words, phrases, and verse couplet",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/261/",
+          "id": "f24eadd0-e502-4f2a-9877-56a2394c1c69",
+          "value": "f24eadd0-e502-4f2a-9877-56a2394c1c69",
+          "name": "f24eadd0-e502-4f2a-9877-56a2394c1c69"
+        }
+      },
+      {
+        "data": {
+          "label": "Disgrifiad o wlad yr Iddewon: Llyma gyffarwydd ac yssbysrwydd am wlad karisselem yr hon a Elwyr yn lladyg Iuda ac yn gymraeg Tyr yr yddewon",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/25/",
+          "id": "bb481a58-df25-4467-a4f1-8d93921bee77",
+          "value": "bb481a58-df25-4467-a4f1-8d93921bee77",
+          "name": "bb481a58-df25-4467-a4f1-8d93921bee77"
+        }
+      },
+      {
+        "data": {
+          "label": "Llyma yr achosion i myn duw gadw duw sul: Duw syl i krewyd yr Engylion o bryadwys",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/239/",
+          "id": "335a4119-5b99-41e7-bce5-3a158656d0e4",
+          "value": "335a4119-5b99-41e7-bce5-3a158656d0e4",
+          "name": "335a4119-5b99-41e7-bce5-3a158656d0e4"
+        }
+      },
+      {
+        "data": {
+          "label": "Cerdd ddarogan: Na ddatkan dy gerdd yni wypych dy gyvedd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/103/",
+          "id": "62dfc700-1ef9-42c2-b2f7-1e72cc77987c",
+          "value": "62dfc700-1ef9-42c2-b2f7-1e72cc77987c",
+          "name": "62dfc700-1ef9-42c2-b2f7-1e72cc77987c"
+        }
+      },
+      {
+        "data": {
+          "label": "Awdl fraith i Harri VIII: Krist kadwr wythved brenin deledoc",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/82/",
+          "id": "47df70c4-3e87-48cf-8907-4040d9363ad1",
+          "value": "47df70c4-3e87-48cf-8907-4040d9363ad1",
+          "name": "47df70c4-3e87-48cf-8907-4040d9363ad1"
+        }
+      },
+      {
+        "data": {
+          "label": "Llyma hir laission gwalchmai a thrvsdan: Abrwysgyl fydd Ton anfeidrawl",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/75/",
+          "id": "32b36005-1681-43ec-8048-49d3b8704478",
+          "value": "32b36005-1681-43ec-8048-49d3b8704478",
+          "name": "32b36005-1681-43ec-8048-49d3b8704478"
+        }
+      },
+      {
+        "data": {
+          "label": "Cerdd ddarogan: Dyroganaf i brif gad gan geidwad prydin",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/44/",
+          "id": "8d30ed9c-519f-4690-971b-c9c9301ce291",
+          "value": "8d30ed9c-519f-4690-971b-c9c9301ce291",
+          "name": "8d30ed9c-519f-4690-971b-c9c9301ce291"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd brud: Deall i b\u00fbm dull y byd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/88/",
+          "id": "45d2116e-71f7-4235-a68a-01dec8dd705c",
+          "value": "45d2116e-71f7-4235-a68a-01dec8dd705c",
+          "name": "45d2116e-71f7-4235-a68a-01dec8dd705c"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd i ofyn am gi du gan Domas ap Dafydd ap Morus dros Faredudd ab Owain: Y bw dewr obai daraw",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/144/",
+          "id": "9685709d-0de4-4287-aa23-4c516355726f",
+          "value": "9685709d-0de4-4287-aa23-4c516355726f",
+          "name": "9685709d-0de4-4287-aa23-4c516355726f"
+        }
+      },
+      {
+        "data": {
+          "label": "Llyma modd y dowad Saint Awsdyn am rinwedd offeren y sul: Kynta Rynwedd yw hwn pob kam ar a gerddech i geisio yferen dduw svl",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/157/",
+          "id": "7029a990-e41a-4a79-ab0f-f1f646e773e0",
+          "value": "7029a990-e41a-4a79-ab0f-f1f646e773e0",
+          "name": "7029a990-e41a-4a79-ab0f-f1f646e773e0"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd brud: Rho Dduw frud ynfyd annoeth",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/264/",
+          "id": "81e6782d-1ec7-4678-b4b7-7a762995f4c8",
+          "value": "81e6782d-1ec7-4678-b4b7-7a762995f4c8",
+          "name": "81e6782d-1ec7-4678-b4b7-7a762995f4c8"
+        }
+      },
+      {
+        "data": {
+          "label": "Angladd y Bardd (Claddu'r bardd o gariad): Y fun loywlan, fal lili",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/160/",
+          "id": "4715a27f-5b84-4dd9-a76b-675a93d752c5",
+          "value": "4715a27f-5b84-4dd9-a76b-675a93d752c5",
+          "name": "4715a27f-5b84-4dd9-a76b-675a93d752c5"
+        }
+      },
+      {
+        "data": {
+          "label": "Hugh ap Porter",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1044/",
+          "id": "bbc3c4aa-95dc-413c-9e44-1fba4180a193",
+          "value": "bbc3c4aa-95dc-413c-9e44-1fba4180a193",
+          "name": "bbc3c4aa-95dc-413c-9e44-1fba4180a193"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd moliant Rhisiart Llwyd o'r Hafod-wen: Pwy a'n piau pen Powys",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/9/",
+          "id": "4163929a-f972-4b1c-ad5c-b9360da9960a",
+          "value": "4163929a-f972-4b1c-ad5c-b9360da9960a",
+          "name": "4163929a-f972-4b1c-ad5c-b9360da9960a"
+        }
+      },
+      {
+        "data": {
+          "label": "Gofyn main melin gan Lewys ap Tomas, Llanbadarn, dros Fathau Goch ap Tomas, y Drenewydd: Pwy oll \u00e2 gair pell i gyd?",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/228/",
+          "id": "a2c958d9-8aa4-47f4-9900-c6a6bfd53db5",
+          "value": "a2c958d9-8aa4-47f4-9900-c6a6bfd53db5",
+          "name": "a2c958d9-8aa4-47f4-9900-c6a6bfd53db5"
+        }
+      },
+      {
+        "data": {
+          "label": "Awdl farwnad Mathau Goch: Mathe Goch llawer och lle 'raeth a ganaf",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/133/",
+          "id": "8d12db44-b486-498b-a69f-60a08cdbc365",
+          "value": "8d12db44-b486-498b-a69f-60a08cdbc365",
+          "name": "8d12db44-b486-498b-a69f-60a08cdbc365"
+        }
+      },
+      {
+        "data": {
+          "label": "I'r Byd (IGE2, 85): Llyma y byd, cyd cadarn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/59/",
+          "id": "09ba80ec-a50d-4a5b-b9bd-5d6fff449529",
+          "value": "09ba80ec-a50d-4a5b-b9bd-5d6fff449529",
+          "name": "09ba80ec-a50d-4a5b-b9bd-5d6fff449529"
+        }
+      },
+      {
+        "data": {
+          "label": "I Owain Glynd\u0175r: Eryr digrif afrifed",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/60/",
+          "id": "be684f61-8861-4184-92e2-60f3a9259a7a",
+          "value": "be684f61-8861-4184-92e2-60f3a9259a7a",
+          "name": "be684f61-8861-4184-92e2-60f3a9259a7a"
+        }
+      },
+      {
+        "data": {
+          "label": "Yr het fedw: Yr het fedw, da y'th gedwir",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/138/",
+          "id": "3f5666aa-09b8-4f10-b3e9-1b5ec9ab1496",
+          "value": "3f5666aa-09b8-4f10-b3e9-1b5ec9ab1496",
+          "name": "3f5666aa-09b8-4f10-b3e9-1b5ec9ab1496"
+        }
+      },
+      {
+        "data": {
           "label": "Cywydd brud: Brawd vrddas llwyd vrddol",
           "type": "text",
           "link": "https://beta.mowlit.ac.uk/public/text/181/",
@@ -1343,77 +1093,287 @@
           "value": "49cacc49-3c33-4e0e-b6c1-7455b366a042",
           "name": "49cacc49-3c33-4e0e-b6c1-7455b366a042"
         }
+      },
+      {
+        "data": {
+          "label": "Cywydd y Nordd: Gwae a aned oi geni",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/146/",
+          "id": "381867fb-15d3-4635-a1db-f42bd90644cc",
+          "value": "381867fb-15d3-4635-a1db-f42bd90644cc",
+          "name": "381867fb-15d3-4635-a1db-f42bd90644cc"
+        }
+      },
+      {
+        "data": {
+          "label": "Ateb Guto'r Glyn i farwnad Llywelyn ap Gutun iddo: Mae llef oer, mae llifeiriaint",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/235/",
+          "id": "17834049-27d8-48f4-9e25-5f0d4fbd3bf3",
+          "value": "17834049-27d8-48f4-9e25-5f0d4fbd3bf3",
+          "name": "17834049-27d8-48f4-9e25-5f0d4fbd3bf3"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd i ferch a'r bardd yn hen \u0175r: Y lloer wen llyw eira vnos",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/247/",
+          "id": "46260459-68a3-4be2-8187-bea6bc66c77e",
+          "value": "46260459-68a3-4be2-8187-bea6bc66c77e",
+          "name": "46260459-68a3-4be2-8187-bea6bc66c77e"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd mawl a chyngor i Edward Herbart: Dyn a godes Duw'n geidwad",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/252/",
+          "id": "d99f0525-4d67-4ca6-9afe-abb0a6c08c70",
+          "value": "d99f0525-4d67-4ca6-9afe-abb0a6c08c70",
+          "name": "d99f0525-4d67-4ca6-9afe-abb0a6c08c70"
+        }
+      },
+      {
+        "data": {
+          "label": "Rhinwedd y gardod: Pwy bynac ai Roddo hi drwy gariad ac Efvddder i dyw medd saint awstyn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/101/",
+          "id": "e5e936d0-41f9-4ca7-83c4-1dd54f3f5163",
+          "value": "e5e936d0-41f9-4ca7-83c4-1dd54f3f5163",
+          "name": "e5e936d0-41f9-4ca7-83c4-1dd54f3f5163"
+        }
+      },
+      {
+        "data": {
+          "label": "Cerdd ddarogan: Fo ddaw byd drud esgidie",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/265/",
+          "id": "77d7f8d7-36aa-48fe-8a7d-6a6337fd30a0",
+          "value": "77d7f8d7-36aa-48fe-8a7d-6a6337fd30a0",
+          "name": "77d7f8d7-36aa-48fe-8a7d-6a6337fd30a0"
+        }
+      },
+      {
+        "data": {
+          "label": "Cerdd ddarogan: Hoenan barchellan barchaen gwyn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/14/",
+          "id": "fa61a36b-2949-45ee-8b41-199f5d2343b6",
+          "value": "fa61a36b-2949-45ee-8b41-199f5d2343b6",
+          "name": "fa61a36b-2949-45ee-8b41-199f5d2343b6"
+        }
+      },
+      {
+        "data": {
+          "label": "Hin o frenhinoedd a fu wedi cwncwest: Wyliam basdart a fv xxii",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/232/",
+          "id": "44255c68-e033-49c5-a04c-ab4738c22a31",
+          "value": "44255c68-e033-49c5-a04c-ab4738c22a31",
+          "name": "44255c68-e033-49c5-a04c-ab4738c22a31"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd moliant Dafydd Llwyd Blaenau o Dregynon ac Elsbeth, ei wraig: Y mab ai glaim ymhob gwlad",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/10/",
+          "id": "bc728da1-8ac2-4a20-b30d-dbe7fb835899",
+          "value": "bc728da1-8ac2-4a20-b30d-dbe7fb835899",
+          "name": "bc728da1-8ac2-4a20-b30d-dbe7fb835899"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd merch a phroffwydoliaeth arno: Y ferch mewn traserch a'm troes",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/170/",
+          "id": "4f44f45a-c6f6-45d2-8d25-ade9161c6853",
+          "value": "4f44f45a-c6f6-45d2-8d25-ade9161c6853",
+          "name": "4f44f45a-c6f6-45d2-8d25-ade9161c6853"
+        }
+      },
+      {
+        "data": {
+          "label": "Cerdd ddarogan: Ef a daw Riain a bair difa saison ac yna i kaif y britaniaed vod yn benaf",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/1/",
+          "id": "6b9745c4-5ccc-42f7-9a25-3d9292f9330e",
+          "value": "6b9745c4-5ccc-42f7-9a25-3d9292f9330e",
+          "name": "6b9745c4-5ccc-42f7-9a25-3d9292f9330e"
+        }
+      },
+      {
+        "data": {
+          "label": "Cerdd ddarogan: Wyf bard o varddawyd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/128/",
+          "id": "e097448c-b2c8-4f85-8c59-91b8ed6738da",
+          "value": "e097448c-b2c8-4f85-8c59-91b8ed6738da",
+          "name": "e097448c-b2c8-4f85-8c59-91b8ed6738da"
+        }
+      },
+      {
+        "data": {
+          "label": "I ddangos fyrred oes dyn: Pand angall na ddeallwn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/172/",
+          "id": "c03b93e8-62e6-46ff-899d-bfcc8ed9c31a",
+          "value": "c03b93e8-62e6-46ff-899d-bfcc8ed9c31a",
+          "name": "c03b93e8-62e6-46ff-899d-bfcc8ed9c31a"
+        }
+      },
+      {
+        "data": {
+          "label": "Cerdd ddarogan: Gwyr mon ai gwyl ar vn pen bryn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/229/",
+          "id": "28f32036-fe18-48f5-86b7-a07478597708",
+          "value": "28f32036-fe18-48f5-86b7-a07478597708",
+          "name": "28f32036-fe18-48f5-86b7-a07478597708"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd moliant Wiliam Herbart, Iarll Penfro: Gwledd gri a fu 'Nghaerllion",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/53/",
+          "id": "01963842-6a5e-497e-ad87-6ed8fd17ff0e",
+          "value": "01963842-6a5e-497e-ad87-6ed8fd17ff0e",
+          "name": "01963842-6a5e-497e-ad87-6ed8fd17ff0e"
+        }
+      },
+      {
+        "data": {
+          "label": "I ferch: Prydd wyf vel i parai ddyn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/155/",
+          "id": "52e49326-a121-4686-b064-c207b29dfc62",
+          "value": "52e49326-a121-4686-b064-c207b29dfc62",
+          "name": "52e49326-a121-4686-b064-c207b29dfc62"
+        }
+      },
+      {
+        "data": {
+          "label": "Reinald ap Morys",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/573/",
+          "id": "78bdb8d6-291d-4e2b-b28a-f054cd5ee7be",
+          "value": "78bdb8d6-291d-4e2b-b28a-f054cd5ee7be",
+          "name": "78bdb8d6-291d-4e2b-b28a-f054cd5ee7be"
+        }
+      },
+      {
+        "data": {
+          "label": "Moliant i Golbrwg, cartref Syr Rhisiart Herbert: A oes unplas yn siampler?",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/154/",
+          "id": "5d26ba97-0af2-4c31-bc65-725264aa5b16",
+          "value": "5d26ba97-0af2-4c31-bc65-725264aa5b16",
+          "name": "5d26ba97-0af2-4c31-bc65-725264aa5b16"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd i fab a wisgwyd mewn dillad merch: Y fvn fwyn ddadyl lygadtlws",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/136/",
+          "id": "366092c8-fa6c-4c66-ba92-a75dd98565bb",
+          "value": "366092c8-fa6c-4c66-ba92-a75dd98565bb",
+          "name": "366092c8-fa6c-4c66-ba92-a75dd98565bb"
+        }
+      },
+      {
+        "data": {
+          "label": "Cadwaladr ap Rhys Trefnant",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/172/",
+          "id": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "value": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "name": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd moliant Rhys ap Meredudd o'r Tywyn: Res ore yn herrys ayron",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/110/",
+          "id": "37261522-2c4a-446f-99c0-a06f6ae80331",
+          "value": "37261522-2c4a-446f-99c0-a06f6ae80331",
+          "name": "37261522-2c4a-446f-99c0-a06f6ae80331"
+        }
+      },
+      {
+        "data": {
+          "label": "Ymryson Guto\u2019r Glyn a Hywel Dafi yn llys Syr Wiliam Herbert: Mawr yw dysg (yno mae'r da)",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/142/",
+          "id": "ae5a7250-da61-4a1c-948d-dec00503d416",
+          "value": "ae5a7250-da61-4a1c-948d-dec00503d416",
+          "name": "ae5a7250-da61-4a1c-948d-dec00503d416"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd marwnad merch: Gwae fi - cedwais gof cadarn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/231/",
+          "id": "6f69e669-b703-472a-bb06-847379ce86db",
+          "value": "6f69e669-b703-472a-bb06-847379ce86db",
+          "name": "6f69e669-b703-472a-bb06-847379ce86db"
+        }
+      },
+      {
+        "data": {
+          "label": "Cywydd moliant Wmffre Llwyd ap Dafydd Llwyd: Powys sy flin powyse vlaenwr",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/108/",
+          "id": "a4352e67-f25c-406e-a7b0-8fc72a728fc5",
+          "value": "a4352e67-f25c-406e-a7b0-8fc72a728fc5",
+          "name": "a4352e67-f25c-406e-a7b0-8fc72a728fc5"
+        }
+      },
+      {
+        "data": {
+          "label": "Ymddiddan rhwng Gwenddydd a'i brawd: Llyma yr ymddyddan a vy rrvng gwenddydd ai brawd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/105/",
+          "id": "a17d3860-5938-4ffe-aa74-43b6ba522bf5",
+          "value": "a17d3860-5938-4ffe-aa74-43b6ba522bf5",
+          "name": "a17d3860-5938-4ffe-aa74-43b6ba522bf5"
+        }
       }
     ],
     "edges": [
       {
         "data": {
-          "rel_id": "5597bcee-f981-4461-ac20-f71611098f1d",
-          "label": "author",
-          "weight": 1.0,
-          "source": "9685709d-0de4-4287-aa23-4c516355726f",
-          "target": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
-          "key": "5597bcee-f981-4461-ac20-f71611098f1d"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "5761545d-e6af-446f-a1f1-e489c4e6c85e",
-          "label": "author",
-          "weight": 1.0,
-          "source": "4163929a-f972-4b1c-ad5c-b9360da9960a",
-          "target": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
-          "key": "5761545d-e6af-446f-a1f1-e489c4e6c85e"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "4306820d-03be-4e3a-9332-48b40e08f676",
-          "label": "author",
-          "weight": 1.0,
-          "source": "6b08bf4f-c114-4205-aff9-cf5dd6b312d7",
-          "target": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
-          "key": "4306820d-03be-4e3a-9332-48b40e08f676"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "290f7980-1436-4ac0-91f3-c292a671950c",
-          "label": "author",
-          "weight": 1.0,
-          "source": "9a339272-c955-473d-9d10-26a94c28de7e",
-          "target": "d2820067-9be2-4541-82d8-23e99afea37c",
-          "key": "290f7980-1436-4ac0-91f3-c292a671950c"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "379e51ee-ca88-4063-87e3-8b9b58309f14",
-          "label": "author",
+          "rel_id": "60a3dbf3-fdf6-48ab-b02c-9bf7f0719824_0",
+          "label": "reader",
           "weight": 0.4,
-          "source": "059d09d9-011f-4467-96bb-646978ba26bd",
-          "target": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
-          "key": "379e51ee-ca88-4063-87e3-8b9b58309f14"
+          "source": "c09cebe2-f6a0-4d53-9598-052a47250c15",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
+          "key": "60a3dbf3-fdf6-48ab-b02c-9bf7f0719824_0"
         }
       },
       {
         "data": {
-          "rel_id": "e9e9dd44-c9c2-4539-b7ea-c20ebf2269ae",
-          "label": "author",
+          "rel_id": "0e0a86e5-5c56-44d2-90f0-40b689d61284_0",
+          "label": "reader",
           "weight": 0.4,
-          "source": "f24eadd0-e502-4f2a-9877-56a2394c1c69",
-          "target": "425e4410-022f-4d86-b87b-f367b85278d0",
-          "key": "e9e9dd44-c9c2-4539-b7ea-c20ebf2269ae"
+          "source": "f47577f9-d9ae-4f3a-8ac8-2fe28a67f93c",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
+          "key": "0e0a86e5-5c56-44d2-90f0-40b689d61284_0"
         }
       },
       {
         "data": {
-          "rel_id": "d13fd0e6-8016-4236-865b-0e6710b2310f",
-          "label": "author",
+          "rel_id": "e4545d45-4a8a-44f9-804e-1188db8a7ffe_0",
+          "label": "scribe",
           "weight": 1.0,
-          "source": "cf9dce84-23d7-4042-9e85-349c0135fc0c",
-          "target": "d2820067-9be2-4541-82d8-23e99afea37c",
-          "key": "d13fd0e6-8016-4236-865b-0e6710b2310f"
+          "source": "548d753b-a66b-4b0a-9b50-3d6cf1d5702c",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
+          "key": "e4545d45-4a8a-44f9-804e-1188db8a7ffe_0"
         }
       },
       {
@@ -1438,82 +1398,22 @@
       },
       {
         "data": {
-          "rel_id": "7706995e-67d2-497c-95a8-37634b74483a",
-          "label": "author",
-          "weight": 0.4,
-          "source": "2b6c05f7-3fac-42ff-a25e-4ed0eb71d85b",
-          "target": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
-          "key": "7706995e-67d2-497c-95a8-37634b74483a"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "7c8b09f7-5be6-4a74-a937-ba414fed6734",
-          "label": "author",
-          "weight": 1.0,
-          "source": "ff55d26b-ad33-476a-9b56-7839c59768b5",
-          "target": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
-          "key": "7c8b09f7-5be6-4a74-a937-ba414fed6734"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "60a3dbf3-fdf6-48ab-b02c-9bf7f0719824_0",
-          "label": "reader",
-          "weight": 0.4,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "c09cebe2-f6a0-4d53-9598-052a47250c15",
-          "key": "60a3dbf3-fdf6-48ab-b02c-9bf7f0719824_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "f7cfbb23-6035-4e43-8961-348748d34f8d_0",
-          "label": "scribe",
-          "weight": 1.0,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "9986a65f-fb2d-4693-aca0-b1c856438856",
-          "key": "f7cfbb23-6035-4e43-8961-348748d34f8d_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "47d565ab-72be-4d88-870e-a97051101a05_0",
-          "label": "reader",
-          "weight": 0.4,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "bbc3c4aa-95dc-413c-9e44-1fba4180a193",
-          "key": "47d565ab-72be-4d88-870e-a97051101a05_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "0e0a86e5-5c56-44d2-90f0-40b689d61284_0",
-          "label": "reader",
-          "weight": 0.4,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "f47577f9-d9ae-4f3a-8ac8-2fe28a67f93c",
-          "key": "0e0a86e5-5c56-44d2-90f0-40b689d61284_0"
-        }
-      },
-      {
-        "data": {
           "rel_id": "bd27a4b4-f369-4a52-af26-564d4b5c8ed8_0",
           "label": "owner",
           "weight": 1.0,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "80244142-b0da-4712-8919-f2e8a2496aac",
+          "source": "80244142-b0da-4712-8919-f2e8a2496aac",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
           "key": "bd27a4b4-f369-4a52-af26-564d4b5c8ed8_0"
         }
       },
       {
         "data": {
-          "rel_id": "83f6bf8e-6920-4d05-8862-8df0c3eb1d2d_0",
+          "rel_id": "798bb94a-0dde-4b99-bdc0-51a2a4450c3a_0",
           "label": "reader",
           "weight": 0.4,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "78bdb8d6-291d-4e2b-b28a-f054cd5ee7be",
-          "key": "83f6bf8e-6920-4d05-8862-8df0c3eb1d2d_0"
+          "source": "df291738-42d2-4e0b-ad27-ead612e12f92",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
+          "key": "798bb94a-0dde-4b99-bdc0-51a2a4450c3a_0"
         }
       },
       {
@@ -1521,8 +1421,8 @@
           "rel_id": "ec86e43f-079e-4dd5-8edc-0735ffc197a2_0",
           "label": "scribe",
           "weight": 1.0,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "d2820067-9be2-4541-82d8-23e99afea37c",
+          "source": "d2820067-9be2-4541-82d8-23e99afea37c",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
           "key": "ec86e43f-079e-4dd5-8edc-0735ffc197a2_0"
         }
       },
@@ -1531,59 +1431,79 @@
           "rel_id": "ec86e43f-079e-4dd5-8edc-0735ffc197a2_1",
           "label": "author",
           "weight": 1.0,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "d2820067-9be2-4541-82d8-23e99afea37c",
+          "source": "d2820067-9be2-4541-82d8-23e99afea37c",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
           "key": "ec86e43f-079e-4dd5-8edc-0735ffc197a2_1"
         }
       },
       {
         "data": {
-          "rel_id": "1a3806ee-9610-4cd2-8352-2c5497e8732c_0",
-          "label": "scribe",
-          "weight": 1.0,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "425e4410-022f-4d86-b87b-f367b85278d0",
-          "key": "1a3806ee-9610-4cd2-8352-2c5497e8732c_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "8ed7b8ae-4826-4b69-9467-eafc9fb95a05_0",
-          "label": "scribe",
-          "weight": 1.0,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
-          "key": "8ed7b8ae-4826-4b69-9467-eafc9fb95a05_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "8ed7b8ae-4826-4b69-9467-eafc9fb95a05_1",
+          "rel_id": "290f7980-1436-4ac0-91f3-c292a671950c",
           "label": "author",
           "weight": 1.0,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
-          "key": "8ed7b8ae-4826-4b69-9467-eafc9fb95a05_1"
+          "source": "d2820067-9be2-4541-82d8-23e99afea37c",
+          "target": "9a339272-c955-473d-9d10-26a94c28de7e",
+          "key": "290f7980-1436-4ac0-91f3-c292a671950c"
         }
       },
       {
         "data": {
-          "rel_id": "e4545d45-4a8a-44f9-804e-1188db8a7ffe_0",
+          "rel_id": "d13fd0e6-8016-4236-865b-0e6710b2310f",
+          "label": "author",
+          "weight": 1.0,
+          "source": "d2820067-9be2-4541-82d8-23e99afea37c",
+          "target": "cf9dce84-23d7-4042-9e85-349c0135fc0c",
+          "key": "d13fd0e6-8016-4236-865b-0e6710b2310f"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "40a10d30-e905-4da0-97e7-6105a1cc8155",
+          "label": "author",
+          "weight": 1.0,
+          "source": "d2820067-9be2-4541-82d8-23e99afea37c",
+          "target": "041218e9-3c3c-4fd2-a080-1235c0a4b772",
+          "key": "40a10d30-e905-4da0-97e7-6105a1cc8155"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "57d4aae5-6a8d-4e3a-ba64-87b637e5a7db",
+          "label": "author",
+          "weight": 1.0,
+          "source": "d2820067-9be2-4541-82d8-23e99afea37c",
+          "target": "366092c8-fa6c-4c66-ba92-a75dd98565bb",
+          "key": "57d4aae5-6a8d-4e3a-ba64-87b637e5a7db"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "01b4c514-1f4b-4164-9572-78ac6de2eaba",
+          "label": "author",
+          "weight": 1.0,
+          "source": "d2820067-9be2-4541-82d8-23e99afea37c",
+          "target": "5c0c3618-3bce-46f1-bab9-b6c8b11426f7",
+          "key": "01b4c514-1f4b-4164-9572-78ac6de2eaba"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "da76e9ec-de84-4870-b313-b585d9e5f27c",
+          "label": "author",
+          "weight": 1.0,
+          "source": "d2820067-9be2-4541-82d8-23e99afea37c",
+          "target": "d99f0525-4d67-4ca6-9afe-abb0a6c08c70",
+          "key": "da76e9ec-de84-4870-b313-b585d9e5f27c"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "f7cfbb23-6035-4e43-8961-348748d34f8d_0",
           "label": "scribe",
           "weight": 1.0,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "548d753b-a66b-4b0a-9b50-3d6cf1d5702c",
-          "key": "e4545d45-4a8a-44f9-804e-1188db8a7ffe_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "798bb94a-0dde-4b99-bdc0-51a2a4450c3a_0",
-          "label": "reader",
-          "weight": 0.4,
-          "source": "f33e3402-d157-4c61-856e-7b54a4ced67e",
-          "target": "df291738-42d2-4e0b-ad27-ead612e12f92",
-          "key": "798bb94a-0dde-4b99-bdc0-51a2a4450c3a_0"
+          "source": "9986a65f-fb2d-4693-aca0-b1c856438856",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
+          "key": "f7cfbb23-6035-4e43-8961-348748d34f8d_0"
         }
       },
       {
@@ -2868,12 +2788,92 @@
       },
       {
         "data": {
+          "rel_id": "1a3806ee-9610-4cd2-8352-2c5497e8732c_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "source": "425e4410-022f-4d86-b87b-f367b85278d0",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
+          "key": "1a3806ee-9610-4cd2-8352-2c5497e8732c_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "e9e9dd44-c9c2-4539-b7ea-c20ebf2269ae",
+          "label": "author",
+          "weight": 0.4,
+          "source": "425e4410-022f-4d86-b87b-f367b85278d0",
+          "target": "f24eadd0-e502-4f2a-9877-56a2394c1c69",
+          "key": "e9e9dd44-c9c2-4539-b7ea-c20ebf2269ae"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "47d565ab-72be-4d88-870e-a97051101a05_0",
+          "label": "reader",
+          "weight": 0.4,
+          "source": "bbc3c4aa-95dc-413c-9e44-1fba4180a193",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
+          "key": "47d565ab-72be-4d88-870e-a97051101a05_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "83f6bf8e-6920-4d05-8862-8df0c3eb1d2d_0",
+          "label": "reader",
+          "weight": 0.4,
+          "source": "78bdb8d6-291d-4e2b-b28a-f054cd5ee7be",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
+          "key": "83f6bf8e-6920-4d05-8862-8df0c3eb1d2d_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "8ed7b8ae-4826-4b69-9467-eafc9fb95a05_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "source": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
+          "key": "8ed7b8ae-4826-4b69-9467-eafc9fb95a05_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "8ed7b8ae-4826-4b69-9467-eafc9fb95a05_1",
+          "label": "author",
+          "weight": 1.0,
+          "source": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "target": "f33e3402-d157-4c61-856e-7b54a4ced67e",
+          "key": "8ed7b8ae-4826-4b69-9467-eafc9fb95a05_1"
+        }
+      },
+      {
+        "data": {
           "rel_id": "13d1102c-9746-4ff2-b8b8-efacefdb876d",
           "label": "author",
           "weight": 1.0,
-          "source": "6c3d141f-5d60-4262-9cf2-eb3122f9f798",
-          "target": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "source": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "target": "6c3d141f-5d60-4262-9cf2-eb3122f9f798",
           "key": "13d1102c-9746-4ff2-b8b8-efacefdb876d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "379e51ee-ca88-4063-87e3-8b9b58309f14",
+          "label": "author",
+          "weight": 0.4,
+          "source": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "target": "059d09d9-011f-4467-96bb-646978ba26bd",
+          "key": "379e51ee-ca88-4063-87e3-8b9b58309f14"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "7c8b09f7-5be6-4a74-a937-ba414fed6734",
+          "label": "author",
+          "weight": 1.0,
+          "source": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "target": "ff55d26b-ad33-476a-9b56-7839c59768b5",
+          "key": "7c8b09f7-5be6-4a74-a937-ba414fed6734"
         }
       },
       {
@@ -2881,59 +2881,9 @@
           "rel_id": "76edd5c2-5d0d-4798-9c24-9a204d72b23c",
           "label": "author",
           "weight": 0.4,
-          "source": "8d12db44-b486-498b-a69f-60a08cdbc365",
-          "target": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "source": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "target": "8d12db44-b486-498b-a69f-60a08cdbc365",
           "key": "76edd5c2-5d0d-4798-9c24-9a204d72b23c"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "57d4aae5-6a8d-4e3a-ba64-87b637e5a7db",
-          "label": "author",
-          "weight": 1.0,
-          "source": "366092c8-fa6c-4c66-ba92-a75dd98565bb",
-          "target": "d2820067-9be2-4541-82d8-23e99afea37c",
-          "key": "57d4aae5-6a8d-4e3a-ba64-87b637e5a7db"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "01b4c514-1f4b-4164-9572-78ac6de2eaba",
-          "label": "author",
-          "weight": 1.0,
-          "source": "5c0c3618-3bce-46f1-bab9-b6c8b11426f7",
-          "target": "d2820067-9be2-4541-82d8-23e99afea37c",
-          "key": "01b4c514-1f4b-4164-9572-78ac6de2eaba"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "40a10d30-e905-4da0-97e7-6105a1cc8155",
-          "label": "author",
-          "weight": 1.0,
-          "source": "041218e9-3c3c-4fd2-a080-1235c0a4b772",
-          "target": "d2820067-9be2-4541-82d8-23e99afea37c",
-          "key": "40a10d30-e905-4da0-97e7-6105a1cc8155"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "7ac774ca-0a4a-49e1-8392-54431eb151a1",
-          "label": "author",
-          "weight": 0.4,
-          "source": "66f3140f-8667-42da-bcad-9aea32117ead",
-          "target": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
-          "key": "7ac774ca-0a4a-49e1-8392-54431eb151a1"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "da76e9ec-de84-4870-b313-b585d9e5f27c",
-          "label": "author",
-          "weight": 1.0,
-          "source": "d99f0525-4d67-4ca6-9afe-abb0a6c08c70",
-          "target": "d2820067-9be2-4541-82d8-23e99afea37c",
-          "key": "da76e9ec-de84-4870-b313-b585d9e5f27c"
         }
       },
       {
@@ -2941,9 +2891,59 @@
           "rel_id": "75a1d31a-4fdc-4b57-8125-a630e60502e0",
           "label": "author",
           "weight": 0.4,
-          "source": "287be4e0-2b3a-48b8-9313-685388013aa7",
-          "target": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "source": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "target": "287be4e0-2b3a-48b8-9313-685388013aa7",
           "key": "75a1d31a-4fdc-4b57-8125-a630e60502e0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "4306820d-03be-4e3a-9332-48b40e08f676",
+          "label": "author",
+          "weight": 1.0,
+          "source": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "target": "6b08bf4f-c114-4205-aff9-cf5dd6b312d7",
+          "key": "4306820d-03be-4e3a-9332-48b40e08f676"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "7706995e-67d2-497c-95a8-37634b74483a",
+          "label": "author",
+          "weight": 0.4,
+          "source": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "target": "2b6c05f7-3fac-42ff-a25e-4ed0eb71d85b",
+          "key": "7706995e-67d2-497c-95a8-37634b74483a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "5597bcee-f981-4461-ac20-f71611098f1d",
+          "label": "author",
+          "weight": 1.0,
+          "source": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "target": "9685709d-0de4-4287-aa23-4c516355726f",
+          "key": "5597bcee-f981-4461-ac20-f71611098f1d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "7ac774ca-0a4a-49e1-8392-54431eb151a1",
+          "label": "author",
+          "weight": 0.4,
+          "source": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "target": "66f3140f-8667-42da-bcad-9aea32117ead",
+          "key": "7ac774ca-0a4a-49e1-8392-54431eb151a1"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "5761545d-e6af-446f-a1f1-e489c4e6c85e",
+          "label": "author",
+          "weight": 1.0,
+          "source": "8a6619fc-2dae-477e-8d58-d9ee9675d3ee",
+          "target": "4163929a-f972-4b1c-ad5c-b9360da9960a",
+          "key": "5761545d-e6af-446f-a1f1-e489c4e6c85e"
         }
       }
     ]
