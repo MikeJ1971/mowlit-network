@@ -6,82 +6,12 @@
     "nodes": [
       {
         "data": {
-          "label": "Whitland Abbey (Abbey)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/109/",
-          "id": "780b842c-82d1-43f7-b5ca-f50996477e2c",
-          "value": "780b842c-82d1-43f7-b5ca-f50996477e2c",
-          "name": "780b842c-82d1-43f7-b5ca-f50996477e2c"
-        }
-      },
-      {
-        "data": {
-          "label": "Haverford (Marcher lordship)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/1/",
-          "id": "05f43fa2-7d8c-4df8-a517-1e1e25012464",
-          "value": "05f43fa2-7d8c-4df8-a517-1e1e25012464",
-          "name": "05f43fa2-7d8c-4df8-a517-1e1e25012464"
-        }
-      },
-      {
-        "data": {
-          "label": "John Scudamore (Sir John Scudamore II), d. >1461",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/436/",
-          "id": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "value": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "name": "d239c54f-20b7-45b0-aa72-b0d6bf407166"
-        }
-      },
-      {
-        "data": {
-          "label": "Shropshire (County)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/12/",
-          "id": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
-          "value": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
-          "name": "3aed0a1c-3d7c-446d-8412-d968e39b6b39"
-        }
-      },
-      {
-        "data": {
           "label": "Worcestershire (County)",
           "type": "place",
           "link": "https://beta.mowlit.ac.uk/public/place/173/",
           "id": "b72480be-9648-44c4-a7c3-14958044b7ec",
           "value": "b72480be-9648-44c4-a7c3-14958044b7ec",
           "name": "b72480be-9648-44c4-a7c3-14958044b7ec"
-        }
-      },
-      {
-        "data": {
-          "label": "Newport (Marcher lordship)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/236/",
-          "id": "338e6b18-d9d8-4a89-92e1-9532d3ec531d",
-          "value": "338e6b18-d9d8-4a89-92e1-9532d3ec531d",
-          "name": "338e6b18-d9d8-4a89-92e1-9532d3ec531d"
-        }
-      },
-      {
-        "data": {
-          "label": "Gloucestershire (County)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/341/",
-          "id": "336927f5-2cb0-4d87-b0b4-6377c49104fd",
-          "value": "336927f5-2cb0-4d87-b0b4-6377c49104fd",
-          "name": "336927f5-2cb0-4d87-b0b4-6377c49104fd"
-        }
-      },
-      {
-        "data": {
-          "label": "Hay (Marcher lordship)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/63/",
-          "id": "1e184f4f-e6e1-4cbd-acdf-9dec0aa8e24e",
-          "value": "1e184f4f-e6e1-4cbd-acdf-9dec0aa8e24e",
-          "name": "1e184f4f-e6e1-4cbd-acdf-9dec0aa8e24e"
         }
       },
       {
@@ -96,12 +26,32 @@
       },
       {
         "data": {
-          "label": "Carmarthenshire (County)",
+          "label": "Cantref Bychan (Marcher lordship)",
           "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/983/",
-          "id": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
-          "value": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
-          "name": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3"
+          "link": "https://beta.mowlit.ac.uk/public/place/531/",
+          "id": "68f3849e-3632-4c77-a869-f71b62476ae8",
+          "value": "68f3849e-3632-4c77-a869-f71b62476ae8",
+          "name": "68f3849e-3632-4c77-a869-f71b62476ae8"
+        }
+      },
+      {
+        "data": {
+          "label": "Herefordshire (County)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/568/",
+          "id": "19b852e3-a033-4688-adca-bcb426982aa4",
+          "value": "19b852e3-a033-4688-adca-bcb426982aa4",
+          "name": "19b852e3-a033-4688-adca-bcb426982aa4"
+        }
+      },
+      {
+        "data": {
+          "label": "Talley Abbey (Abbey)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/138/",
+          "id": "89b28981-1242-4562-99be-258c17403fe8",
+          "value": "89b28981-1242-4562-99be-258c17403fe8",
+          "name": "89b28981-1242-4562-99be-258c17403fe8"
         }
       },
       {
@@ -126,92 +76,12 @@
       },
       {
         "data": {
-          "label": "Herefordshire (County)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/568/",
-          "id": "19b852e3-a033-4688-adca-bcb426982aa4",
-          "value": "19b852e3-a033-4688-adca-bcb426982aa4",
-          "name": "19b852e3-a033-4688-adca-bcb426982aa4"
-        }
-      },
-      {
-        "data": {
-          "label": "Pembroke (Marcher lordship)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/464/",
-          "id": "71c2222e-c771-4ddd-bd6b-948bedb037f4",
-          "value": "71c2222e-c771-4ddd-bd6b-948bedb037f4",
-          "name": "71c2222e-c771-4ddd-bd6b-948bedb037f4"
-        }
-      },
-      {
-        "data": {
-          "label": "William Rede",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/500/",
-          "id": "cc757f7f-6f45-4bd3-813d-be7cc4a41302",
-          "value": "cc757f7f-6f45-4bd3-813d-be7cc4a41302",
-          "name": "cc757f7f-6f45-4bd3-813d-be7cc4a41302"
-        }
-      },
-      {
-        "data": {
           "label": "John Tuchet, d. 19 December 1408",
           "type": "person",
           "link": "https://beta.mowlit.ac.uk/public/person/680/",
           "id": "b56ac48f-8c86-4730-857c-c78deb618570",
           "value": "b56ac48f-8c86-4730-857c-c78deb618570",
           "name": "b56ac48f-8c86-4730-857c-c78deb618570"
-        }
-      },
-      {
-        "data": {
-          "label": "Talley Abbey (Abbey)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/138/",
-          "id": "89b28981-1242-4562-99be-258c17403fe8",
-          "value": "89b28981-1242-4562-99be-258c17403fe8",
-          "name": "89b28981-1242-4562-99be-258c17403fe8"
-        }
-      },
-      {
-        "data": {
-          "label": "Gruffudd ap Nicolas, d. c. 1460",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/1455/",
-          "id": "d595ed32-29a2-4013-b939-fe8d4f61b980",
-          "value": "d595ed32-29a2-4013-b939-fe8d4f61b980",
-          "name": "d595ed32-29a2-4013-b939-fe8d4f61b980"
-        }
-      },
-      {
-        "data": {
-          "label": "Duchy of Lancaster (Region)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/187/",
-          "id": "ce9bcf5c-112e-4307-ac84-bcde1fbccf8c",
-          "value": "ce9bcf5c-112e-4307-ac84-bcde1fbccf8c",
-          "name": "ce9bcf5c-112e-4307-ac84-bcde1fbccf8c"
-        }
-      },
-      {
-        "data": {
-          "label": "Cantref Bychan (Marcher lordship)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/531/",
-          "id": "68f3849e-3632-4c77-a869-f71b62476ae8",
-          "value": "68f3849e-3632-4c77-a869-f71b62476ae8",
-          "name": "68f3849e-3632-4c77-a869-f71b62476ae8"
-        }
-      },
-      {
-        "data": {
-          "label": "Ceredigion (County)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/982/",
-          "id": "ff677875-962e-4abb-806a-64be95482d72",
-          "value": "ff677875-962e-4abb-806a-64be95482d72",
-          "name": "ff677875-962e-4abb-806a-64be95482d72"
         }
       },
       {
@@ -226,6 +96,76 @@
       },
       {
         "data": {
+          "label": "James Tuchet (5th Baron Audley), d. 23 September 1459",
+          "type": "ego",
+          "link": "https://beta.mowlit.ac.uk/public/person/240/",
+          "id": "6cefed46-0e52-47b3-af19-b43b51767a03",
+          "value": "6cefed46-0e52-47b3-af19-b43b51767a03",
+          "name": "6cefed46-0e52-47b3-af19-b43b51767a03"
+        }
+      },
+      {
+        "data": {
+          "label": "Shropshire (County)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/12/",
+          "id": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
+          "value": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
+          "name": "3aed0a1c-3d7c-446d-8412-d968e39b6b39"
+        }
+      },
+      {
+        "data": {
+          "label": "Hay (Marcher lordship)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/63/",
+          "id": "1e184f4f-e6e1-4cbd-acdf-9dec0aa8e24e",
+          "value": "1e184f4f-e6e1-4cbd-acdf-9dec0aa8e24e",
+          "name": "1e184f4f-e6e1-4cbd-acdf-9dec0aa8e24e"
+        }
+      },
+      {
+        "data": {
+          "label": "Gruffudd ap Nicolas, d. c. 1460",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1455/",
+          "id": "d595ed32-29a2-4013-b939-fe8d4f61b980",
+          "value": "d595ed32-29a2-4013-b939-fe8d4f61b980",
+          "name": "d595ed32-29a2-4013-b939-fe8d4f61b980"
+        }
+      },
+      {
+        "data": {
+          "label": "Pembroke (Marcher lordship)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/464/",
+          "id": "71c2222e-c771-4ddd-bd6b-948bedb037f4",
+          "value": "71c2222e-c771-4ddd-bd6b-948bedb037f4",
+          "name": "71c2222e-c771-4ddd-bd6b-948bedb037f4"
+        }
+      },
+      {
+        "data": {
+          "label": "John Scudamore (Sir John Scudamore II), d. >1461",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/436/",
+          "id": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "value": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "name": "d239c54f-20b7-45b0-aa72-b0d6bf407166"
+        }
+      },
+      {
+        "data": {
+          "label": "Carmarthenshire (County)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/983/",
+          "id": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
+          "value": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
+          "name": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3"
+        }
+      },
+      {
+        "data": {
           "label": "Edward Stradling, d. 5 May 1453",
           "type": "person",
           "link": "https://beta.mowlit.ac.uk/public/person/1094/",
@@ -236,12 +176,22 @@
       },
       {
         "data": {
-          "label": "James Tuchet (5th Baron Audley), d. 23 September 1459",
-          "type": "ego",
-          "link": "https://beta.mowlit.ac.uk/public/person/240/",
-          "id": "6cefed46-0e52-47b3-af19-b43b51767a03",
-          "value": "6cefed46-0e52-47b3-af19-b43b51767a03",
-          "name": "6cefed46-0e52-47b3-af19-b43b51767a03"
+          "label": "Whitland Abbey (Abbey)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/109/",
+          "id": "780b842c-82d1-43f7-b5ca-f50996477e2c",
+          "value": "780b842c-82d1-43f7-b5ca-f50996477e2c",
+          "name": "780b842c-82d1-43f7-b5ca-f50996477e2c"
+        }
+      },
+      {
+        "data": {
+          "label": "Gloucestershire (County)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/341/",
+          "id": "336927f5-2cb0-4d87-b0b4-6377c49104fd",
+          "value": "336927f5-2cb0-4d87-b0b4-6377c49104fd",
+          "name": "336927f5-2cb0-4d87-b0b4-6377c49104fd"
         }
       },
       {
@@ -256,6 +206,26 @@
       },
       {
         "data": {
+          "label": "William Rede",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/500/",
+          "id": "cc757f7f-6f45-4bd3-813d-be7cc4a41302",
+          "value": "cc757f7f-6f45-4bd3-813d-be7cc4a41302",
+          "name": "cc757f7f-6f45-4bd3-813d-be7cc4a41302"
+        }
+      },
+      {
+        "data": {
+          "label": "Newport (Marcher lordship)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/236/",
+          "id": "338e6b18-d9d8-4a89-92e1-9532d3ec531d",
+          "value": "338e6b18-d9d8-4a89-92e1-9532d3ec531d",
+          "name": "338e6b18-d9d8-4a89-92e1-9532d3ec531d"
+        }
+      },
+      {
+        "data": {
           "label": "Margaret Roos (daughter of William Roos)",
           "type": "person",
           "link": "https://beta.mowlit.ac.uk/public/person/913/",
@@ -263,137 +233,48 @@
           "value": "7ded86de-255f-4f7b-84cc-8c5cb617c527",
           "name": "7ded86de-255f-4f7b-84cc-8c5cb617c527"
         }
+      },
+      {
+        "data": {
+          "label": "Ceredigion (County)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/982/",
+          "id": "ff677875-962e-4abb-806a-64be95482d72",
+          "value": "ff677875-962e-4abb-806a-64be95482d72",
+          "name": "ff677875-962e-4abb-806a-64be95482d72"
+        }
+      },
+      {
+        "data": {
+          "label": "Haverford (Marcher lordship)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/1/",
+          "id": "05f43fa2-7d8c-4df8-a517-1e1e25012464",
+          "value": "05f43fa2-7d8c-4df8-a517-1e1e25012464",
+          "name": "05f43fa2-7d8c-4df8-a517-1e1e25012464"
+        }
+      },
+      {
+        "data": {
+          "label": "Duchy of Lancaster (Region)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/187/",
+          "id": "ce9bcf5c-112e-4307-ac84-bcde1fbccf8c",
+          "value": "ce9bcf5c-112e-4307-ac84-bcde1fbccf8c",
+          "name": "ce9bcf5c-112e-4307-ac84-bcde1fbccf8c"
+        }
       }
     ],
     "edges": [
       {
         "data": {
-          "rel_id": "5dd3461c-d4ca-493b-9ec2-2e2159e31623",
+          "rel_id": "37b58319-3f2d-44b6-ba94-0b6823a75519",
           "label": "place_a_within_place_b",
           "weight": 1.0,
-          "source": "780b842c-82d1-43f7-b5ca-f50996477e2c",
+          "inverse": false,
+          "source": "89b28981-1242-4562-99be-258c17403fe8",
           "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
-          "key": "5dd3461c-d4ca-493b-9ec2-2e2159e31623"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "11c5d37f-d5cb-497b-bfac-b0f8ba06cf43",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "target": "6cefed46-0e52-47b3-af19-b43b51767a03",
-          "key": "11c5d37f-d5cb-497b-bfac-b0f8ba06cf43"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "01bef8a9-3a9f-426e-824a-41384b05ed02",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "target": "d595ed32-29a2-4013-b939-fe8d4f61b980",
-          "key": "01bef8a9-3a9f-426e-824a-41384b05ed02"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "f0e743c4-3cf2-4046-8f5e-45e619ed23d7",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "target": "ce9bcf5c-112e-4307-ac84-bcde1fbccf8c",
-          "key": "f0e743c4-3cf2-4046-8f5e-45e619ed23d7"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "5aa4cea8-6ba2-4b7e-947a-31e6fc0e234c",
-          "label": "justice",
-          "weight": 0.1,
-          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "target": "19b852e3-a033-4688-adca-bcb426982aa4",
-          "key": "5aa4cea8-6ba2-4b7e-947a-31e6fc0e234c"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "df19f9d3-4970-46b9-a37d-cb7e75bb4a54",
-          "label": "justice",
-          "weight": 0.1,
-          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "target": "19b852e3-a033-4688-adca-bcb426982aa4",
-          "key": "df19f9d3-4970-46b9-a37d-cb7e75bb4a54"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "8668abb2-8f7d-40f3-9230-6f6609379137",
-          "label": "justice",
-          "weight": 0.1,
-          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "target": "19b852e3-a033-4688-adca-bcb426982aa4",
-          "key": "8668abb2-8f7d-40f3-9230-6f6609379137"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "fd48536c-b017-46a3-a8eb-218fdfd4b744",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
-          "key": "fd48536c-b017-46a3-a8eb-218fdfd4b744"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "3a2ee686-dbec-4063-8b94-1aff09dba6a3",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "target": "fcacb6dd-21d7-43af-80df-e891a20bf3b3",
-          "key": "3a2ee686-dbec-4063-8b94-1aff09dba6a3"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "c8fc9f87-dbb3-418d-8fcc-9851688b3bba",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "target": "05f43fa2-7d8c-4df8-a517-1e1e25012464",
-          "key": "c8fc9f87-dbb3-418d-8fcc-9851688b3bba"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "6f72d9c2-2dd5-4d8a-81c3-13d1093639b4",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "target": "71c2222e-c771-4ddd-bd6b-948bedb037f4",
-          "key": "6f72d9c2-2dd5-4d8a-81c3-13d1093639b4"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "33b5343f-d1a7-48e3-ba7a-2466b511df5a",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "target": "71c2222e-c771-4ddd-bd6b-948bedb037f4",
-          "key": "33b5343f-d1a7-48e3-ba7a-2466b511df5a"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "60595349-9429-4e8e-8886-f0b04cc4f1b1",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
-          "target": "ff677875-962e-4abb-806a-64be95482d72",
-          "key": "60595349-9429-4e8e-8886-f0b04cc4f1b1"
+          "key": "37b58319-3f2d-44b6-ba94-0b6823a75519"
         }
       },
       {
@@ -401,6 +282,7 @@
           "rel_id": "dff9bb4a-9666-4c09-ba99-018b04d5621d",
           "label": "lord",
           "weight": 0.1,
+          "inverse": false,
           "source": "e32c9fa6-86ae-4f73-b50a-2623bd0b38cc",
           "target": "68f3849e-3632-4c77-a869-f71b62476ae8",
           "key": "dff9bb4a-9666-4c09-ba99-018b04d5621d"
@@ -411,6 +293,7 @@
           "rel_id": "2537cf90-6798-4719-9770-09b4b842fd29",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "e32c9fa6-86ae-4f73-b50a-2623bd0b38cc",
           "target": "19b852e3-a033-4688-adca-bcb426982aa4",
           "key": "2537cf90-6798-4719-9770-09b4b842fd29"
@@ -421,6 +304,7 @@
           "rel_id": "a3dcf71e-727f-4564-a7c2-3739ff495b43",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "e32c9fa6-86ae-4f73-b50a-2623bd0b38cc",
           "target": "19b852e3-a033-4688-adca-bcb426982aa4",
           "key": "a3dcf71e-727f-4564-a7c2-3739ff495b43"
@@ -431,6 +315,7 @@
           "rel_id": "e1c0e326-9fb6-41da-bf21-5ef7f7cb518c",
           "label": "lord",
           "weight": 0.1,
+          "inverse": false,
           "source": "e32c9fa6-86ae-4f73-b50a-2623bd0b38cc",
           "target": "fd77986e-5674-4d14-9127-263212a9dd12",
           "key": "e1c0e326-9fb6-41da-bf21-5ef7f7cb518c"
@@ -441,6 +326,7 @@
           "rel_id": "b5077160-694d-49ef-a6e6-f7c47f18b085",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "e32c9fa6-86ae-4f73-b50a-2623bd0b38cc",
           "target": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
           "key": "b5077160-694d-49ef-a6e6-f7c47f18b085"
@@ -451,6 +337,7 @@
           "rel_id": "1d5dcdc7-b6b9-4b29-a3b8-796fcdc24814",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "e32c9fa6-86ae-4f73-b50a-2623bd0b38cc",
           "target": "336927f5-2cb0-4d87-b0b4-6377c49104fd",
           "key": "1d5dcdc7-b6b9-4b29-a3b8-796fcdc24814"
@@ -461,6 +348,7 @@
           "rel_id": "651ed9f2-308d-4887-a572-f6d691be09c5",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "e32c9fa6-86ae-4f73-b50a-2623bd0b38cc",
           "target": "b72480be-9648-44c4-a7c3-14958044b7ec",
           "key": "651ed9f2-308d-4887-a572-f6d691be09c5"
@@ -468,39 +356,10 @@
       },
       {
         "data": {
-          "rel_id": "5cd41146-68d9-4df6-822a-14b52f6963ba",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "cc757f7f-6f45-4bd3-813d-be7cc4a41302",
-          "target": "64e970c1-3e7b-4fce-a48a-c88f6e185ecd",
-          "key": "5cd41146-68d9-4df6-822a-14b52f6963ba"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "e1b4c2f8-d19a-4a7b-96db-a4316f1686ad",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "cc757f7f-6f45-4bd3-813d-be7cc4a41302",
-          "target": "6cefed46-0e52-47b3-af19-b43b51767a03",
-          "key": "e1b4c2f8-d19a-4a7b-96db-a4316f1686ad"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "b7270682-0763-475c-af6c-2e9656725c5f",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "cc757f7f-6f45-4bd3-813d-be7cc4a41302",
-          "target": "89b28981-1242-4562-99be-258c17403fe8",
-          "key": "b7270682-0763-475c-af6c-2e9656725c5f"
-        }
-      },
-      {
-        "data": {
           "rel_id": "5051533f-906c-49e8-aa6a-dc7150c97336",
           "label": "person_a_father_of_person_b",
           "weight": 1.0,
+          "inverse": false,
           "source": "b56ac48f-8c86-4730-857c-c78deb618570",
           "target": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "key": "5051533f-906c-49e8-aa6a-dc7150c97336"
@@ -511,6 +370,7 @@
           "rel_id": "06625d86-8600-43c8-9341-6c740a2a042d",
           "label": "lord",
           "weight": 0.1,
+          "inverse": false,
           "source": "b56ac48f-8c86-4730-857c-c78deb618570",
           "target": "fd77986e-5674-4d14-9127-263212a9dd12",
           "key": "06625d86-8600-43c8-9341-6c740a2a042d"
@@ -521,6 +381,7 @@
           "rel_id": "9184baae-6f1f-4654-a45e-9fa09cc20671",
           "label": "lord",
           "weight": 0.1,
+          "inverse": false,
           "source": "b56ac48f-8c86-4730-857c-c78deb618570",
           "target": "68f3849e-3632-4c77-a869-f71b62476ae8",
           "key": "9184baae-6f1f-4654-a45e-9fa09cc20671"
@@ -528,79 +389,10 @@
       },
       {
         "data": {
-          "rel_id": "37b58319-3f2d-44b6-ba94-0b6823a75519",
-          "label": "place_a_within_place_b",
-          "weight": 1.0,
-          "source": "89b28981-1242-4562-99be-258c17403fe8",
-          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
-          "key": "37b58319-3f2d-44b6-ba94-0b6823a75519"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "87257253-5e46-4393-b0d5-58590ee43905",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "d595ed32-29a2-4013-b939-fe8d4f61b980",
-          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
-          "key": "87257253-5e46-4393-b0d5-58590ee43905"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "8d2fe046-1542-464d-9df7-7ea12dbdb9f3",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "d595ed32-29a2-4013-b939-fe8d4f61b980",
-          "target": "ff677875-962e-4abb-806a-64be95482d72",
-          "key": "8d2fe046-1542-464d-9df7-7ea12dbdb9f3"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "f4471a47-ac83-4350-83da-2de844dfedc5",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "d595ed32-29a2-4013-b939-fe8d4f61b980",
-          "target": "ce9bcf5c-112e-4307-ac84-bcde1fbccf8c",
-          "key": "f4471a47-ac83-4350-83da-2de844dfedc5"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "a44fafd9-b003-466d-8bef-47291bfa64ee",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "d595ed32-29a2-4013-b939-fe8d4f61b980",
-          "target": "05f43fa2-7d8c-4df8-a517-1e1e25012464",
-          "key": "a44fafd9-b003-466d-8bef-47291bfa64ee"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "755a2c19-e06f-43a7-a981-81adc10e69b0",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "d595ed32-29a2-4013-b939-fe8d4f61b980",
-          "target": "71c2222e-c771-4ddd-bd6b-948bedb037f4",
-          "key": "755a2c19-e06f-43a7-a981-81adc10e69b0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "23f72e9f-cad5-4411-ae78-953224074911",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "64e970c1-3e7b-4fce-a48a-c88f6e185ecd",
-          "target": "89b28981-1242-4562-99be-258c17403fe8",
-          "key": "23f72e9f-cad5-4411-ae78-953224074911"
-        }
-      },
-      {
-        "data": {
           "rel_id": "e3dec6fc-58bd-43ba-9bb2-8523cc03c57c",
           "label": "person_a_spouse_person_b",
           "weight": 1.0,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "7ded86de-255f-4f7b-84cc-8c5cb617c527",
           "key": "e3dec6fc-58bd-43ba-9bb2-8523cc03c57c"
@@ -611,6 +403,7 @@
           "rel_id": "54516f9a-3ba9-49a0-9f6a-dbc78abb2a33",
           "label": "person_a_father_of_person_b",
           "weight": 1.0,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "e32c9fa6-86ae-4f73-b50a-2623bd0b38cc",
           "key": "54516f9a-3ba9-49a0-9f6a-dbc78abb2a33"
@@ -621,6 +414,7 @@
           "rel_id": "acb697b5-01ed-4310-ae1f-c4b049e0cf31",
           "label": "person_a_is_associated_with_person_b",
           "weight": 1.0,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "64e970c1-3e7b-4fce-a48a-c88f6e185ecd",
           "key": "acb697b5-01ed-4310-ae1f-c4b049e0cf31"
@@ -631,6 +425,7 @@
           "rel_id": "97ef73b6-b36c-4de6-81a1-779c7399dabf",
           "label": "person_a_spouse_person_b",
           "weight": 1.0,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "0509fabc-00ad-41bb-8e3b-738437d02a29",
           "key": "97ef73b6-b36c-4de6-81a1-779c7399dabf"
@@ -641,6 +436,7 @@
           "rel_id": "a2271869-557a-43bf-bae3-9cb5b0ea2af8",
           "label": "person_a_is_associated_with_person_b",
           "weight": 1.0,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "d595ed32-29a2-4013-b939-fe8d4f61b980",
           "key": "a2271869-557a-43bf-bae3-9cb5b0ea2af8"
@@ -651,6 +447,7 @@
           "rel_id": "1c798f5e-d3cc-40b4-81e8-8a56d4ad9d93",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "19b852e3-a033-4688-adca-bcb426982aa4",
           "key": "1c798f5e-d3cc-40b4-81e8-8a56d4ad9d93"
@@ -661,6 +458,7 @@
           "rel_id": "33fb85c7-7877-4336-a66c-47f4a5d2aa5e",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "19b852e3-a033-4688-adca-bcb426982aa4",
           "key": "33fb85c7-7877-4336-a66c-47f4a5d2aa5e"
@@ -671,6 +469,7 @@
           "rel_id": "58b593a1-4787-4dcc-a338-f78be387a9cd",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "19b852e3-a033-4688-adca-bcb426982aa4",
           "key": "58b593a1-4787-4dcc-a338-f78be387a9cd"
@@ -681,6 +480,7 @@
           "rel_id": "37ad18aa-325d-4566-97fd-eeae96a2ad7f",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "19b852e3-a033-4688-adca-bcb426982aa4",
           "key": "37ad18aa-325d-4566-97fd-eeae96a2ad7f"
@@ -691,6 +491,7 @@
           "rel_id": "2b3792cf-d411-43e5-934d-6165bf971213",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "19b852e3-a033-4688-adca-bcb426982aa4",
           "key": "2b3792cf-d411-43e5-934d-6165bf971213"
@@ -701,6 +502,7 @@
           "rel_id": "fa508979-cffd-4352-b614-3b2a4e6b2d2a",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "19b852e3-a033-4688-adca-bcb426982aa4",
           "key": "fa508979-cffd-4352-b614-3b2a4e6b2d2a"
@@ -711,6 +513,7 @@
           "rel_id": "b396b9ac-5396-4706-a0b1-14a9f75c27d0",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "19b852e3-a033-4688-adca-bcb426982aa4",
           "key": "b396b9ac-5396-4706-a0b1-14a9f75c27d0"
@@ -721,6 +524,7 @@
           "rel_id": "253097e9-85e3-4c62-ae1b-5977d071187f",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "19b852e3-a033-4688-adca-bcb426982aa4",
           "key": "253097e9-85e3-4c62-ae1b-5977d071187f"
@@ -731,6 +535,7 @@
           "rel_id": "c36881eb-ab26-44fc-ac0f-64ded8fd9500",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "19b852e3-a033-4688-adca-bcb426982aa4",
           "key": "c36881eb-ab26-44fc-ac0f-64ded8fd9500"
@@ -741,6 +546,7 @@
           "rel_id": "3ee77af0-8fb9-4b5f-9155-2f0f9ff72e7f",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "ff677875-962e-4abb-806a-64be95482d72",
           "key": "3ee77af0-8fb9-4b5f-9155-2f0f9ff72e7f"
@@ -751,6 +557,7 @@
           "rel_id": "57bedbb5-bec6-4fc9-be35-49b513c6e923",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "ff677875-962e-4abb-806a-64be95482d72",
           "key": "57bedbb5-bec6-4fc9-be35-49b513c6e923"
@@ -761,6 +568,7 @@
           "rel_id": "0ade17d7-e7ee-44e3-974f-476385b7ac3d",
           "label": "chamberlain",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "ff677875-962e-4abb-806a-64be95482d72",
           "key": "0ade17d7-e7ee-44e3-974f-476385b7ac3d"
@@ -771,6 +579,7 @@
           "rel_id": "c0333f95-9ea3-45fb-a4fa-a2ea72b2369a",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "ff677875-962e-4abb-806a-64be95482d72",
           "key": "c0333f95-9ea3-45fb-a4fa-a2ea72b2369a"
@@ -781,6 +590,7 @@
           "rel_id": "e94605de-52a7-42f6-9600-6a5181605718",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "b72480be-9648-44c4-a7c3-14958044b7ec",
           "key": "e94605de-52a7-42f6-9600-6a5181605718"
@@ -791,6 +601,7 @@
           "rel_id": "e0704e04-38af-4fab-8a61-81d557a3fd93",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "b72480be-9648-44c4-a7c3-14958044b7ec",
           "key": "e0704e04-38af-4fab-8a61-81d557a3fd93"
@@ -801,6 +612,7 @@
           "rel_id": "26b94557-7738-4d3c-a765-a088e01fbb34",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
           "key": "26b94557-7738-4d3c-a765-a088e01fbb34"
@@ -811,6 +623,7 @@
           "rel_id": "f34c06e7-8c77-44d2-bc0a-fd47d0526f3c",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
           "key": "f34c06e7-8c77-44d2-bc0a-fd47d0526f3c"
@@ -821,6 +634,7 @@
           "rel_id": "85104d26-aa49-4f81-81d3-0304c1bf5952",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
           "key": "85104d26-aa49-4f81-81d3-0304c1bf5952"
@@ -831,6 +645,7 @@
           "rel_id": "c9e63d70-8ba1-43af-a7e0-a7b8bb9038ac",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
           "key": "c9e63d70-8ba1-43af-a7e0-a7b8bb9038ac"
@@ -841,6 +656,7 @@
           "rel_id": "0e310354-8e0d-4d53-943c-6dc22678f938",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
           "key": "0e310354-8e0d-4d53-943c-6dc22678f938"
@@ -851,6 +667,7 @@
           "rel_id": "596942b3-b4f0-44b7-8739-bd2abaf98515",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
           "key": "596942b3-b4f0-44b7-8739-bd2abaf98515"
@@ -861,6 +678,7 @@
           "rel_id": "dd03ace3-646c-4b12-ac7b-49b3d9f52ff9",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
           "key": "dd03ace3-646c-4b12-ac7b-49b3d9f52ff9"
@@ -871,6 +689,7 @@
           "rel_id": "6f28f8aa-17c5-4533-ab3c-bc7fd1ad73c0",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
           "key": "6f28f8aa-17c5-4533-ab3c-bc7fd1ad73c0"
@@ -881,6 +700,7 @@
           "rel_id": "dc33384b-57f4-448d-8638-6fe381c812a1",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
           "key": "dc33384b-57f4-448d-8638-6fe381c812a1"
@@ -891,6 +711,7 @@
           "rel_id": "fe191fb3-752a-47b9-bc8a-60577f9a5c6c",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
           "key": "fe191fb3-752a-47b9-bc8a-60577f9a5c6c"
@@ -901,6 +722,7 @@
           "rel_id": "d0703a96-a065-4bc6-aa03-e10f6d83735f",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "3aed0a1c-3d7c-446d-8412-d968e39b6b39",
           "key": "d0703a96-a065-4bc6-aa03-e10f6d83735f"
@@ -911,6 +733,7 @@
           "rel_id": "92d0faa7-1984-4f5b-928a-1922a978beb4",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
           "key": "92d0faa7-1984-4f5b-928a-1922a978beb4"
@@ -921,6 +744,7 @@
           "rel_id": "1b574f61-50b9-49df-ab2d-daf18ae339b6",
           "label": "chamberlain",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
           "key": "1b574f61-50b9-49df-ab2d-daf18ae339b6"
@@ -931,6 +755,7 @@
           "rel_id": "899e074c-4222-4645-8d3d-18bf2ca4830d",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
           "key": "899e074c-4222-4645-8d3d-18bf2ca4830d"
@@ -941,6 +766,7 @@
           "rel_id": "400f320e-2e66-4d70-a247-da5dd4cb05d4",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "338e6b18-d9d8-4a89-92e1-9532d3ec531d",
           "key": "400f320e-2e66-4d70-a247-da5dd4cb05d4"
@@ -951,6 +777,7 @@
           "rel_id": "89772bd2-3bc0-43a4-835d-d713f0e7c215",
           "label": "lord",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "68f3849e-3632-4c77-a869-f71b62476ae8",
           "key": "89772bd2-3bc0-43a4-835d-d713f0e7c215"
@@ -961,6 +788,7 @@
           "rel_id": "4a54e535-29ba-4d6e-bef6-1311583ae598",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "fcacb6dd-21d7-43af-80df-e891a20bf3b3",
           "key": "4a54e535-29ba-4d6e-bef6-1311583ae598"
@@ -971,6 +799,7 @@
           "rel_id": "135c295a-6b9c-41ff-8efa-53d590f0677c",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "fcacb6dd-21d7-43af-80df-e891a20bf3b3",
           "key": "135c295a-6b9c-41ff-8efa-53d590f0677c"
@@ -981,6 +810,7 @@
           "rel_id": "dd382373-d22d-4bc1-8989-c20898f7e8b2",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "fcacb6dd-21d7-43af-80df-e891a20bf3b3",
           "key": "dd382373-d22d-4bc1-8989-c20898f7e8b2"
@@ -991,6 +821,7 @@
           "rel_id": "9f333dcc-2e84-4583-9c8e-23908b593b56",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "fcacb6dd-21d7-43af-80df-e891a20bf3b3",
           "key": "9f333dcc-2e84-4583-9c8e-23908b593b56"
@@ -1001,6 +832,7 @@
           "rel_id": "40b89f43-d745-49dc-9b36-deb8602a1479",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "ce9bcf5c-112e-4307-ac84-bcde1fbccf8c",
           "key": "40b89f43-d745-49dc-9b36-deb8602a1479"
@@ -1011,6 +843,7 @@
           "rel_id": "f84c05d8-a482-40ba-bed9-db3c0524690b",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "89b28981-1242-4562-99be-258c17403fe8",
           "key": "f84c05d8-a482-40ba-bed9-db3c0524690b"
@@ -1021,6 +854,7 @@
           "rel_id": "ac8718ec-5ca8-46ed-9cbd-b1c7a831f7c6",
           "label": "associated_with",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "89b28981-1242-4562-99be-258c17403fe8",
           "key": "ac8718ec-5ca8-46ed-9cbd-b1c7a831f7c6"
@@ -1031,6 +865,7 @@
           "rel_id": "44e80ca2-be56-43b9-b102-8dec2209b792",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "05f43fa2-7d8c-4df8-a517-1e1e25012464",
           "key": "44e80ca2-be56-43b9-b102-8dec2209b792"
@@ -1041,6 +876,7 @@
           "rel_id": "ab25e67e-ca83-4226-9277-8e708917e6bb",
           "label": "lord",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "fd77986e-5674-4d14-9127-263212a9dd12",
           "key": "ab25e67e-ca83-4226-9277-8e708917e6bb"
@@ -1051,6 +887,7 @@
           "rel_id": "3d8adad8-55ae-42d8-a22c-ddeea2a9b27d",
           "label": "associated_with",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "780b842c-82d1-43f7-b5ca-f50996477e2c",
           "key": "3d8adad8-55ae-42d8-a22c-ddeea2a9b27d"
@@ -1061,6 +898,7 @@
           "rel_id": "158d6830-9206-42e5-bfab-70debf3ba871",
           "label": "justice",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "1e184f4f-e6e1-4cbd-acdf-9dec0aa8e24e",
           "key": "158d6830-9206-42e5-bfab-70debf3ba871"
@@ -1071,6 +909,7 @@
           "rel_id": "4d818a70-5fe8-45e8-a874-86bcf5d727f0",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "336927f5-2cb0-4d87-b0b4-6377c49104fd",
           "key": "4d818a70-5fe8-45e8-a874-86bcf5d727f0"
@@ -1081,6 +920,7 @@
           "rel_id": "e4258a71-63bd-4142-aca9-2ba7143eba70",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "336927f5-2cb0-4d87-b0b4-6377c49104fd",
           "key": "e4258a71-63bd-4142-aca9-2ba7143eba70"
@@ -1091,6 +931,7 @@
           "rel_id": "299a8e1b-7ab0-4ff3-aded-1119d52ea878",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "71c2222e-c771-4ddd-bd6b-948bedb037f4",
           "key": "299a8e1b-7ab0-4ff3-aded-1119d52ea878"
@@ -1101,6 +942,7 @@
           "rel_id": "84f39bbf-8a83-4ab4-8f04-6ebb2ca652b3",
           "label": "steward",
           "weight": 0.1,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "71c2222e-c771-4ddd-bd6b-948bedb037f4",
           "key": "84f39bbf-8a83-4ab4-8f04-6ebb2ca652b3"
@@ -1111,6 +953,7 @@
           "rel_id": "fb418aea-326e-492f-a17e-36220a1b879f",
           "label": "wars_of_the_roses",
           "weight": 1.0,
+          "inverse": false,
           "source": "6cefed46-0e52-47b3-af19-b43b51767a03",
           "target": "f85f9cbe-54ca-4941-a65c-243ae770183a",
           "key": "fb418aea-326e-492f-a17e-36220a1b879f"
@@ -1118,9 +961,252 @@
       },
       {
         "data": {
+          "rel_id": "87257253-5e46-4393-b0d5-58590ee43905",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d595ed32-29a2-4013-b939-fe8d4f61b980",
+          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
+          "key": "87257253-5e46-4393-b0d5-58590ee43905"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "8d2fe046-1542-464d-9df7-7ea12dbdb9f3",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d595ed32-29a2-4013-b939-fe8d4f61b980",
+          "target": "ff677875-962e-4abb-806a-64be95482d72",
+          "key": "8d2fe046-1542-464d-9df7-7ea12dbdb9f3"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "f4471a47-ac83-4350-83da-2de844dfedc5",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d595ed32-29a2-4013-b939-fe8d4f61b980",
+          "target": "ce9bcf5c-112e-4307-ac84-bcde1fbccf8c",
+          "key": "f4471a47-ac83-4350-83da-2de844dfedc5"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a44fafd9-b003-466d-8bef-47291bfa64ee",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d595ed32-29a2-4013-b939-fe8d4f61b980",
+          "target": "05f43fa2-7d8c-4df8-a517-1e1e25012464",
+          "key": "a44fafd9-b003-466d-8bef-47291bfa64ee"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "755a2c19-e06f-43a7-a981-81adc10e69b0",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d595ed32-29a2-4013-b939-fe8d4f61b980",
+          "target": "71c2222e-c771-4ddd-bd6b-948bedb037f4",
+          "key": "755a2c19-e06f-43a7-a981-81adc10e69b0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "11c5d37f-d5cb-497b-bfac-b0f8ba06cf43",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "target": "6cefed46-0e52-47b3-af19-b43b51767a03",
+          "key": "11c5d37f-d5cb-497b-bfac-b0f8ba06cf43"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "01bef8a9-3a9f-426e-824a-41384b05ed02",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "target": "d595ed32-29a2-4013-b939-fe8d4f61b980",
+          "key": "01bef8a9-3a9f-426e-824a-41384b05ed02"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "f0e743c4-3cf2-4046-8f5e-45e619ed23d7",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "target": "ce9bcf5c-112e-4307-ac84-bcde1fbccf8c",
+          "key": "f0e743c4-3cf2-4046-8f5e-45e619ed23d7"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "5aa4cea8-6ba2-4b7e-947a-31e6fc0e234c",
+          "label": "justice",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "target": "19b852e3-a033-4688-adca-bcb426982aa4",
+          "key": "5aa4cea8-6ba2-4b7e-947a-31e6fc0e234c"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "df19f9d3-4970-46b9-a37d-cb7e75bb4a54",
+          "label": "justice",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "target": "19b852e3-a033-4688-adca-bcb426982aa4",
+          "key": "df19f9d3-4970-46b9-a37d-cb7e75bb4a54"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "8668abb2-8f7d-40f3-9230-6f6609379137",
+          "label": "justice",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "target": "19b852e3-a033-4688-adca-bcb426982aa4",
+          "key": "8668abb2-8f7d-40f3-9230-6f6609379137"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "fd48536c-b017-46a3-a8eb-218fdfd4b744",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
+          "key": "fd48536c-b017-46a3-a8eb-218fdfd4b744"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3a2ee686-dbec-4063-8b94-1aff09dba6a3",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "target": "fcacb6dd-21d7-43af-80df-e891a20bf3b3",
+          "key": "3a2ee686-dbec-4063-8b94-1aff09dba6a3"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "c8fc9f87-dbb3-418d-8fcc-9851688b3bba",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "target": "05f43fa2-7d8c-4df8-a517-1e1e25012464",
+          "key": "c8fc9f87-dbb3-418d-8fcc-9851688b3bba"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6f72d9c2-2dd5-4d8a-81c3-13d1093639b4",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "target": "71c2222e-c771-4ddd-bd6b-948bedb037f4",
+          "key": "6f72d9c2-2dd5-4d8a-81c3-13d1093639b4"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "33b5343f-d1a7-48e3-ba7a-2466b511df5a",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "target": "71c2222e-c771-4ddd-bd6b-948bedb037f4",
+          "key": "33b5343f-d1a7-48e3-ba7a-2466b511df5a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "60595349-9429-4e8e-8886-f0b04cc4f1b1",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "d239c54f-20b7-45b0-aa72-b0d6bf407166",
+          "target": "ff677875-962e-4abb-806a-64be95482d72",
+          "key": "60595349-9429-4e8e-8886-f0b04cc4f1b1"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "23f72e9f-cad5-4411-ae78-953224074911",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "64e970c1-3e7b-4fce-a48a-c88f6e185ecd",
+          "target": "89b28981-1242-4562-99be-258c17403fe8",
+          "key": "23f72e9f-cad5-4411-ae78-953224074911"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "5dd3461c-d4ca-493b-9ec2-2e2159e31623",
+          "label": "place_a_within_place_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "780b842c-82d1-43f7-b5ca-f50996477e2c",
+          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
+          "key": "5dd3461c-d4ca-493b-9ec2-2e2159e31623"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "5cd41146-68d9-4df6-822a-14b52f6963ba",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "cc757f7f-6f45-4bd3-813d-be7cc4a41302",
+          "target": "64e970c1-3e7b-4fce-a48a-c88f6e185ecd",
+          "key": "5cd41146-68d9-4df6-822a-14b52f6963ba"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "e1b4c2f8-d19a-4a7b-96db-a4316f1686ad",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "cc757f7f-6f45-4bd3-813d-be7cc4a41302",
+          "target": "6cefed46-0e52-47b3-af19-b43b51767a03",
+          "key": "e1b4c2f8-d19a-4a7b-96db-a4316f1686ad"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "b7270682-0763-475c-af6c-2e9656725c5f",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "cc757f7f-6f45-4bd3-813d-be7cc4a41302",
+          "target": "89b28981-1242-4562-99be-258c17403fe8",
+          "key": "b7270682-0763-475c-af6c-2e9656725c5f"
+        }
+      },
+      {
+        "data": {
           "rel_id": "cfc62205-cac5-4a79-9a6e-ff3e8cd5b0b7",
           "label": "associated_with",
           "weight": 0.1,
+          "inverse": false,
           "source": "7ded86de-255f-4f7b-84cc-8c5cb617c527",
           "target": "fd77986e-5674-4d14-9127-263212a9dd12",
           "key": "cfc62205-cac5-4a79-9a6e-ff3e8cd5b0b7"

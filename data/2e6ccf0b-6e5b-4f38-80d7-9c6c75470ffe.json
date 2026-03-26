@@ -6,152 +6,12 @@
     "nodes": [
       {
         "data": {
-          "label": "BL, Additional 19709",
-          "type": "manuscript",
-          "link": "https://beta.mowlit.ac.uk/public/manuscript/98/",
-          "id": "4f8a62b4-35d6-4e01-80d5-165bfad80458",
-          "value": "4f8a62b4-35d6-4e01-80d5-165bfad80458",
-          "name": "4f8a62b4-35d6-4e01-80d5-165bfad80458"
-        }
-      },
-      {
-        "data": {
-          "label": "NLW, Llanstephan 7",
-          "type": "manuscript",
-          "link": "https://beta.mowlit.ac.uk/public/manuscript/76/",
-          "id": "00478d3d-aa66-4fb4-a168-072c30fdb662",
-          "value": "00478d3d-aa66-4fb4-a168-072c30fdb662",
-          "name": "00478d3d-aa66-4fb4-a168-072c30fdb662"
-        }
-      },
-      {
-        "data": {
-          "label": "Si\u00f4n Teg, d. 1537",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/216/",
-          "id": "c227aa4e-2803-440e-b4b4-8613a0063257",
-          "value": "c227aa4e-2803-440e-b4b4-8613a0063257",
-          "name": "c227aa4e-2803-440e-b4b4-8613a0063257"
-        }
-      },
-      {
-        "data": {
-          "label": "John Leland, d. 1552",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/510/",
-          "id": "6d13c77b-d655-47b1-bcc3-4f5a02e75dd2",
-          "value": "6d13c77b-d655-47b1-bcc3-4f5a02e75dd2",
-          "name": "6d13c77b-d655-47b1-bcc3-4f5a02e75dd2"
-        }
-      },
-      {
-        "data": {
-          "label": "Gwenllian (daughter of Lewis ap Thomas ap John)",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/875/",
-          "id": "06494c2e-2630-47f4-8ba0-12f1a0dd47bd",
-          "value": "06494c2e-2630-47f4-8ba0-12f1a0dd47bd",
-          "name": "06494c2e-2630-47f4-8ba0-12f1a0dd47bd"
-        }
-      },
-      {
-        "data": {
           "label": "Kidwelly (Settlement)",
           "type": "place",
           "link": "https://beta.mowlit.ac.uk/public/place/263/",
           "id": "ce1849bf-fbac-4a0e-814f-6407da27d00e",
           "value": "ce1849bf-fbac-4a0e-814f-6407da27d00e",
           "name": "ce1849bf-fbac-4a0e-814f-6407da27d00e"
-        }
-      },
-      {
-        "data": {
-          "label": "NLW, Peniarth 109",
-          "type": "manuscript",
-          "link": "https://beta.mowlit.ac.uk/public/manuscript/88/",
-          "id": "e73bab5c-ed8f-422c-ab53-c62b8684dfe2",
-          "value": "e73bab5c-ed8f-422c-ab53-c62b8684dfe2",
-          "name": "e73bab5c-ed8f-422c-ab53-c62b8684dfe2"
-        }
-      },
-      {
-        "data": {
-          "label": "BL, Additional 14913v",
-          "type": "manuscript",
-          "link": "https://beta.mowlit.ac.uk/public/manuscript/120/",
-          "id": "ec82e2ab-4f94-4ad3-ab79-67f6706e45de",
-          "value": "ec82e2ab-4f94-4ad3-ab79-67f6706e45de",
-          "name": "ec82e2ab-4f94-4ad3-ab79-67f6706e45de"
-        }
-      },
-      {
-        "data": {
-          "label": "Humphrey Toye (Humphrey Toye of Carmarthen)",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/193/",
-          "id": "8272a1a6-424b-436d-bf3e-4b81151f60d6",
-          "value": "8272a1a6-424b-436d-bf3e-4b81151f60d6",
-          "name": "8272a1a6-424b-436d-bf3e-4b81151f60d6"
-        }
-      },
-      {
-        "data": {
-          "label": "NLW, NLW 6680B",
-          "type": "manuscript",
-          "link": "https://beta.mowlit.ac.uk/public/manuscript/78/",
-          "id": "34dcbe93-ab29-416b-b90f-e4cea8187804",
-          "value": "34dcbe93-ab29-416b-b90f-e4cea8187804",
-          "name": "34dcbe93-ab29-416b-b90f-e4cea8187804"
-        }
-      },
-      {
-        "data": {
-          "label": "NLW, Peniarth 83",
-          "type": "manuscript",
-          "link": "https://beta.mowlit.ac.uk/public/manuscript/54/",
-          "id": "b80f4eaf-6fb5-48be-94fb-78959cf552b6",
-          "value": "b80f4eaf-6fb5-48be-94fb-78959cf552b6",
-          "name": "b80f4eaf-6fb5-48be-94fb-78959cf552b6"
-        }
-      },
-      {
-        "data": {
-          "label": "Sir John Donne, d. <27 January 1503",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/1218/",
-          "id": "fb81d40d-5b7e-4e53-8a1f-a27354a72c2d",
-          "value": "fb81d40d-5b7e-4e53-8a1f-a27354a72c2d",
-          "name": "fb81d40d-5b7e-4e53-8a1f-a27354a72c2d"
-        }
-      },
-      {
-        "data": {
-          "label": "Edward Herbert",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/714/",
-          "id": "5bf7d241-8f8d-44ff-93e0-a01e7976b313",
-          "value": "5bf7d241-8f8d-44ff-93e0-a01e7976b313",
-          "name": "5bf7d241-8f8d-44ff-93e0-a01e7976b313"
-        }
-      },
-      {
-        "data": {
-          "label": "Elen (daughter of Henry ap John ap Henry of Rhydarwen)",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/169/",
-          "id": "3863cb96-5651-4456-af0b-c193fc1b4afc",
-          "value": "3863cb96-5651-4456-af0b-c193fc1b4afc",
-          "name": "3863cb96-5651-4456-af0b-c193fc1b4afc"
-        }
-      },
-      {
-        "data": {
-          "label": "John Cotton",
-          "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/1090/",
-          "id": "a3abe47a-b27f-4aec-ae11-cb6776fbadca",
-          "value": "a3abe47a-b27f-4aec-ae11-cb6776fbadca",
-          "name": "a3abe47a-b27f-4aec-ae11-cb6776fbadca"
         }
       },
       {
@@ -166,92 +26,52 @@
       },
       {
         "data": {
-          "label": "NLW, NLW 3063E",
-          "type": "manuscript",
-          "link": "https://beta.mowlit.ac.uk/public/manuscript/45/",
-          "id": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
-          "value": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
-          "name": "e8045ca3-0fd8-47da-a8f6-651f38442d84"
-        }
-      },
-      {
-        "data": {
-          "label": "NLW, Peniarth 70",
-          "type": "manuscript",
-          "link": "https://beta.mowlit.ac.uk/public/manuscript/84/",
-          "id": "afcaef84-9857-4005-a85a-3577c7b92faa",
-          "value": "afcaef84-9857-4005-a85a-3577c7b92faa",
-          "name": "afcaef84-9857-4005-a85a-3577c7b92faa"
-        }
-      },
-      {
-        "data": {
-          "label": "John II Vaughan, d. 1574",
+          "label": "Elen (daughter of Henry ap John ap Henry of Rhydarwen)",
           "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/1241/",
-          "id": "8f29d787-cb62-4555-8b84-5f7c396c16af",
-          "value": "8f29d787-cb62-4555-8b84-5f7c396c16af",
-          "name": "8f29d787-cb62-4555-8b84-5f7c396c16af"
+          "link": "https://beta.mowlit.ac.uk/public/person/169/",
+          "id": "3863cb96-5651-4456-af0b-c193fc1b4afc",
+          "value": "3863cb96-5651-4456-af0b-c193fc1b4afc",
+          "name": "3863cb96-5651-4456-af0b-c193fc1b4afc"
         }
       },
       {
         "data": {
-          "label": "Carmarthen (Settlement)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/232/",
-          "id": "cf1b63ba-e698-4552-b830-154c04439e2c",
-          "value": "cf1b63ba-e698-4552-b830-154c04439e2c",
-          "name": "cf1b63ba-e698-4552-b830-154c04439e2c"
-        }
-      },
-      {
-        "data": {
-          "label": "NLW, Peniarth 48",
+          "label": "NLW, Peniarth 109",
           "type": "manuscript",
-          "link": "https://beta.mowlit.ac.uk/public/manuscript/50/",
-          "id": "cdf92a68-dfd6-4c0b-93cd-35947c17129a",
-          "value": "cdf92a68-dfd6-4c0b-93cd-35947c17129a",
-          "name": "cdf92a68-dfd6-4c0b-93cd-35947c17129a"
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/88/",
+          "id": "e73bab5c-ed8f-422c-ab53-c62b8684dfe2",
+          "value": "e73bab5c-ed8f-422c-ab53-c62b8684dfe2",
+          "name": "e73bab5c-ed8f-422c-ab53-c62b8684dfe2"
         }
       },
       {
         "data": {
-          "label": "Ystradmerthyr (Gentry house)",
-          "type": "place",
-          "link": "https://beta.mowlit.ac.uk/public/place/76/",
-          "id": "274a4d0b-96c1-44b4-88e6-8812102dc661",
-          "value": "274a4d0b-96c1-44b4-88e6-8812102dc661",
-          "name": "274a4d0b-96c1-44b4-88e6-8812102dc661"
+          "label": "NLW, Llanstephan 116",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/55/",
+          "id": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
+          "value": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
+          "name": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1"
         }
       },
       {
         "data": {
-          "label": "Gruffydd Dwnn, d. c. 1570",
-          "type": "ego",
-          "link": "https://beta.mowlit.ac.uk/public/person/791/",
-          "id": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "value": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "name": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe"
-        }
-      },
-      {
-        "data": {
-          "label": "Owain ap Gwilym",
+          "label": "Si\u00f4n Teg, d. 1537",
           "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/925/",
-          "id": "ccbd0b91-c0ab-4809-bdc7-2d13c3f02d66",
-          "value": "ccbd0b91-c0ab-4809-bdc7-2d13c3f02d66",
-          "name": "ccbd0b91-c0ab-4809-bdc7-2d13c3f02d66"
+          "link": "https://beta.mowlit.ac.uk/public/person/216/",
+          "id": "c227aa4e-2803-440e-b4b4-8613a0063257",
+          "value": "c227aa4e-2803-440e-b4b4-8613a0063257",
+          "name": "c227aa4e-2803-440e-b4b4-8613a0063257"
         }
       },
       {
         "data": {
-          "label": "William Salesbury, d. c. 1580",
+          "label": "Sir John Donne, d. <27 January 1503",
           "type": "person",
-          "link": "https://beta.mowlit.ac.uk/public/person/76/",
-          "id": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
-          "value": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
-          "name": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3"
+          "link": "https://beta.mowlit.ac.uk/public/person/1218/",
+          "id": "fb81d40d-5b7e-4e53-8a1f-a27354a72c2d",
+          "value": "fb81d40d-5b7e-4e53-8a1f-a27354a72c2d",
+          "name": "fb81d40d-5b7e-4e53-8a1f-a27354a72c2d"
         }
       },
       {
@@ -266,6 +86,76 @@
       },
       {
         "data": {
+          "label": "Owain ap Gwilym",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/925/",
+          "id": "ccbd0b91-c0ab-4809-bdc7-2d13c3f02d66",
+          "value": "ccbd0b91-c0ab-4809-bdc7-2d13c3f02d66",
+          "name": "ccbd0b91-c0ab-4809-bdc7-2d13c3f02d66"
+        }
+      },
+      {
+        "data": {
+          "label": "BL, Additional 19709",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/98/",
+          "id": "4f8a62b4-35d6-4e01-80d5-165bfad80458",
+          "value": "4f8a62b4-35d6-4e01-80d5-165bfad80458",
+          "name": "4f8a62b4-35d6-4e01-80d5-165bfad80458"
+        }
+      },
+      {
+        "data": {
+          "label": "William Salesbury, d. c. 1580",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/76/",
+          "id": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "value": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "name": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3"
+        }
+      },
+      {
+        "data": {
+          "label": "Gwenllian (daughter of Lewis ap Thomas ap John)",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/875/",
+          "id": "06494c2e-2630-47f4-8ba0-12f1a0dd47bd",
+          "value": "06494c2e-2630-47f4-8ba0-12f1a0dd47bd",
+          "name": "06494c2e-2630-47f4-8ba0-12f1a0dd47bd"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 70",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/84/",
+          "id": "afcaef84-9857-4005-a85a-3577c7b92faa",
+          "value": "afcaef84-9857-4005-a85a-3577c7b92faa",
+          "name": "afcaef84-9857-4005-a85a-3577c7b92faa"
+        }
+      },
+      {
+        "data": {
+          "label": "John Leland, d. 1552",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/510/",
+          "id": "6d13c77b-d655-47b1-bcc3-4f5a02e75dd2",
+          "value": "6d13c77b-d655-47b1-bcc3-4f5a02e75dd2",
+          "name": "6d13c77b-d655-47b1-bcc3-4f5a02e75dd2"
+        }
+      },
+      {
+        "data": {
+          "label": "Humphrey Toye (Humphrey Toye of Carmarthen)",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/193/",
+          "id": "8272a1a6-424b-436d-bf3e-4b81151f60d6",
+          "value": "8272a1a6-424b-436d-bf3e-4b81151f60d6",
+          "name": "8272a1a6-424b-436d-bf3e-4b81151f60d6"
+        }
+      },
+      {
+        "data": {
           "label": "Carmarthenshire (County)",
           "type": "place",
           "link": "https://beta.mowlit.ac.uk/public/place/983/",
@@ -276,34 +166,135 @@
       },
       {
         "data": {
-          "label": "NLW, Llanstephan 116",
+          "label": "John II Vaughan, d. 1574",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1241/",
+          "id": "8f29d787-cb62-4555-8b84-5f7c396c16af",
+          "value": "8f29d787-cb62-4555-8b84-5f7c396c16af",
+          "name": "8f29d787-cb62-4555-8b84-5f7c396c16af"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 83",
           "type": "manuscript",
-          "link": "https://beta.mowlit.ac.uk/public/manuscript/55/",
-          "id": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
-          "value": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
-          "name": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1"
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/54/",
+          "id": "b80f4eaf-6fb5-48be-94fb-78959cf552b6",
+          "value": "b80f4eaf-6fb5-48be-94fb-78959cf552b6",
+          "name": "b80f4eaf-6fb5-48be-94fb-78959cf552b6"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, NLW 3063E",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/45/",
+          "id": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
+          "value": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
+          "name": "e8045ca3-0fd8-47da-a8f6-651f38442d84"
+        }
+      },
+      {
+        "data": {
+          "label": "BL, Additional 14913v",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/120/",
+          "id": "ec82e2ab-4f94-4ad3-ab79-67f6706e45de",
+          "value": "ec82e2ab-4f94-4ad3-ab79-67f6706e45de",
+          "name": "ec82e2ab-4f94-4ad3-ab79-67f6706e45de"
+        }
+      },
+      {
+        "data": {
+          "label": "Carmarthen (Settlement)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/232/",
+          "id": "cf1b63ba-e698-4552-b830-154c04439e2c",
+          "value": "cf1b63ba-e698-4552-b830-154c04439e2c",
+          "name": "cf1b63ba-e698-4552-b830-154c04439e2c"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Llanstephan 7",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/76/",
+          "id": "00478d3d-aa66-4fb4-a168-072c30fdb662",
+          "value": "00478d3d-aa66-4fb4-a168-072c30fdb662",
+          "name": "00478d3d-aa66-4fb4-a168-072c30fdb662"
+        }
+      },
+      {
+        "data": {
+          "label": "Gruffydd Dwnn, d. c. 1570",
+          "type": "ego",
+          "link": "https://beta.mowlit.ac.uk/public/person/791/",
+          "id": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "value": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "name": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, NLW 6680B",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/78/",
+          "id": "34dcbe93-ab29-416b-b90f-e4cea8187804",
+          "value": "34dcbe93-ab29-416b-b90f-e4cea8187804",
+          "name": "34dcbe93-ab29-416b-b90f-e4cea8187804"
+        }
+      },
+      {
+        "data": {
+          "label": "Ystradmerthyr (Gentry house)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/76/",
+          "id": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "value": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "name": "274a4d0b-96c1-44b4-88e6-8812102dc661"
+        }
+      },
+      {
+        "data": {
+          "label": "John Cotton",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/1090/",
+          "id": "a3abe47a-b27f-4aec-ae11-cb6776fbadca",
+          "value": "a3abe47a-b27f-4aec-ae11-cb6776fbadca",
+          "name": "a3abe47a-b27f-4aec-ae11-cb6776fbadca"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 48",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/50/",
+          "id": "cdf92a68-dfd6-4c0b-93cd-35947c17129a",
+          "value": "cdf92a68-dfd6-4c0b-93cd-35947c17129a",
+          "name": "cdf92a68-dfd6-4c0b-93cd-35947c17129a"
+        }
+      },
+      {
+        "data": {
+          "label": "Edward Herbert",
+          "type": "person",
+          "link": "https://beta.mowlit.ac.uk/public/person/714/",
+          "id": "5bf7d241-8f8d-44ff-93e0-a01e7976b313",
+          "value": "5bf7d241-8f8d-44ff-93e0-a01e7976b313",
+          "name": "5bf7d241-8f8d-44ff-93e0-a01e7976b313"
         }
       }
     ],
     "edges": [
       {
         "data": {
-          "rel_id": "f64d37af-ca75-4ccf-984c-15458067f624",
+          "rel_id": "96e7ca9d-dfcb-42da-aef2-53e9107acf45",
           "label": "provenance",
           "weight": 0.7,
-          "source": "4f8a62b4-35d6-4e01-80d5-165bfad80458",
+          "inverse": false,
+          "source": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
           "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
-          "key": "f64d37af-ca75-4ccf-984c-15458067f624"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "ed8b64f3-cf81-46ab-b88a-abae0cbd5adb",
-          "label": "provenance",
-          "weight": 0.4,
-          "source": "00478d3d-aa66-4fb4-a168-072c30fdb662",
-          "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
-          "key": "ed8b64f3-cf81-46ab-b88a-abae0cbd5adb"
+          "key": "96e7ca9d-dfcb-42da-aef2-53e9107acf45"
         }
       },
       {
@@ -311,6 +302,7 @@
           "rel_id": "45498dac-d0c3-49ce-b9b1-b17e50774765",
           "label": "person_a_is_associated_with_person_b",
           "weight": 1.0,
+          "inverse": false,
           "source": "c227aa4e-2803-440e-b4b4-8613a0063257",
           "target": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
           "key": "45498dac-d0c3-49ce-b9b1-b17e50774765"
@@ -321,6 +313,7 @@
           "rel_id": "700b2c34-11cd-4b29-87df-26a43e9eda3d_0",
           "label": "reader",
           "weight": 1.0,
+          "inverse": false,
           "source": "c227aa4e-2803-440e-b4b4-8613a0063257",
           "target": "20a518b3-2c56-4994-b9ae-feeadd1b13cb",
           "key": "700b2c34-11cd-4b29-87df-26a43e9eda3d_0"
@@ -328,29 +321,10 @@
       },
       {
         "data": {
-          "rel_id": "a2281771-4cfe-4277-9020-ac7a9719c8f3",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "8272a1a6-424b-436d-bf3e-4b81151f60d6",
-          "target": "8f29d787-cb62-4555-8b84-5f7c396c16af",
-          "key": "a2281771-4cfe-4277-9020-ac7a9719c8f3"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "94d8f984-556d-4905-9b6b-f8df134b34dc",
-          "label": "provenance",
-          "weight": 0.7,
-          "source": "34dcbe93-ab29-416b-b90f-e4cea8187804",
-          "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
-          "key": "94d8f984-556d-4905-9b6b-f8df134b34dc"
-        }
-      },
-      {
-        "data": {
           "rel_id": "22e0b0c6-6dd8-4d11-ad09-6af623e3637c",
           "label": "person_a_is_kin_of_person_b",
           "weight": 1.0,
+          "inverse": false,
           "source": "fb81d40d-5b7e-4e53-8a1f-a27354a72c2d",
           "target": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
           "key": "22e0b0c6-6dd8-4d11-ad09-6af623e3637c"
@@ -358,382 +332,13 @@
       },
       {
         "data": {
-          "rel_id": "daca0dc3-a468-438a-a4b1-7469fdb54470",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "5bf7d241-8f8d-44ff-93e0-a01e7976b313",
-          "target": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "key": "daca0dc3-a468-438a-a4b1-7469fdb54470"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "394ca860-b9c9-4e66-b33f-d2735786697d",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "a3abe47a-b27f-4aec-ae11-cb6776fbadca",
-          "target": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "key": "394ca860-b9c9-4e66-b33f-d2735786697d"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "6d2fcea1-a2c8-47bc-b0af-78cbc7cc4c0b",
-          "label": "provenance",
+          "rel_id": "a9f303f1-f0a5-4817-83e2-9659d2d447ab",
+          "label": "production",
           "weight": 0.7,
-          "source": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
+          "inverse": false,
+          "source": "20a518b3-2c56-4994-b9ae-feeadd1b13cb",
           "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
-          "key": "6d2fcea1-a2c8-47bc-b0af-78cbc7cc4c0b"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "d231b389-230e-4378-bc3d-e53f888cc41f",
-          "label": "ms_a_has_part_ms_b_separated",
-          "weight": 1.0,
-          "source": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
-          "target": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
-          "key": "d231b389-230e-4378-bc3d-e53f888cc41f"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "fb51b24c-aef8-446c-a19b-5bc5b0aa39c7",
-          "label": "bailiff",
-          "weight": 0.1,
-          "source": "8f29d787-cb62-4555-8b84-5f7c396c16af",
-          "target": "cf1b63ba-e698-4552-b830-154c04439e2c",
-          "key": "fb51b24c-aef8-446c-a19b-5bc5b0aa39c7"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "6ba16349-b9ea-4eb9-888a-0410155285dd",
-          "label": "active_in",
-          "weight": 0.1,
-          "source": "8f29d787-cb62-4555-8b84-5f7c396c16af",
-          "target": "ce1849bf-fbac-4a0e-814f-6407da27d00e",
-          "key": "6ba16349-b9ea-4eb9-888a-0410155285dd"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "1f2f8805-95bf-44f3-a9e6-14d391f88463",
-          "label": "place_a_within_place_b",
-          "weight": 1.0,
-          "source": "274a4d0b-96c1-44b4-88e6-8812102dc661",
-          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
-          "key": "1f2f8805-95bf-44f3-a9e6-14d391f88463"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "c9e74a67-138d-48b3-be6b-3ae12fef462d",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "6d13c77b-d655-47b1-bcc3-4f5a02e75dd2",
-          "key": "c9e74a67-138d-48b3-be6b-3ae12fef462d"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "97165e4e-ae1e-4bfa-b34a-7de56b12e919",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "8272a1a6-424b-436d-bf3e-4b81151f60d6",
-          "key": "97165e4e-ae1e-4bfa-b34a-7de56b12e919"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "f8e19811-591c-4d25-a2c1-b0bbf9e9c287",
-          "label": "person_a_spouse_person_b",
-          "weight": 1.0,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "3863cb96-5651-4456-af0b-c193fc1b4afc",
-          "key": "f8e19811-591c-4d25-a2c1-b0bbf9e9c287"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "a6939678-b18f-44c1-9fd5-0fe7c5c818d0",
-          "label": "person_a_spouse_person_b",
-          "weight": 1.0,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "06494c2e-2630-47f4-8ba0-12f1a0dd47bd",
-          "key": "a6939678-b18f-44c1-9fd5-0fe7c5c818d0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "96ef8c42-c741-43da-bd79-8e1c69539d57",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "8f29d787-cb62-4555-8b84-5f7c396c16af",
-          "key": "96ef8c42-c741-43da-bd79-8e1c69539d57"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "ed2551f8-9dc1-4851-a427-ec556666cdd7",
-          "label": "person_a_is_associated_with_person_b",
-          "weight": 1.0,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
-          "key": "ed2551f8-9dc1-4851-a427-ec556666cdd7"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "146c4f1f-53b7-4343-8cfd-b571ff9a88b7",
-          "label": "bailiff",
-          "weight": 0.1,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "cf1b63ba-e698-4552-b830-154c04439e2c",
-          "key": "146c4f1f-53b7-4343-8cfd-b571ff9a88b7"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "aae21576-cc5f-4b46-b0d6-e24ea34c3241",
-          "label": "resident_in",
-          "weight": 0.1,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "cf1b63ba-e698-4552-b830-154c04439e2c",
-          "key": "aae21576-cc5f-4b46-b0d6-e24ea34c3241"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "67d71802-fe91-443e-a7de-c5f39d9243a3",
-          "label": "mayor",
-          "weight": 0.1,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "cf1b63ba-e698-4552-b830-154c04439e2c",
-          "key": "67d71802-fe91-443e-a7de-c5f39d9243a3"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "08b8caeb-e129-44bd-819b-f9a93953c1ec",
-          "label": "mayor",
-          "weight": 0.1,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "cf1b63ba-e698-4552-b830-154c04439e2c",
-          "key": "08b8caeb-e129-44bd-819b-f9a93953c1ec"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "b65f7687-4851-4ee8-98f2-ed7464ba9819",
-          "label": "alderman",
-          "weight": 0.1,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "cf1b63ba-e698-4552-b830-154c04439e2c",
-          "key": "b65f7687-4851-4ee8-98f2-ed7464ba9819"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "91be4348-8458-4415-af91-36dcb0ba7c5b",
-          "label": "justice",
-          "weight": 0.1,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
-          "key": "91be4348-8458-4415-af91-36dcb0ba7c5b"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "9da01cdd-048a-4d48-a48a-737156b81c64",
-          "label": "sheriff",
-          "weight": 0.1,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
-          "key": "9da01cdd-048a-4d48-a48a-737156b81c64"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "a3640a47-6e41-4ea5-97ce-8026cc939cce",
-          "label": "escheator",
-          "weight": 0.1,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
-          "key": "a3640a47-6e41-4ea5-97ce-8026cc939cce"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "88c1f7f2-c289-453e-82a6-e10a8ddafb38",
-          "label": "sheriff",
-          "weight": 0.1,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
-          "key": "88c1f7f2-c289-453e-82a6-e10a8ddafb38"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "0e99d411-16c6-48bf-b622-89678c36ae3c",
-          "label": "sheriff",
-          "weight": 0.1,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
-          "key": "0e99d411-16c6-48bf-b622-89678c36ae3c"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "1a5702fc-3198-4962-81e8-814bdacbb7bb",
-          "label": "resident_in",
-          "weight": 0.1,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
-          "key": "1a5702fc-3198-4962-81e8-814bdacbb7bb"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "5aa1b3c7-fc09-4db4-8142-186556ed55d6",
-          "label": "bailiff",
-          "weight": 0.1,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "ce1849bf-fbac-4a0e-814f-6407da27d00e",
-          "key": "5aa1b3c7-fc09-4db4-8142-186556ed55d6"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "a5f6feac-c5e2-4bff-83ef-9567f033fc06_0",
-          "label": "owner",
-          "weight": 0.7,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
-          "key": "a5f6feac-c5e2-4bff-83ef-9567f033fc06_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "7795171f-fd4f-425f-a3b7-1638d2ccdc4c_0",
-          "label": "owner",
-          "weight": 0.7,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
-          "key": "7795171f-fd4f-425f-a3b7-1638d2ccdc4c_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "be209669-f719-40b3-af65-603966bb308a_0",
-          "label": "owner",
-          "weight": 1.0,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "20a518b3-2c56-4994-b9ae-feeadd1b13cb",
-          "key": "be209669-f719-40b3-af65-603966bb308a_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "be209669-f719-40b3-af65-603966bb308a_1",
-          "label": "scribe",
-          "weight": 1.0,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "20a518b3-2c56-4994-b9ae-feeadd1b13cb",
-          "key": "be209669-f719-40b3-af65-603966bb308a_1"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "d1582e74-61f9-4964-9261-f015698eaa0d_0",
-          "label": "owner",
-          "weight": 0.4,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "cdf92a68-dfd6-4c0b-93cd-35947c17129a",
-          "key": "d1582e74-61f9-4964-9261-f015698eaa0d_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "584b0046-4255-4fe1-8196-437fd8bab7cc_0",
-          "label": "owner",
-          "weight": 0.4,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "ec82e2ab-4f94-4ad3-ab79-67f6706e45de",
-          "key": "584b0046-4255-4fe1-8196-437fd8bab7cc_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "0984878e-d395-42bf-81e0-636f5875a5a6_0",
-          "label": "owner",
-          "weight": 0.7,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "afcaef84-9857-4005-a85a-3577c7b92faa",
-          "key": "0984878e-d395-42bf-81e0-636f5875a5a6_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "2d4475fb-1d7f-414e-881f-daf8b4881c48_0",
-          "label": "owner",
-          "weight": 0.7,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "e73bab5c-ed8f-422c-ab53-c62b8684dfe2",
-          "key": "2d4475fb-1d7f-414e-881f-daf8b4881c48_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "0785328b-ebf2-42f0-8863-c25ea24fdea3_0",
-          "label": "reader",
-          "weight": 0.7,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "1b6fabe9-9190-4292-8b81-14b7f73b4a41",
-          "key": "0785328b-ebf2-42f0-8863-c25ea24fdea3_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "fd7d3d55-7f68-49b6-93ee-67a1b72f95b7_0",
-          "label": "owner",
-          "weight": 0.7,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "00478d3d-aa66-4fb4-a168-072c30fdb662",
-          "key": "fd7d3d55-7f68-49b6-93ee-67a1b72f95b7_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "3b4c77cb-c077-470d-800f-44e805505d95_0",
-          "label": "owner",
-          "weight": 1.0,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "4f8a62b4-35d6-4e01-80d5-165bfad80458",
-          "key": "3b4c77cb-c077-470d-800f-44e805505d95_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "0193b815-d23a-4d98-b0cc-59e0704c69f3_0",
-          "label": "owner",
-          "weight": 0.4,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "b80f4eaf-6fb5-48be-94fb-78959cf552b6",
-          "key": "0193b815-d23a-4d98-b0cc-59e0704c69f3_0"
-        }
-      },
-      {
-        "data": {
-          "rel_id": "d7223dfe-6792-4c12-bbf6-5da31eb0a9a5_0",
-          "label": "owner",
-          "weight": 0.7,
-          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
-          "target": "34dcbe93-ab29-416b-b90f-e4cea8187804",
-          "key": "d7223dfe-6792-4c12-bbf6-5da31eb0a9a5_0"
+          "key": "a9f303f1-f0a5-4817-83e2-9659d2d447ab"
         }
       },
       {
@@ -741,6 +346,7 @@
           "rel_id": "548241e7-0697-4e66-aff2-3a30eb1b395e",
           "label": "person_a_is_associated_with_person_b",
           "weight": 1.0,
+          "inverse": false,
           "source": "ccbd0b91-c0ab-4809-bdc7-2d13c3f02d66",
           "target": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
           "key": "548241e7-0697-4e66-aff2-3a30eb1b395e"
@@ -751,6 +357,7 @@
           "rel_id": "ce957e10-d37c-4625-9b4c-4ad30be5190e",
           "label": "active_in",
           "weight": 1.0,
+          "inverse": false,
           "source": "ccbd0b91-c0ab-4809-bdc7-2d13c3f02d66",
           "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
           "key": "ce957e10-d37c-4625-9b4c-4ad30be5190e"
@@ -761,6 +368,7 @@
           "rel_id": "448568bd-5761-4b4b-9254-4fb10a30504d_0",
           "label": "owner",
           "weight": 0.7,
+          "inverse": false,
           "source": "ccbd0b91-c0ab-4809-bdc7-2d13c3f02d66",
           "target": "34dcbe93-ab29-416b-b90f-e4cea8187804",
           "key": "448568bd-5761-4b4b-9254-4fb10a30504d_0"
@@ -771,6 +379,7 @@
           "rel_id": "4382e106-4bab-43ec-b63d-9855ba8f8753_0",
           "label": "reader",
           "weight": 1.0,
+          "inverse": false,
           "source": "ccbd0b91-c0ab-4809-bdc7-2d13c3f02d66",
           "target": "20a518b3-2c56-4994-b9ae-feeadd1b13cb",
           "key": "4382e106-4bab-43ec-b63d-9855ba8f8753_0"
@@ -781,6 +390,7 @@
           "rel_id": "a6d8c4dd-b7d4-496f-a5fb-75d956de5b65_0",
           "label": "owner",
           "weight": 0.7,
+          "inverse": false,
           "source": "ccbd0b91-c0ab-4809-bdc7-2d13c3f02d66",
           "target": "e73bab5c-ed8f-422c-ab53-c62b8684dfe2",
           "key": "a6d8c4dd-b7d4-496f-a5fb-75d956de5b65_0"
@@ -788,9 +398,21 @@
       },
       {
         "data": {
+          "rel_id": "f64d37af-ca75-4ccf-984c-15458067f624",
+          "label": "provenance",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "4f8a62b4-35d6-4e01-80d5-165bfad80458",
+          "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "key": "f64d37af-ca75-4ccf-984c-15458067f624"
+        }
+      },
+      {
+        "data": {
           "rel_id": "ad0fe694-7ea5-49c6-8a14-68aab023eba2",
           "label": "active_in",
           "weight": 0.1,
+          "inverse": false,
           "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
           "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
           "key": "ad0fe694-7ea5-49c6-8a14-68aab023eba2"
@@ -801,6 +423,7 @@
           "rel_id": "08ffd1cd-b30d-4b9c-8356-51dc583ff850_0",
           "label": "reader",
           "weight": 0.7,
+          "inverse": false,
           "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
           "target": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
           "key": "08ffd1cd-b30d-4b9c-8356-51dc583ff850_0"
@@ -811,6 +434,7 @@
           "rel_id": "b0424644-fe29-4e10-96e3-233fe77837f7_0",
           "label": "reader",
           "weight": 0.7,
+          "inverse": false,
           "source": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
           "target": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
           "key": "b0424644-fe29-4e10-96e3-233fe77837f7_0"
@@ -818,22 +442,453 @@
       },
       {
         "data": {
-          "rel_id": "a9f303f1-f0a5-4817-83e2-9659d2d447ab",
-          "label": "production",
-          "weight": 0.7,
-          "source": "20a518b3-2c56-4994-b9ae-feeadd1b13cb",
-          "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
-          "key": "a9f303f1-f0a5-4817-83e2-9659d2d447ab"
+          "rel_id": "a2281771-4cfe-4277-9020-ac7a9719c8f3",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "8272a1a6-424b-436d-bf3e-4b81151f60d6",
+          "target": "8f29d787-cb62-4555-8b84-5f7c396c16af",
+          "key": "a2281771-4cfe-4277-9020-ac7a9719c8f3"
         }
       },
       {
         "data": {
-          "rel_id": "96e7ca9d-dfcb-42da-aef2-53e9107acf45",
+          "rel_id": "fb51b24c-aef8-446c-a19b-5bc5b0aa39c7",
+          "label": "bailiff",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "8f29d787-cb62-4555-8b84-5f7c396c16af",
+          "target": "cf1b63ba-e698-4552-b830-154c04439e2c",
+          "key": "fb51b24c-aef8-446c-a19b-5bc5b0aa39c7"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6ba16349-b9ea-4eb9-888a-0410155285dd",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "8f29d787-cb62-4555-8b84-5f7c396c16af",
+          "target": "ce1849bf-fbac-4a0e-814f-6407da27d00e",
+          "key": "6ba16349-b9ea-4eb9-888a-0410155285dd"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6d2fcea1-a2c8-47bc-b0af-78cbc7cc4c0b",
           "label": "provenance",
           "weight": 0.7,
-          "source": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
+          "inverse": false,
+          "source": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
           "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
-          "key": "96e7ca9d-dfcb-42da-aef2-53e9107acf45"
+          "key": "6d2fcea1-a2c8-47bc-b0af-78cbc7cc4c0b"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "d231b389-230e-4378-bc3d-e53f888cc41f",
+          "label": "ms_a_has_part_ms_b_separated",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
+          "target": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
+          "key": "d231b389-230e-4378-bc3d-e53f888cc41f"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "ed8b64f3-cf81-46ab-b88a-abae0cbd5adb",
+          "label": "provenance",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "00478d3d-aa66-4fb4-a168-072c30fdb662",
+          "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "key": "ed8b64f3-cf81-46ab-b88a-abae0cbd5adb"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "c9e74a67-138d-48b3-be6b-3ae12fef462d",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "6d13c77b-d655-47b1-bcc3-4f5a02e75dd2",
+          "key": "c9e74a67-138d-48b3-be6b-3ae12fef462d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "97165e4e-ae1e-4bfa-b34a-7de56b12e919",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "8272a1a6-424b-436d-bf3e-4b81151f60d6",
+          "key": "97165e4e-ae1e-4bfa-b34a-7de56b12e919"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "f8e19811-591c-4d25-a2c1-b0bbf9e9c287",
+          "label": "person_a_spouse_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "3863cb96-5651-4456-af0b-c193fc1b4afc",
+          "key": "f8e19811-591c-4d25-a2c1-b0bbf9e9c287"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a6939678-b18f-44c1-9fd5-0fe7c5c818d0",
+          "label": "person_a_spouse_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "06494c2e-2630-47f4-8ba0-12f1a0dd47bd",
+          "key": "a6939678-b18f-44c1-9fd5-0fe7c5c818d0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "96ef8c42-c741-43da-bd79-8e1c69539d57",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "8f29d787-cb62-4555-8b84-5f7c396c16af",
+          "key": "96ef8c42-c741-43da-bd79-8e1c69539d57"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "ed2551f8-9dc1-4851-a427-ec556666cdd7",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "9ad432d4-2d5d-4330-be67-adcf4c90c3a3",
+          "key": "ed2551f8-9dc1-4851-a427-ec556666cdd7"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "146c4f1f-53b7-4343-8cfd-b571ff9a88b7",
+          "label": "bailiff",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "cf1b63ba-e698-4552-b830-154c04439e2c",
+          "key": "146c4f1f-53b7-4343-8cfd-b571ff9a88b7"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "aae21576-cc5f-4b46-b0d6-e24ea34c3241",
+          "label": "resident_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "cf1b63ba-e698-4552-b830-154c04439e2c",
+          "key": "aae21576-cc5f-4b46-b0d6-e24ea34c3241"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "67d71802-fe91-443e-a7de-c5f39d9243a3",
+          "label": "mayor",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "cf1b63ba-e698-4552-b830-154c04439e2c",
+          "key": "67d71802-fe91-443e-a7de-c5f39d9243a3"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "08b8caeb-e129-44bd-819b-f9a93953c1ec",
+          "label": "mayor",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "cf1b63ba-e698-4552-b830-154c04439e2c",
+          "key": "08b8caeb-e129-44bd-819b-f9a93953c1ec"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "b65f7687-4851-4ee8-98f2-ed7464ba9819",
+          "label": "alderman",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "cf1b63ba-e698-4552-b830-154c04439e2c",
+          "key": "b65f7687-4851-4ee8-98f2-ed7464ba9819"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "91be4348-8458-4415-af91-36dcb0ba7c5b",
+          "label": "justice",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
+          "key": "91be4348-8458-4415-af91-36dcb0ba7c5b"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "9da01cdd-048a-4d48-a48a-737156b81c64",
+          "label": "sheriff",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
+          "key": "9da01cdd-048a-4d48-a48a-737156b81c64"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a3640a47-6e41-4ea5-97ce-8026cc939cce",
+          "label": "escheator",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
+          "key": "a3640a47-6e41-4ea5-97ce-8026cc939cce"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "88c1f7f2-c289-453e-82a6-e10a8ddafb38",
+          "label": "sheriff",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
+          "key": "88c1f7f2-c289-453e-82a6-e10a8ddafb38"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "0e99d411-16c6-48bf-b622-89678c36ae3c",
+          "label": "sheriff",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
+          "key": "0e99d411-16c6-48bf-b622-89678c36ae3c"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "1a5702fc-3198-4962-81e8-814bdacbb7bb",
+          "label": "resident_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "key": "1a5702fc-3198-4962-81e8-814bdacbb7bb"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "5aa1b3c7-fc09-4db4-8142-186556ed55d6",
+          "label": "bailiff",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "ce1849bf-fbac-4a0e-814f-6407da27d00e",
+          "key": "5aa1b3c7-fc09-4db4-8142-186556ed55d6"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a5f6feac-c5e2-4bff-83ef-9567f033fc06_0",
+          "label": "owner",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "e8045ca3-0fd8-47da-a8f6-651f38442d84",
+          "key": "a5f6feac-c5e2-4bff-83ef-9567f033fc06_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "7795171f-fd4f-425f-a3b7-1638d2ccdc4c_0",
+          "label": "owner",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "9a24f997-451d-4fdb-893b-a0d0c1e9b3f1",
+          "key": "7795171f-fd4f-425f-a3b7-1638d2ccdc4c_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "be209669-f719-40b3-af65-603966bb308a_0",
+          "label": "owner",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "20a518b3-2c56-4994-b9ae-feeadd1b13cb",
+          "key": "be209669-f719-40b3-af65-603966bb308a_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "be209669-f719-40b3-af65-603966bb308a_1",
+          "label": "scribe",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "20a518b3-2c56-4994-b9ae-feeadd1b13cb",
+          "key": "be209669-f719-40b3-af65-603966bb308a_1"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "d1582e74-61f9-4964-9261-f015698eaa0d_0",
+          "label": "owner",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "cdf92a68-dfd6-4c0b-93cd-35947c17129a",
+          "key": "d1582e74-61f9-4964-9261-f015698eaa0d_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "584b0046-4255-4fe1-8196-437fd8bab7cc_0",
+          "label": "owner",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "ec82e2ab-4f94-4ad3-ab79-67f6706e45de",
+          "key": "584b0046-4255-4fe1-8196-437fd8bab7cc_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "0984878e-d395-42bf-81e0-636f5875a5a6_0",
+          "label": "owner",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "afcaef84-9857-4005-a85a-3577c7b92faa",
+          "key": "0984878e-d395-42bf-81e0-636f5875a5a6_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "2d4475fb-1d7f-414e-881f-daf8b4881c48_0",
+          "label": "owner",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "e73bab5c-ed8f-422c-ab53-c62b8684dfe2",
+          "key": "2d4475fb-1d7f-414e-881f-daf8b4881c48_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "0785328b-ebf2-42f0-8863-c25ea24fdea3_0",
+          "label": "reader",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "1b6fabe9-9190-4292-8b81-14b7f73b4a41",
+          "key": "0785328b-ebf2-42f0-8863-c25ea24fdea3_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "fd7d3d55-7f68-49b6-93ee-67a1b72f95b7_0",
+          "label": "owner",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "00478d3d-aa66-4fb4-a168-072c30fdb662",
+          "key": "fd7d3d55-7f68-49b6-93ee-67a1b72f95b7_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3b4c77cb-c077-470d-800f-44e805505d95_0",
+          "label": "owner",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "4f8a62b4-35d6-4e01-80d5-165bfad80458",
+          "key": "3b4c77cb-c077-470d-800f-44e805505d95_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "0193b815-d23a-4d98-b0cc-59e0704c69f3_0",
+          "label": "owner",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "b80f4eaf-6fb5-48be-94fb-78959cf552b6",
+          "key": "0193b815-d23a-4d98-b0cc-59e0704c69f3_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "d7223dfe-6792-4c12-bbf6-5da31eb0a9a5_0",
+          "label": "owner",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "target": "34dcbe93-ab29-416b-b90f-e4cea8187804",
+          "key": "d7223dfe-6792-4c12-bbf6-5da31eb0a9a5_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "94d8f984-556d-4905-9b6b-f8df134b34dc",
+          "label": "provenance",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "34dcbe93-ab29-416b-b90f-e4cea8187804",
+          "target": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "key": "94d8f984-556d-4905-9b6b-f8df134b34dc"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "1f2f8805-95bf-44f3-a9e6-14d391f88463",
+          "label": "place_a_within_place_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "274a4d0b-96c1-44b4-88e6-8812102dc661",
+          "target": "e9325cd9-0f7a-4c45-80dd-51b94a52e1d3",
+          "key": "1f2f8805-95bf-44f3-a9e6-14d391f88463"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "394ca860-b9c9-4e66-b33f-d2735786697d",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "a3abe47a-b27f-4aec-ae11-cb6776fbadca",
+          "target": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "key": "394ca860-b9c9-4e66-b33f-d2735786697d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "daca0dc3-a468-438a-a4b1-7469fdb54470",
+          "label": "person_a_is_associated_with_person_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "5bf7d241-8f8d-44ff-93e0-a01e7976b313",
+          "target": "2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe",
+          "key": "daca0dc3-a468-438a-a4b1-7469fdb54470"
         }
       }
     ]

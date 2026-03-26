@@ -9,6 +9,9 @@ const EXPORT_PNG_FILE_EXTENSION = '.png';
 const NON_REMOVABLE_NODE_TYPES = new Set(['ego']);
 const GRAPH_CONTAINER_ID = 'mowlit-network';
 const LAYOUT_SELECT_ID = 'layout-select';
+const PANEL_ID = 'mowlit-network-panel';
+const PANEL_CONTENT_ID = 'mowlit-network-panel-content';
+const PANEL_CONTROL_ID = 'mowlit-network-panel-control';
 const ENTITY_FILTER_DEBOUNCE_MS = 100;
 const GRAPH_RESIZE_DEBOUNCE_MS = 120;
 const MAX_LABEL_WIDTH = 200;
@@ -21,6 +24,9 @@ let activeHideLabelsChangeHandler = null;
 let activeHideLabelsCheckbox = null;
 let activeExportPngClickHandler = null;
 let activeExportPngButton = null;
+let activePanelToggleClickHandler = null;
+let activePanelToggleLink = null;
+let activePanelContent = null;
 let activeGraphInstance = null;
 const NODE_BACKGROUND_COLORS = {
     ego: '#000000',
@@ -134,7 +140,6 @@ function buildStyles() {
                 'color': (node) => nodeTextColor(getNodeType(node)),
                 'font-size': '12px',
                 'padding': '12px',
-                'padding-relative-to-label': 'average',
                 'text-valign': 'center',
                 'text-halign': 'center',
                 'text-max-width': '200px',
@@ -334,6 +339,44 @@ function attachExportPngListener(cy, graphId) {
     activeExportPngClickHandler = handleExportPngClick;
     exportButton.addEventListener('click', handleExportPngClick);
 }
+function attachPanelToggleListener() {
+    const panel = document.getElementById(PANEL_ID);
+    const controlLink = document.querySelector(`#${PANEL_CONTROL_ID} a`);
+    const content = document.getElementById(PANEL_CONTENT_ID);
+    if (!panel || !controlLink || !content) {
+        return;
+    }
+    if (activePanelToggleLink && activePanelToggleClickHandler) {
+        activePanelToggleLink.removeEventListener('click', activePanelToggleClickHandler);
+    }
+    const handlePanelToggleClick = (event) => {
+        event.preventDefault();
+        const isHidden = content.style.display === 'none';
+        content.style.display = isHidden ? '' : 'none';
+        controlLink.textContent = isHidden ? '[Min.]' : '[Max.]';
+    };
+    activePanelToggleLink = controlLink;
+    activePanelContent = content;
+    activePanelToggleClickHandler = handlePanelToggleClick;
+    controlLink.addEventListener('click', handlePanelToggleClick);
+}
+function buildInitialElements(source) {
+    var _a, _b;
+    const visibleNodes = (_a = source.nodes) !== null && _a !== void 0 ? _a : [];
+    const visibleNodeIds = new Set(visibleNodes
+        .map((node) => { var _a; return getComparableId((_a = node.data) === null || _a === void 0 ? void 0 : _a.id); })
+        .filter((id) => id !== null));
+    const visibleEdges = ((_b = source.edges) !== null && _b !== void 0 ? _b : []).filter((edge) => {
+        var _a, _b;
+        const sourceId = getComparableId((_a = edge.data) === null || _a === void 0 ? void 0 : _a.source);
+        const targetId = getComparableId((_b = edge.data) === null || _b === void 0 ? void 0 : _b.target);
+        if (!sourceId || !targetId) {
+            return false;
+        }
+        return visibleNodeIds.has(sourceId) && visibleNodeIds.has(targetId);
+    });
+    return { nodes: visibleNodes, edges: visibleEdges };
+}
 function createGraph(graphId) {
     const layoutSelect = document.getElementById(LAYOUT_SELECT_ID);
     const initialLayout = resolveLayout(layoutSelect === null || layoutSelect === void 0 ? void 0 : layoutSelect.value);
@@ -344,7 +387,7 @@ function createGraph(graphId) {
             nodes: [...((_b = (_a = data.elements) === null || _a === void 0 ? void 0 : _a.nodes) !== null && _b !== void 0 ? _b : [])],
             edges: [...((_d = (_c = data.elements) === null || _c === void 0 ? void 0 : _c.edges) !== null && _d !== void 0 ? _d : [])]
         };
-        const initialElements = buildFilteredElements(sourceElements, getCheckedEntityTypes());
+        const initialElements = buildInitialElements(sourceElements);
         if (activeGraphInstance === null || activeGraphInstance === void 0 ? void 0 : activeGraphInstance.destroy) {
             activeGraphInstance.destroy();
         }
@@ -360,6 +403,7 @@ function createGraph(graphId) {
         attachWindowResizeListener(cy, () => { var _a; return (_a = layoutSelect === null || layoutSelect === void 0 ? void 0 : layoutSelect.value) !== null && _a !== void 0 ? _a : DEFAULT_LAYOUT; });
         attachHideLabelsListener(cy);
         attachExportPngListener(cy, graphId);
+        attachPanelToggleListener();
     });
 }
 window.create_graph = createGraph;

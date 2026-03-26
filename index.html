@@ -39,6 +39,22 @@
             margin-top: 1em;
         }
 
+        #mowlit-network-panel-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            margin-bottom: 0.75rem;
+        }
+
+        #mowlit-network-panel-title {
+            font-weight: 600;
+        }
+
+        #mowlit-network-panel-control {
+            position: static;
+        }
+
         #mowlit-network-layout {
             display: flex;
             flex-direction: column;
@@ -60,6 +76,7 @@
         #mowlit-network-types label:has(input[type="checkbox"]) {
             padding-left: 0.4em;
         }
+
         /* Dim labels when their checkbox is disabled */
         #mowlit-network-types label:has(input[type="checkbox"]:disabled) {
             color: #908c8c;
@@ -88,35 +105,41 @@
 
 <div id="mowlit-network-container">
     <div id="mowlit-network-panel">
-        <div id="mowlit-network-layout">
-            <label for="layout-select">Layout:</label>
-            <select id="layout-select">
-                <option value="cose-bilkent" selected>cose-bilkent</option>
-                <option value="cose">cose</option>
-                <option value="circle">circle</option>
-                <option value="concentric">concentric</option>
-                <option value="grid">grid</option>
-                <option value="fcose">fcose</option>
-                <option value="breadthfirst">breadthfirst</option>
-            </select>
+        <div id="mowlit-network-panel-header">
+            <div id="mowlit-network-panel-title">Network options</div>
+            <div id="mowlit-network-panel-control"><a href="#">[Min.]</a></div>
         </div>
-        <div id="mowlit-network-types">
-            <label>Entities:</label>
-            <label><input type="checkbox" name="entity_type" value="person"> Person</label>
-            <label><input type="checkbox" name="entity_type" value="manuscript"> Manuscript</label>
-            <label><input type="checkbox" name="entity_type" value="text"> Text</label>
-            <label><input type="checkbox" name="entity_type" value="place"> Place</label>
-            <label><input type="checkbox" name="entity_type" value="event"> Event</label>
-            <label><input type="checkbox" name="entity_type" value="institution"> Institution</label>
+        <div id="mowlit-network-panel-content">
+            <div id="mowlit-network-layout">
+                <label for="layout-select">Choose a layout:</label>
+                <select id="layout-select">
+                    <option value="cose-bilkent" selected>cose-bilkent</option>
+                    <option value="cose">cose</option>
+                    <option value="circle">circle</option>
+                    <option value="concentric">concentric</option>
+                    <option value="grid">grid</option>
+                    <option value="fcose">fcose</option>
+                    <option value="breadthfirst">breadthfirst</option>
+                </select>
+            </div>
+            <div id="mowlit-network-types">
+                <label>Filter entities:</label>
+                <label><input type="checkbox" name="entity_type" value="person"> Person</label>
+                <label><input type="checkbox" name="entity_type" value="manuscript"> Manuscript</label>
+                <label><input type="checkbox" name="entity_type" value="text"> Text</label>
+                <label><input type="checkbox" name="entity_type" value="place"> Place</label>
+                <label><input type="checkbox" name="entity_type" value="event"> Event</label>
+                <label><input type="checkbox" name="entity_type" value="institution"> Institution</label>
+            </div>
+            <div id="mowlit-network-options">
+                <label>Display options:</label>
+                <label><input type="checkbox" name="option" value="hide_labels"> Hide relationship labels</label>
+            </div>
+            <div id="mowlit-export-options">
+                <p>Export options:</p>
+                <button id="mowlit-export-png-button">Export as PNG</button>
+            </div>
         </div>
-        <div id="mowlit-network-options">
-            <label>Options:</label>
-            <label><input type="checkbox" name="option" value="hide_labels"> Hide relationship labels</label>
-        </div>
-        <div id="mowlit-export-options">
-            <button id="mowlit-export-png-button">Export as PNG</button>
-        </div>
-
     </div>
     <div id="mowlit-network"></div>
 </div>
