@@ -1,0 +1,593 @@
+{
+  "data": [],
+  "directed": true,
+  "multigraph": true,
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "label": "Rhinweddau croen neidr: Pan\u00a0yttoed\u00a0Jeuan\u00a0ebostol\u00a0yng gwlat\u00a0yr\u00a0eifft\u00a0yn edrych\u00a0y llyfyr a elwir\u00a0tragywydawl\u00a0iechyt.",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/269/",
+          "id": "826e86b0-0a8c-4ab9-b35d-5ea26fef0d31",
+          "value": "826e86b0-0a8c-4ab9-b35d-5ea26fef0d31",
+          "name": "826e86b0-0a8c-4ab9-b35d-5ea26fef0d31"
+        }
+      },
+      {
+        "data": {
+          "label": "Charms, prognostications, and commonplaces",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/250/",
+          "id": "dea81e79-08bd-4fc6-af6c-d82ec5bb282f",
+          "value": "dea81e79-08bd-4fc6-af6c-d82ec5bb282f",
+          "name": "dea81e79-08bd-4fc6-af6c-d82ec5bb282f"
+        }
+      },
+      {
+        "data": {
+          "label": "Le beivre de Antioche: Avence, consout, la meime, ffenoyl rouge",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/17/",
+          "id": "a3efdcbc-2367-42c1-bd82-67332d508669",
+          "value": "a3efdcbc-2367-42c1-bd82-67332d508669",
+          "name": "a3efdcbc-2367-42c1-bd82-67332d508669"
+        }
+      },
+      {
+        "data": {
+          "label": "Llanthony Secunda Priory",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/648/",
+          "id": "8335584c-2383-437f-b080-b17f03eed5b5",
+          "value": "8335584c-2383-437f-b080-b17f03eed5b5",
+          "name": "8335584c-2383-437f-b080-b17f03eed5b5"
+        }
+      },
+      {
+        "data": {
+          "label": "Latin formulae for exorcising different ailments",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/15/",
+          "id": "578c289a-0f30-4e41-82e7-b56c6685dcbc",
+          "value": "578c289a-0f30-4e41-82e7-b56c6685dcbc",
+          "name": "578c289a-0f30-4e41-82e7-b56c6685dcbc"
+        }
+      },
+      {
+        "data": {
+          "label": "Ansoddau'r Trwnc: Canys trwy ansodeu y trwngk y gellir adnabot beieu dyn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/190/",
+          "id": "01867cba-488c-4582-bd5b-a9f6508c310c",
+          "value": "01867cba-488c-4582-bd5b-a9f6508c310c",
+          "name": "01867cba-488c-4582-bd5b-a9f6508c310c"
+        }
+      },
+      {
+        "data": {
+          "label": "Hec est ars confisiendi pilas medicinales ad plagas: Hec olus urtica tribulus tanasia canabis",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/267/",
+          "id": "5f3a16d7-180c-4297-89ae-d28d1824eacd",
+          "value": "5f3a16d7-180c-4297-89ae-d28d1824eacd",
+          "name": "5f3a16d7-180c-4297-89ae-d28d1824eacd"
+        }
+      },
+      {
+        "data": {
+          "label": "Campau y Cennin: da yw fud y kenhin rac chwydu gwaet ac y wreic y beri plant",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/253/",
+          "id": "5451d627-8d44-42a2-84c9-187c5b5da2ae",
+          "value": "5451d627-8d44-42a2-84c9-187c5b5da2ae",
+          "name": "5451d627-8d44-42a2-84c9-187c5b5da2ae"
+        }
+      },
+      {
+        "data": {
+          "label": "Rhinweddau Bwydydd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/226/",
+          "id": "986c7afd-9a31-4a58-8677-5371fd5f894f",
+          "value": "986c7afd-9a31-4a58-8677-5371fd5f894f",
+          "name": "986c7afd-9a31-4a58-8677-5371fd5f894f"
+        }
+      },
+      {
+        "data": {
+          "label": "Wyth Rhan Pob Dyn: Wyth rann a dyly bot ym pob dyn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/233/",
+          "id": "3db26971-3dec-4f94-9a63-ca09611f7d26",
+          "value": "3db26971-3dec-4f94-9a63-ca09611f7d26",
+          "name": "3db26971-3dec-4f94-9a63-ca09611f7d26"
+        }
+      },
+      {
+        "data": {
+          "label": "Book of Galen and Hippocrates: E llyfyr hwnn a wnaeth Galien ac Ypocras, y fusucwyr a'r medygon goreu o'r a vu eiryoet.",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/213/",
+          "id": "4a0f3020-c11d-4b9a-8e90-f19eaf2e4043",
+          "value": "4a0f3020-c11d-4b9a-8e90-f19eaf2e4043",
+          "name": "4a0f3020-c11d-4b9a-8e90-f19eaf2e4043"
+        }
+      },
+      {
+        "data": {
+          "label": "Cardiff, Central Library, Cardiff 3.242i",
+          "type": "ego",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/10/",
+          "id": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "value": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "name": "1d567cc3-a891-44e6-93f8-3767aa5d3e68"
+        }
+      },
+      {
+        "data": {
+          "label": "Y Misoedd: Mus\u00a0ionawr\u00a0hanner\u00a0nos\u00a0yd\u00a0ennyn\u00a0y\u00a0lloer",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/251/",
+          "id": "38a74ff7-667b-4fff-a3ed-1ffa8f8fd125",
+          "value": "38a74ff7-667b-4fff-a3ed-1ffa8f8fd125",
+          "name": "38a74ff7-667b-4fff-a3ed-1ffa8f8fd125"
+        }
+      },
+      {
+        "data": {
+          "label": "Deuddeng Arwydd: Hynn o reol a dyly pob medye yn gyliredin y gwybot (...)",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/86/",
+          "id": "41874633-8e94-4085-b3e2-eb036c1166b4",
+          "value": "41874633-8e94-4085-b3e2-eb036c1166b4",
+          "name": "41874633-8e94-4085-b3e2-eb036c1166b4"
+        }
+      },
+      {
+        "data": {
+          "label": "Y Pedwar Defnydd: Canys or pedwar defnyd hynn y gwnaethpwyt dyn ohonunt",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/174/",
+          "id": "2797b5ce-6780-483d-818a-4271df1839c6",
+          "value": "2797b5ce-6780-483d-818a-4271df1839c6",
+          "name": "2797b5ce-6780-483d-818a-4271df1839c6"
+        }
+      },
+      {
+        "data": {
+          "label": "Medicinal Recipes",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/143/",
+          "id": "6ab0ffad-fb8f-4620-9047-d7acc99ba362",
+          "value": "6ab0ffad-fb8f-4620-9047-d7acc99ba362",
+          "name": "6ab0ffad-fb8f-4620-9047-d7acc99ba362"
+        }
+      },
+      {
+        "data": {
+          "label": "Llysieulyfr: Gaprifolium, craf y geifyr",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/89/",
+          "id": "8bc73a50-95f5-4c55-be1d-ac8243eb9260",
+          "value": "8bc73a50-95f5-4c55-be1d-ac8243eb9260",
+          "name": "8bc73a50-95f5-4c55-be1d-ac8243eb9260"
+        }
+      },
+      {
+        "data": {
+          "label": "Y Pedwar Gwlybwr: Corff dyn a gyuansodir o'r pedwar gwlybwr hynn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/62/",
+          "id": "2900a057-8798-4e77-bec6-1f6a913787a8",
+          "value": "2900a057-8798-4e77-bec6-1f6a913787a8",
+          "name": "2900a057-8798-4e77-bec6-1f6a913787a8"
+        }
+      },
+      {
+        "data": {
+          "label": "Aristotle's Letter to Alexander: y llythyr a elwir kyfrinach y kyfrinachoedd a gavas arestotteles yn hemyl yr haul",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/80/",
+          "id": "e2f0b453-efa8-479a-ba73-2ba6002e801f",
+          "value": "e2f0b453-efa8-479a-ba73-2ba6002e801f",
+          "name": "e2f0b453-efa8-479a-ba73-2ba6002e801f"
+        }
+      },
+      {
+        "data": {
+          "label": "Prayers to Saint Mary",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/81/",
+          "id": "337846d1-75c3-4972-810f-cc33d8b1d9ab",
+          "value": "337846d1-75c3-4972-810f-cc33d8b1d9ab",
+          "name": "337846d1-75c3-4972-810f-cc33d8b1d9ab"
+        }
+      },
+      {
+        "data": {
+          "label": "Llanthony Prima Priory (Priory)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/479/",
+          "id": "2a475901-75a2-4e95-8e28-fbb05a82965f",
+          "value": "2a475901-75a2-4e95-8e28-fbb05a82965f",
+          "name": "2a475901-75a2-4e95-8e28-fbb05a82965f"
+        }
+      },
+      {
+        "data": {
+          "label": "Unguentum ad plagas omnes",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/114/",
+          "id": "df78abb2-7c61-4c85-aadb-270f813131f0",
+          "value": "df78abb2-7c61-4c85-aadb-270f813131f0",
+          "name": "df78abb2-7c61-4c85-aadb-270f813131f0"
+        }
+      },
+      {
+        "data": {
+          "label": "Potus optimus ad omnia vulnera: Potus optimus ad omnia vulna",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/249/",
+          "id": "5b541b5c-bf30-40de-b276-227c2d40892c",
+          "value": "5b541b5c-bf30-40de-b276-227c2d40892c",
+          "name": "5b541b5c-bf30-40de-b276-227c2d40892c"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "rel_id": "3f22a52d-c168-4f42-a290-20295cd87a9d",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "5b541b5c-bf30-40de-b276-227c2d40892c",
+          "key": "3f22a52d-c168-4f42-a290-20295cd87a9d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3f06cef8-692f-49c2-bcd1-5918d1cdb430",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "578c289a-0f30-4e41-82e7-b56c6685dcbc",
+          "key": "3f06cef8-692f-49c2-bcd1-5918d1cdb430"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "9c82b74a-00ab-4b28-8e7d-358157dc5068",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "578c289a-0f30-4e41-82e7-b56c6685dcbc",
+          "key": "9c82b74a-00ab-4b28-8e7d-358157dc5068"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "ae928d40-d19a-4863-8437-2c73776401ca",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "6ab0ffad-fb8f-4620-9047-d7acc99ba362",
+          "key": "ae928d40-d19a-4863-8437-2c73776401ca"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "702a6631-554c-436c-ba18-77f2b6918d02",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "6ab0ffad-fb8f-4620-9047-d7acc99ba362",
+          "key": "702a6631-554c-436c-ba18-77f2b6918d02"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "63f6c0cb-2892-4d02-8d43-d4f4f8be6a38",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "6ab0ffad-fb8f-4620-9047-d7acc99ba362",
+          "key": "63f6c0cb-2892-4d02-8d43-d4f4f8be6a38"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a7946375-e4f4-40eb-bf9f-8328b24cedec",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "6ab0ffad-fb8f-4620-9047-d7acc99ba362",
+          "key": "a7946375-e4f4-40eb-bf9f-8328b24cedec"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6305fa59-c6c2-4a51-8fc9-03ca4f72c614",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "6ab0ffad-fb8f-4620-9047-d7acc99ba362",
+          "key": "6305fa59-c6c2-4a51-8fc9-03ca4f72c614"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "2e321077-b80e-44ab-8c82-768e41e15617",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "6ab0ffad-fb8f-4620-9047-d7acc99ba362",
+          "key": "2e321077-b80e-44ab-8c82-768e41e15617"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "5fad541f-5ba6-4d2c-bd2c-d247038f0971",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "6ab0ffad-fb8f-4620-9047-d7acc99ba362",
+          "key": "5fad541f-5ba6-4d2c-bd2c-d247038f0971"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "4060b8c1-8255-474d-a6c3-08c4c3448253",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "e2f0b453-efa8-479a-ba73-2ba6002e801f",
+          "key": "4060b8c1-8255-474d-a6c3-08c4c3448253"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "f1a4967b-3950-4c33-919d-9a32ef9159b5",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "e2f0b453-efa8-479a-ba73-2ba6002e801f",
+          "key": "f1a4967b-3950-4c33-919d-9a32ef9159b5"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "bd8a921a-cc2d-4082-81f2-bf29fb4d0ea8",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "e2f0b453-efa8-479a-ba73-2ba6002e801f",
+          "key": "bd8a921a-cc2d-4082-81f2-bf29fb4d0ea8"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "2bb1727c-14cf-4ff2-b486-1f192b84dd31",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "2900a057-8798-4e77-bec6-1f6a913787a8",
+          "key": "2bb1727c-14cf-4ff2-b486-1f192b84dd31"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "499ba4d6-e8bc-4811-9f1a-ea8664e00c45",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "5451d627-8d44-42a2-84c9-187c5b5da2ae",
+          "key": "499ba4d6-e8bc-4811-9f1a-ea8664e00c45"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "ce657ced-b905-4f72-badb-711a3ee53ab2",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "337846d1-75c3-4972-810f-cc33d8b1d9ab",
+          "key": "ce657ced-b905-4f72-badb-711a3ee53ab2"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "198412b1-464b-47d9-80db-ad62da2de71b",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "986c7afd-9a31-4a58-8677-5371fd5f894f",
+          "key": "198412b1-464b-47d9-80db-ad62da2de71b"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "81e0b9da-ac2d-4bf2-8144-1338cdd9e420",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "986c7afd-9a31-4a58-8677-5371fd5f894f",
+          "key": "81e0b9da-ac2d-4bf2-8144-1338cdd9e420"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "d2d62ff3-cd8f-4f49-872c-04b4462d95a2",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "dea81e79-08bd-4fc6-af6c-d82ec5bb282f",
+          "key": "d2d62ff3-cd8f-4f49-872c-04b4462d95a2"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "15240cfc-c05e-4086-b21b-69a1d83d5ad2",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "3db26971-3dec-4f94-9a63-ca09611f7d26",
+          "key": "15240cfc-c05e-4086-b21b-69a1d83d5ad2"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "4eee9430-dfe3-4570-8552-23ed0431ae8e",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "01867cba-488c-4582-bd5b-a9f6508c310c",
+          "key": "4eee9430-dfe3-4570-8552-23ed0431ae8e"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "9a9d6039-a1f8-45a4-acb4-609ca5f2e7ad",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "df78abb2-7c61-4c85-aadb-270f813131f0",
+          "key": "9a9d6039-a1f8-45a4-acb4-609ca5f2e7ad"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "b2a7654f-3c15-4cdc-bec9-d846dd84b281",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "826e86b0-0a8c-4ab9-b35d-5ea26fef0d31",
+          "key": "b2a7654f-3c15-4cdc-bec9-d846dd84b281"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "f495b70b-2db9-47bb-a91a-5f020ffcf14d",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "41874633-8e94-4085-b3e2-eb036c1166b4",
+          "key": "f495b70b-2db9-47bb-a91a-5f020ffcf14d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "bf352694-ef8a-4273-9412-06a2623aa330",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "38a74ff7-667b-4fff-a3ed-1ffa8f8fd125",
+          "key": "bf352694-ef8a-4273-9412-06a2623aa330"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "bc39f6a2-ce11-4c36-95f0-d0d9bea250ed",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "2797b5ce-6780-483d-818a-4271df1839c6",
+          "key": "bc39f6a2-ce11-4c36-95f0-d0d9bea250ed"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "ced9af74-e80d-4436-9908-1f9d6ffc7b98",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "5f3a16d7-180c-4297-89ae-d28d1824eacd",
+          "key": "ced9af74-e80d-4436-9908-1f9d6ffc7b98"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6034eb41-1df6-4c5c-b20d-9c966e1c9d03",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "a3efdcbc-2367-42c1-bd82-67332d508669",
+          "key": "6034eb41-1df6-4c5c-b20d-9c966e1c9d03"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "bda4df83-ba24-47e5-a030-ec76e4ed578f",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "4a0f3020-c11d-4b9a-8e90-f19eaf2e4043",
+          "key": "bda4df83-ba24-47e5-a030-ec76e4ed578f"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "0c9f8391-c264-45ba-9f59-3e0c1e956fe4",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "8bc73a50-95f5-4c55-be1d-ac8243eb9260",
+          "key": "0c9f8391-c264-45ba-9f59-3e0c1e956fe4"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "0727c708-bb52-444f-8465-469be64f3c19",
+          "label": "production",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "2a475901-75a2-4e95-8e28-fbb05a82965f",
+          "key": "0727c708-bb52-444f-8465-469be64f3c19"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "01775c62-4680-4f39-908f-140d8567a525",
+          "label": "provenance",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "1d567cc3-a891-44e6-93f8-3767aa5d3e68",
+          "target": "8335584c-2383-437f-b080-b17f03eed5b5",
+          "key": "01775c62-4680-4f39-908f-140d8567a525"
+        }
+      }
+    ]
+  }
+}

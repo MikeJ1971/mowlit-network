@@ -1,0 +1,441 @@
+{
+  "data": [],
+  "directed": true,
+  "multigraph": true,
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "label": "Proffwydoliaeth Sibli Ddoeth (Peniarth 14 version): nys wyt kemryt ac na welsam ni ac na chlywsam",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/353/",
+          "id": "1a7c25a3-5aa1-46b2-9410-c697c739137c",
+          "value": "1a7c25a3-5aa1-46b2-9410-c697c739137c",
+          "name": "1a7c25a3-5aa1-46b2-9410-c697c739137c"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 14iv",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/32/",
+          "id": "0b1c9eca-0425-4f60-ab13-1247d3453908",
+          "value": "0b1c9eca-0425-4f60-ab13-1247d3453908",
+          "name": "0b1c9eca-0425-4f60-ab13-1247d3453908"
+        }
+      },
+      {
+        "data": {
+          "label": "Buchedd Mair o'r Aifft: Meir\u00a0or\u00a0eifft\u00a0a\u00a0bresswylawd\u00a0yntei\u00a0y\u00a0that\u00a0deudeng mlyned",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/262/",
+          "id": "604a33b4-6a3e-4cd7-806a-d62f86015291",
+          "value": "604a33b4-6a3e-4cd7-806a-d62f86015291",
+          "name": "604a33b4-6a3e-4cd7-806a-d62f86015291"
+        }
+      },
+      {
+        "data": {
+          "label": "Ystoria Adda: yn yr awr y pechawdd addaf ym haradwys y gyrwyd oddyno a llef a ddodes addaf yn hoeth y gwilidd",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/238/",
+          "id": "ced569bc-a8de-42dd-8f96-d70187a4b9f2",
+          "value": "ced569bc-a8de-42dd-8f96-d70187a4b9f2",
+          "name": "ced569bc-a8de-42dd-8f96-d70187a4b9f2"
+        }
+      },
+      {
+        "data": {
+          "label": "Buchedd Fargred: affan ymaelodd ymarchoc ynddi",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/168/",
+          "id": "9984193a-4c90-44ca-9d4b-4b1829421112",
+          "value": "9984193a-4c90-44ca-9d4b-4b1829421112",
+          "name": "9984193a-4c90-44ca-9d4b-4b1829421112"
+        }
+      },
+      {
+        "data": {
+          "label": "Mabinogi Iessu Grist (Peniarth 14b group): Llyma vabinogi iessu grist",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/626/",
+          "id": "b77f421a-b10d-4516-b278-79001b6db6a1",
+          "value": "b77f421a-b10d-4516-b278-79001b6db6a1",
+          "name": "b77f421a-b10d-4516-b278-79001b6db6a1"
+        }
+      },
+      {
+        "data": {
+          "label": "Ystoria Judas: Gwr a oed gynt yngkarusalem a elwit ruben",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/628/",
+          "id": "6704e7cb-c643-4a76-a188-72814e408311",
+          "value": "6704e7cb-c643-4a76-a188-72814e408311",
+          "name": "6704e7cb-c643-4a76-a188-72814e408311"
+        }
+      },
+      {
+        "data": {
+          "label": "Y Groglith: Llyma y groglith adanos modd i delltir Dioddeiviaint yn harglwydd ni Jessu grist",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/237/",
+          "id": "01d80782-5812-4a20-a956-de2cc577dc91",
+          "value": "01d80782-5812-4a20-a956-de2cc577dc91",
+          "name": "01d80782-5812-4a20-a956-de2cc577dc91"
+        }
+      },
+      {
+        "data": {
+          "label": "Breuddwyd Pawl (Redaction IV, Class A): Diw sul ysyd dyd etholedic",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/196/",
+          "id": "78dc5f7e-0a4a-4f40-9775-1fe05b07b597",
+          "value": "78dc5f7e-0a4a-4f40-9775-1fe05b07b597",
+          "name": "78dc5f7e-0a4a-4f40-9775-1fe05b07b597"
+        }
+      },
+      {
+        "data": {
+          "label": "North East Wales (Region)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/370/",
+          "id": "02a1c996-4c18-4dd9-a917-2f161c5bb9aa",
+          "value": "02a1c996-4c18-4dd9-a917-2f161c5bb9aa",
+          "name": "02a1c996-4c18-4dd9-a917-2f161c5bb9aa"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 14iii",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/33/",
+          "id": "72176c41-596a-4862-99a6-5f39876e1460",
+          "value": "72176c41-596a-4862-99a6-5f39876e1460",
+          "name": "72176c41-596a-4862-99a6-5f39876e1460"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 14",
+          "type": "ego",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/71/",
+          "id": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "value": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "name": "9e06f902-0271-4aea-beb9-9e956dc15e07"
+        }
+      },
+      {
+        "data": {
+          "label": "Gwyrtheu Mair",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/84/",
+          "id": "aadf50a2-d26f-491b-93c0-19e0f9048679",
+          "value": "aadf50a2-d26f-491b-93c0-19e0f9048679",
+          "name": "aadf50a2-d26f-491b-93c0-19e0f9048679"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 14ii",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/95/",
+          "id": "407460cd-f26b-48a1-9330-3c00159c54c5",
+          "value": "407460cd-f26b-48a1-9330-3c00159c54c5",
+          "name": "407460cd-f26b-48a1-9330-3c00159c54c5"
+        }
+      },
+      {
+        "data": {
+          "label": "Historia Peredur vab Efrawc: Efrawc iarll bioed iarllaeth yn y Gogled",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/629/",
+          "id": "4309a5f8-2f79-48d0-bb43-dc2c8405b4aa",
+          "value": "4309a5f8-2f79-48d0-bb43-dc2c8405b4aa",
+          "name": "4309a5f8-2f79-48d0-bb43-dc2c8405b4aa"
+        }
+      },
+      {
+        "data": {
+          "label": "Gwyrthyeu Seint Edmund archescop Keint: EMan e dechreuant gvyrthyeu Seint edmund Archescop Keint",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/352/",
+          "id": "ec5dbf5f-e535-4996-a2a5-518133945808",
+          "value": "ec5dbf5f-e535-4996-a2a5-518133945808",
+          "name": "ec5dbf5f-e535-4996-a2a5-518133945808"
+        }
+      },
+      {
+        "data": {
+          "label": "Proffwydoliaeth Myrddin: Pan ytoed Gortheyrn Gortheneu yn eisted ar glan y lynn",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/627/",
+          "id": "49e7bd81-6fc6-4f60-ba02-59e38b5b458d",
+          "value": "49e7bd81-6fc6-4f60-ba02-59e38b5b458d",
+          "name": "49e7bd81-6fc6-4f60-ba02-59e38b5b458d"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 14i",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/11/",
+          "id": "e406b201-28bc-4712-b9b3-c6840993f442",
+          "value": "e406b201-28bc-4712-b9b3-c6840993f442",
+          "name": "e406b201-28bc-4712-b9b3-c6840993f442"
+        }
+      },
+      {
+        "data": {
+          "label": "Elen a'r Grog: llyma val y cavas elen",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/355/",
+          "id": "8cd23a9a-14e4-4891-8dfa-bd2746edc2c9",
+          "value": "8cd23a9a-14e4-4891-8dfa-bd2746edc2c9",
+          "name": "8cd23a9a-14e4-4891-8dfa-bd2746edc2c9"
+        }
+      },
+      {
+        "data": {
+          "label": "Marwolaeth Mair: Yny mod h6nn ytreithir val yd aeth meir ynef.",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/351/",
+          "id": "148438a8-5595-4ef9-b9d7-50bd9588f809",
+          "value": "148438a8-5595-4ef9-b9d7-50bd9588f809",
+          "name": "148438a8-5595-4ef9-b9d7-50bd9588f809"
+        }
+      },
+      {
+        "data": {
+          "label": "Buched Meir Wyry",
+          "type": "text",
+          "link": "https://beta.mowlit.ac.uk/public/text/354/",
+          "id": "9340434b-744e-46de-9a2c-e43b5b76d332",
+          "value": "9340434b-744e-46de-9a2c-e43b5b76d332",
+          "name": "9340434b-744e-46de-9a2c-e43b5b76d332"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "rel_id": "b6908bc0-8a34-4621-9ff8-bf9c2396f032",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "aadf50a2-d26f-491b-93c0-19e0f9048679",
+          "key": "b6908bc0-8a34-4621-9ff8-bf9c2396f032"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6fffc417-3faa-4ced-97a3-b65c1d1940ce",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "604a33b4-6a3e-4cd7-806a-d62f86015291",
+          "key": "6fffc417-3faa-4ced-97a3-b65c1d1940ce"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "6ec9f9c9-7b9c-46a7-81a9-f09533eccdf5",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "148438a8-5595-4ef9-b9d7-50bd9588f809",
+          "key": "6ec9f9c9-7b9c-46a7-81a9-f09533eccdf5"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "50e014ae-0dae-4182-8180-293ac9aca0ab",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "ec5dbf5f-e535-4996-a2a5-518133945808",
+          "key": "50e014ae-0dae-4182-8180-293ac9aca0ab"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a2d1eeb9-660f-4745-8d9d-5cd73ef5d964",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "1a7c25a3-5aa1-46b2-9410-c697c739137c",
+          "key": "a2d1eeb9-660f-4745-8d9d-5cd73ef5d964"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3d7d2e65-950b-42fb-8fbb-e1227a9ab18d",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "9340434b-744e-46de-9a2c-e43b5b76d332",
+          "key": "3d7d2e65-950b-42fb-8fbb-e1227a9ab18d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "65ea5776-8080-4997-8458-d7fdb813f49c",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "01d80782-5812-4a20-a956-de2cc577dc91",
+          "key": "65ea5776-8080-4997-8458-d7fdb813f49c"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a9d62c45-e6a8-4d5d-bcb2-98a4d35221b1",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "8cd23a9a-14e4-4891-8dfa-bd2746edc2c9",
+          "key": "a9d62c45-e6a8-4d5d-bcb2-98a4d35221b1"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "7fcfae70-2880-4fab-9b1c-c1406f97e120",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "9984193a-4c90-44ca-9d4b-4b1829421112",
+          "key": "7fcfae70-2880-4fab-9b1c-c1406f97e120"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "344c3516-744f-4c35-91bf-d0189b9934e7",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "b77f421a-b10d-4516-b278-79001b6db6a1",
+          "key": "344c3516-744f-4c35-91bf-d0189b9934e7"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "0ede5bf6-8eec-43e8-9fd8-4b611481965c",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "49e7bd81-6fc6-4f60-ba02-59e38b5b458d",
+          "key": "0ede5bf6-8eec-43e8-9fd8-4b611481965c"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "b83ec33a-5faf-4af8-9595-ee80962e1bd7",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "78dc5f7e-0a4a-4f40-9775-1fe05b07b597",
+          "key": "b83ec33a-5faf-4af8-9595-ee80962e1bd7"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "688f54ef-14b6-4bb6-bca6-04fbb1a844d1",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "6704e7cb-c643-4a76-a188-72814e408311",
+          "key": "688f54ef-14b6-4bb6-bca6-04fbb1a844d1"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "b08e8b24-d11c-4eb6-925c-e88812ec6b59",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "ced569bc-a8de-42dd-8f96-d70187a4b9f2",
+          "key": "b08e8b24-d11c-4eb6-925c-e88812ec6b59"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "1ce860d0-643f-47ab-b43b-8f1cb458610a",
+          "label": "default_associated_with",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "4309a5f8-2f79-48d0-bb43-dc2c8405b4aa",
+          "key": "1ce860d0-643f-47ab-b43b-8f1cb458610a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "4ae36a60-3a24-4178-80f9-bf5813b88ffb",
+          "label": "provenance",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "02a1c996-4c18-4dd9-a917-2f161c5bb9aa",
+          "key": "4ae36a60-3a24-4178-80f9-bf5813b88ffb"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "17c3bdee-42af-4c9b-b40e-1ca96bf89f69",
+          "label": "ms_a_has_part_ms_b_bound",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "e406b201-28bc-4712-b9b3-c6840993f442",
+          "key": "17c3bdee-42af-4c9b-b40e-1ca96bf89f69"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "4abb66e7-2944-4834-ba41-b4567aadf901",
+          "label": "ms_a_has_part_ms_b_bound",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "407460cd-f26b-48a1-9330-3c00159c54c5",
+          "key": "4abb66e7-2944-4834-ba41-b4567aadf901"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "60b9534f-ea2c-4258-8f53-44e84f59ba18",
+          "label": "ms_a_has_part_ms_b_bound",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "72176c41-596a-4862-99a6-5f39876e1460",
+          "key": "60b9534f-ea2c-4258-8f53-44e84f59ba18"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "0ed9112e-4fdd-4b20-b584-9db408095320",
+          "label": "ms_a_has_part_ms_b_bound",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "9e06f902-0271-4aea-beb9-9e956dc15e07",
+          "target": "0b1c9eca-0425-4f60-ab13-1247d3453908",
+          "key": "0ed9112e-4fdd-4b20-b584-9db408095320"
+        }
+      }
+    ]
+  }
+}

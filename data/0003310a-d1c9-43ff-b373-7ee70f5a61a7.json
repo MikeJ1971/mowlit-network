@@ -1,0 +1,74 @@
+{
+  "data": [],
+  "directed": true,
+  "multigraph": true,
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "label": "Denbighshire (County)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/984/",
+          "id": "797d71fd-e0fe-451a-8c5b-48e4caffabf6",
+          "value": "797d71fd-e0fe-451a-8c5b-48e4caffabf6",
+          "name": "797d71fd-e0fe-451a-8c5b-48e4caffabf6"
+        }
+      },
+      {
+        "data": {
+          "label": "Gwytherin (Parish)",
+          "type": "ego",
+          "link": "https://beta.mowlit.ac.uk/public/place/1516/",
+          "id": "0003310a-d1c9-43ff-b373-7ee70f5a61a7",
+          "value": "0003310a-d1c9-43ff-b373-7ee70f5a61a7",
+          "name": "0003310a-d1c9-43ff-b373-7ee70f5a61a7"
+        }
+      },
+      {
+        "data": {
+          "label": "Isaled (Hundred)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/1030/",
+          "id": "71a34065-1b30-4ec6-a9de-126fdd05da0c",
+          "value": "71a34065-1b30-4ec6-a9de-126fdd05da0c",
+          "name": "71a34065-1b30-4ec6-a9de-126fdd05da0c"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "rel_id": "26da5819-749c-41e8-b64c-6f0e4e32abce",
+          "label": "place_a_within_place_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "0003310a-d1c9-43ff-b373-7ee70f5a61a7",
+          "target": "797d71fd-e0fe-451a-8c5b-48e4caffabf6",
+          "key": "26da5819-749c-41e8-b64c-6f0e4e32abce"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "b842b45a-6ca5-4209-82f7-0ad4a2bdd42a",
+          "label": "place_a_within_place_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "0003310a-d1c9-43ff-b373-7ee70f5a61a7",
+          "target": "71a34065-1b30-4ec6-a9de-126fdd05da0c",
+          "key": "b842b45a-6ca5-4209-82f7-0ad4a2bdd42a"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "96f542c0-dbed-4a94-b04f-85e9886a47cf",
+          "label": "place_a_within_place_b",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "71a34065-1b30-4ec6-a9de-126fdd05da0c",
+          "target": "797d71fd-e0fe-451a-8c5b-48e4caffabf6",
+          "key": "96f542c0-dbed-4a94-b04f-85e9886a47cf"
+        }
+      }
+    ]
+  }
+}

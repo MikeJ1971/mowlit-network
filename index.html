@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Mapping the March: experiments with network graphs</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
@@ -30,6 +31,7 @@
         }
 
         #mowlit-network-panel {
+            display: none;
             position: absolute;
             top: 0;
             left: 0;
@@ -37,6 +39,15 @@
             background-color: lightgrey;
             padding: 1em;
             margin-top: 1em;
+        }
+
+        .mowlit-network-panel-section {
+            margin-bottom: 0.5em;
+        }
+
+        .mowlit-panel-header {
+            font-weight: 600;
+            font-size: 1rem;
         }
 
         #mowlit-network-panel-header {
@@ -67,10 +78,15 @@
 
         #mowlit-network-layout label {
             display: block;
+            font-size: 1rem;
         }
 
         #mowlit-network-options label {
             display: block;
+        }
+
+        .mowlit-network-panel-section label:not(.mowlit-panel-header) {
+            font-size: 0.875rem;
         }
 
         #mowlit-network-types label:has(input[type="checkbox"]) {
@@ -94,11 +110,18 @@
         <option value="9ad432d4-2d5d-4330-be67-adcf4c90c3a3" selected>William Salesbury</option>
         <option value="2e6ccf0b-6e5b-4f38-80d7-9c6c75470ffe">Gruffydd Dwnn</option>
         <option value="6cefed46-0e52-47b3-af19-b43b51767a03">James Tuchet (5th Baron Audley)</option>
+        <option value="d239c54f-20b7-45b0-aa72-b0d6bf407166">John Scudamore (Sir John Scudamore II), d. >1461</option>
+        <option value="077b9ca5-b37a-43fb-8588-a951dcb180e3">X86</option>
+        <option value="1d567cc3-a891-44e6-93f8-3767aa5d3e68">Cardiff, Central Library, Cardiff 3.242i</option>
         <option value="f33e3402-d157-4c61-856e-7b54a4ced67e">NLW, Brogyntyn I.1</option>
-        <option value="81236bb4-d535-443b-8b66-72b7315c1f95">Council in the Marches of Wales</option>
+        <option value="9e06f902-0271-4aea-beb9-9e956dc15e07">NLW, Peniarth 14</option>
         <option value="09f8308a-cfbe-446c-abc8-7bddd4c83369">Clun</option>
         <option value="abd4d816-0c94-4039-9146-3ae47a8b9ecd">Buildwas Abbey (Abbey)</option>
         <option value="7ac42650-09a5-44a2-837b-345db9ecd16d">Balliol College, Oxford</option>
+        <option value="0003310a-d1c9-43ff-b373-7ee70f5a61a7">Gwytherin (Parish)</option>
+        <option value="81236bb4-d535-443b-8b66-72b7315c1f95">Council in the Marches of Wales</option>
+        <option value="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx">Non existent file (error)</option>
+        <option value="yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy">Unexpected data (error)</option>
     </select>
 </div>
 
@@ -110,9 +133,9 @@
             <div id="mowlit-network-panel-control"><a href="#">[Min.]</a></div>
         </div>
         <div id="mowlit-network-panel-content">
-            <div id="mowlit-network-layout">
-                <label for="layout-select">Choose a layout:</label>
-                <select id="layout-select">
+            <div id="mowlit-network-layout" class="mowlit-network-panel-section">
+                <div id="mowlit-network-layout-header" class="mowlit-panel-header">Choose a layout:</div>
+                <select id="layout-select" aria-labelledby="mowlit-network-layout-header">
                     <option value="cose-bilkent" selected>cose-bilkent</option>
                     <option value="cose">cose</option>
                     <option value="circle">circle</option>
@@ -122,8 +145,8 @@
                     <option value="breadthfirst">breadthfirst</option>
                 </select>
             </div>
-            <div id="mowlit-network-types">
-                <label>Filter entities:</label>
+            <div id="mowlit-network-types" class="mowlit-network-panel-section">
+                <div class="mowlit-panel-header">Filter entities:</div>
                 <label><input type="checkbox" name="entity_type" value="person"> Person</label>
                 <label><input type="checkbox" name="entity_type" value="manuscript"> Manuscript</label>
                 <label><input type="checkbox" name="entity_type" value="text"> Text</label>
@@ -131,13 +154,13 @@
                 <label><input type="checkbox" name="entity_type" value="event"> Event</label>
                 <label><input type="checkbox" name="entity_type" value="institution"> Institution</label>
             </div>
-            <div id="mowlit-network-options">
-                <label>Display options:</label>
+            <div id="mowlit-network-options" class="mowlit-network-panel-section">
+                <div class="mowlit-panel-header">Display options:</div>
                 <label><input type="checkbox" name="option" value="hide_labels"> Hide relationship labels</label>
             </div>
-            <div id="mowlit-export-options">
-                <p>Export options:</p>
-                <button id="mowlit-export-png-button">Export as PNG</button>
+            <div id="mowlit-export-options" class="mowlit-network-panel-section">
+                <div class="mowlit-panel-header">Download options:</div>
+                <button id="mowlit-export-png-button">Download as PNG</button>
             </div>
         </div>
     </div>
@@ -158,7 +181,7 @@
         integrity="sha512-rnFrZzUBxle86chqLiQQk1nFklFlQz0usG+BsgEAbcKP4WaYwOnu8X6+A3IWgndFMENFXB0+GhpaIL3fBMPx5w=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://unpkg.com/cytoscape-fcose/cytoscape-fcose.js"></script>
-<script src="js/network.js"></script>
+<script src="js/mowlit-network.js"></script>
 <script src="js/entity-choice.js"></script>
 </body>
 </html>

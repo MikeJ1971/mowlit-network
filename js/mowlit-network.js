@@ -424,6 +424,14 @@ function createGraph(graphId) {
             layout: initialLayout
         });
         activeGraphInstance = cy;
+        cy.on('tap', 'node', (event) => {
+            const node = event.target;
+            console.log('Node clicked:', node.id(), node.data());
+        });
+        cy.on('tap', 'edge', (event) => {
+            const edge = event.target;
+            console.log('Edge clicked:', edge.id(), edge.data());
+        });
         attachLayoutSelectorListener(cy, layoutSelect);
         attachEntityTypeCheckboxListeners(cy, sourceElements, () => { var _a; return (_a = layoutSelect === null || layoutSelect === void 0 ? void 0 : layoutSelect.value) !== null && _a !== void 0 ? _a : DEFAULT_LAYOUT; });
         attachWindowResizeListener(cy, () => { var _a; return (_a = layoutSelect === null || layoutSelect === void 0 ? void 0 : layoutSelect.value) !== null && _a !== void 0 ? _a : DEFAULT_LAYOUT; });

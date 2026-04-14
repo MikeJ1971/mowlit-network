@@ -1,0 +1,375 @@
+{
+  "data": [],
+  "directed": true,
+  "multigraph": true,
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "label": "NLW, NLW 3036B",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/4/",
+          "id": "13939317-27f5-455c-8511-11356e1a1129",
+          "value": "13939317-27f5-455c-8511-11356e1a1129",
+          "name": "13939317-27f5-455c-8511-11356e1a1129"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 6iv",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/124/",
+          "id": "83c61a82-df0d-4a26-9e6f-78fc7332f93f",
+          "value": "83c61a82-df0d-4a26-9e6f-78fc7332f93f",
+          "name": "83c61a82-df0d-4a26-9e6f-78fc7332f93f"
+        }
+      },
+      {
+        "data": {
+          "label": "Cwmhir Abbey (Abbey)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/434/",
+          "id": "c607685b-6489-4fff-9f99-13282c1371cf",
+          "value": "c607685b-6489-4fff-9f99-13282c1371cf",
+          "name": "c607685b-6489-4fff-9f99-13282c1371cf"
+        }
+      },
+      {
+        "data": {
+          "label": "Llantarnam Abbey (Abbey)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/510/",
+          "id": "fc890984-ee66-4e4d-8bb8-e871dbcc8fc9",
+          "value": "fc890984-ee66-4e4d-8bb8-e871dbcc8fc9",
+          "name": "fc890984-ee66-4e4d-8bb8-e871dbcc8fc9"
+        }
+      },
+      {
+        "data": {
+          "label": "BL, Cotton Cleopatra A.xiv (ii)",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/81/",
+          "id": "ebc3dfac-c7cc-4a2c-9a96-62adeaf9b96f",
+          "value": "ebc3dfac-c7cc-4a2c-9a96-62adeaf9b96f",
+          "name": "ebc3dfac-c7cc-4a2c-9a96-62adeaf9b96f"
+        }
+      },
+      {
+        "data": {
+          "label": "Bangor, Bangor University, Bangor 21108",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/123/",
+          "id": "4960096a-f661-4705-ba2c-3ee1d447f09a",
+          "value": "4960096a-f661-4705-ba2c-3ee1d447f09a",
+          "name": "4960096a-f661-4705-ba2c-3ee1d447f09a"
+        }
+      },
+      {
+        "data": {
+          "label": "NLW, Peniarth 2",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/105/",
+          "id": "1effc37e-0064-4c0a-be7c-7914287269e4",
+          "value": "1effc37e-0064-4c0a-be7c-7914287269e4",
+          "name": "1effc37e-0064-4c0a-be7c-7914287269e4"
+        }
+      },
+      {
+        "data": {
+          "label": "BL, Harley 4353",
+          "type": "manuscript",
+          "link": "https://beta.mowlit.ac.uk/public/manuscript/104/",
+          "id": "fa1b790a-da4e-4dcd-918a-37b5cbb344c3",
+          "value": "fa1b790a-da4e-4dcd-918a-37b5cbb344c3",
+          "name": "fa1b790a-da4e-4dcd-918a-37b5cbb344c3"
+        }
+      },
+      {
+        "data": {
+          "label": "X86",
+          "type": "ego",
+          "link": "https://beta.mowlit.ac.uk/public/person/374/",
+          "id": "077b9ca5-b37a-43fb-8588-a951dcb180e3",
+          "value": "077b9ca5-b37a-43fb-8588-a951dcb180e3",
+          "name": "077b9ca5-b37a-43fb-8588-a951dcb180e3"
+        }
+      },
+      {
+        "data": {
+          "label": "South East Wales (Region)",
+          "type": "place",
+          "link": "https://beta.mowlit.ac.uk/public/place/397/",
+          "id": "34ae9791-0759-4dac-a02a-2982d3c41c7e",
+          "value": "34ae9791-0759-4dac-a02a-2982d3c41c7e",
+          "name": "34ae9791-0759-4dac-a02a-2982d3c41c7e"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "rel_id": "6125b299-bcb4-42b7-a5de-8e352b4dc4cb",
+          "label": "production",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "13939317-27f5-455c-8511-11356e1a1129",
+          "target": "34ae9791-0759-4dac-a02a-2982d3c41c7e",
+          "key": "6125b299-bcb4-42b7-a5de-8e352b4dc4cb"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "0ead4a87-ad2d-45cc-8216-107094fb4789",
+          "label": "production",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "13939317-27f5-455c-8511-11356e1a1129",
+          "target": "c607685b-6489-4fff-9f99-13282c1371cf",
+          "key": "0ead4a87-ad2d-45cc-8216-107094fb4789"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "e4db8b17-c9e8-463d-b039-833265fa02c3",
+          "label": "production",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "13939317-27f5-455c-8511-11356e1a1129",
+          "target": "fc890984-ee66-4e4d-8bb8-e871dbcc8fc9",
+          "key": "e4db8b17-c9e8-463d-b039-833265fa02c3"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "026b10e6-6fdd-407e-acc1-ad7d308f1767",
+          "label": "production",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "83c61a82-df0d-4a26-9e6f-78fc7332f93f",
+          "target": "34ae9791-0759-4dac-a02a-2982d3c41c7e",
+          "key": "026b10e6-6fdd-407e-acc1-ad7d308f1767"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "058be23e-c3a3-4203-a3cf-ce2f3c602be8",
+          "label": "production",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "83c61a82-df0d-4a26-9e6f-78fc7332f93f",
+          "target": "c607685b-6489-4fff-9f99-13282c1371cf",
+          "key": "058be23e-c3a3-4203-a3cf-ce2f3c602be8"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "bb22af6d-1de9-4b6f-a661-25e7641f55d6",
+          "label": "production",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "83c61a82-df0d-4a26-9e6f-78fc7332f93f",
+          "target": "fc890984-ee66-4e4d-8bb8-e871dbcc8fc9",
+          "key": "bb22af6d-1de9-4b6f-a661-25e7641f55d6"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "b80bbf9f-916b-4562-a8b1-ba3794111fb0",
+          "label": "production",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "ebc3dfac-c7cc-4a2c-9a96-62adeaf9b96f",
+          "target": "fc890984-ee66-4e4d-8bb8-e871dbcc8fc9",
+          "key": "b80bbf9f-916b-4562-a8b1-ba3794111fb0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "1afa8485-067c-4339-8d31-2319f46f98b0",
+          "label": "production",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "ebc3dfac-c7cc-4a2c-9a96-62adeaf9b96f",
+          "target": "c607685b-6489-4fff-9f99-13282c1371cf",
+          "key": "1afa8485-067c-4339-8d31-2319f46f98b0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a6d82048-59ce-45f0-a31d-64f84c757c68",
+          "label": "production",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "4960096a-f661-4705-ba2c-3ee1d447f09a",
+          "target": "34ae9791-0759-4dac-a02a-2982d3c41c7e",
+          "key": "a6d82048-59ce-45f0-a31d-64f84c757c68"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a357d555-6435-428f-b269-4fe717104c80",
+          "label": "production",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "1effc37e-0064-4c0a-be7c-7914287269e4",
+          "target": "c607685b-6489-4fff-9f99-13282c1371cf",
+          "key": "a357d555-6435-428f-b269-4fe717104c80"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "62dc0e6c-d7ac-4d36-9bfe-985be6ae343e",
+          "label": "production",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "1effc37e-0064-4c0a-be7c-7914287269e4",
+          "target": "fc890984-ee66-4e4d-8bb8-e871dbcc8fc9",
+          "key": "62dc0e6c-d7ac-4d36-9bfe-985be6ae343e"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "a5db7e95-c2cc-428b-8cf2-1cd411d854eb",
+          "label": "production",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "1effc37e-0064-4c0a-be7c-7914287269e4",
+          "target": "34ae9791-0759-4dac-a02a-2982d3c41c7e",
+          "key": "a5db7e95-c2cc-428b-8cf2-1cd411d854eb"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "ad02c611-2da5-4c61-9b73-eb62d662f9d3",
+          "label": "production",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "fa1b790a-da4e-4dcd-918a-37b5cbb344c3",
+          "target": "fc890984-ee66-4e4d-8bb8-e871dbcc8fc9",
+          "key": "ad02c611-2da5-4c61-9b73-eb62d662f9d3"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "47c79d0e-2aaf-4230-9ba8-0b16deb2376d",
+          "label": "production",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "fa1b790a-da4e-4dcd-918a-37b5cbb344c3",
+          "target": "c607685b-6489-4fff-9f99-13282c1371cf",
+          "key": "47c79d0e-2aaf-4230-9ba8-0b16deb2376d"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "c8c04659-182c-4c99-9b3c-9739e4220db1",
+          "label": "production",
+          "weight": 0.7,
+          "inverse": false,
+          "source": "fa1b790a-da4e-4dcd-918a-37b5cbb344c3",
+          "target": "34ae9791-0759-4dac-a02a-2982d3c41c7e",
+          "key": "c8c04659-182c-4c99-9b3c-9739e4220db1"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "8c7670f8-5f6e-46a8-a44e-022190be0b52",
+          "label": "active_in",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "077b9ca5-b37a-43fb-8588-a951dcb180e3",
+          "target": "c607685b-6489-4fff-9f99-13282c1371cf",
+          "key": "8c7670f8-5f6e-46a8-a44e-022190be0b52"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "eb3960fc-e554-4997-a322-5ac95995afcb",
+          "label": "active_in",
+          "weight": 0.4,
+          "inverse": false,
+          "source": "077b9ca5-b37a-43fb-8588-a951dcb180e3",
+          "target": "fc890984-ee66-4e4d-8bb8-e871dbcc8fc9",
+          "key": "eb3960fc-e554-4997-a322-5ac95995afcb"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "037afa9b-e748-4110-b0ea-a5145794acbf",
+          "label": "active_in",
+          "weight": 0.1,
+          "inverse": false,
+          "source": "077b9ca5-b37a-43fb-8588-a951dcb180e3",
+          "target": "34ae9791-0759-4dac-a02a-2982d3c41c7e",
+          "key": "037afa9b-e748-4110-b0ea-a5145794acbf"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "7e5554c2-cfbf-4e25-b808-153937e41005_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "077b9ca5-b37a-43fb-8588-a951dcb180e3",
+          "target": "13939317-27f5-455c-8511-11356e1a1129",
+          "key": "7e5554c2-cfbf-4e25-b808-153937e41005_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "4e05c341-d3d6-4290-9158-9fd53d6f7326_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "077b9ca5-b37a-43fb-8588-a951dcb180e3",
+          "target": "83c61a82-df0d-4a26-9e6f-78fc7332f93f",
+          "key": "4e05c341-d3d6-4290-9158-9fd53d6f7326_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "4445845f-2713-40aa-855a-f7b1938e8855_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "077b9ca5-b37a-43fb-8588-a951dcb180e3",
+          "target": "4960096a-f661-4705-ba2c-3ee1d447f09a",
+          "key": "4445845f-2713-40aa-855a-f7b1938e8855_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "18f9dc61-c6fb-4228-8666-8bb56be9bf5c_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "077b9ca5-b37a-43fb-8588-a951dcb180e3",
+          "target": "ebc3dfac-c7cc-4a2c-9a96-62adeaf9b96f",
+          "key": "18f9dc61-c6fb-4228-8666-8bb56be9bf5c_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "258a4547-f283-4c0e-820b-172101a71959_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "077b9ca5-b37a-43fb-8588-a951dcb180e3",
+          "target": "1effc37e-0064-4c0a-be7c-7914287269e4",
+          "key": "258a4547-f283-4c0e-820b-172101a71959_0"
+        }
+      },
+      {
+        "data": {
+          "rel_id": "3c2061c7-560d-4013-8848-315be036d4b1_0",
+          "label": "scribe",
+          "weight": 1.0,
+          "inverse": false,
+          "source": "077b9ca5-b37a-43fb-8588-a951dcb180e3",
+          "target": "fa1b790a-da4e-4dcd-918a-37b5cbb344c3",
+          "key": "3c2061c7-560d-4013-8848-315be036d4b1_0"
+        }
+      }
+    ]
+  }
+}
